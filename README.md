@@ -1,3 +1,1 @@
-# test
-repositori proves
-hola 
+explicar com descarregar chemprop..
