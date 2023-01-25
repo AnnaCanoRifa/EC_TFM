@@ -7,6 +7,7 @@ from urllib.parse import quote
 def CIRconvert(ids):
     try:
         url = 'http://cactus.nci.nih.gov/chemical/structure/' + quote(ids) + '/smiles'
+        print(url)
         ans = urlopen(url).read().decode('utf8')
         return ans
     except:
@@ -20,7 +21,7 @@ QUERY_URL = 'http://sabiork.h-its.org/sabioRestWebServices/searchReactionPartici
 # valid output fields: "fields[]":["Name","Role","SabioCompoundID","ChebiID","PubChemID","KeggCompoundID", "InChI","Smiles"]
 
 # example
-query = {"SabioReactionID":"128", "fields[]":["Name"]}
+query = {"SabioReactionID":"*", "fields[]":["Name"]}
 
 # note that you can also retrieve the data for ALL reaction participants by performing a wildcard search
 # for this wildcard query, the output field 'SabioReactionID' is added by default

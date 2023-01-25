@@ -8,8 +8,8 @@ tar zwf data.tar.gz #descomprimir i creara la carpeta data
 # Train
 python train.py  --data_path $CHEMPROP_RES/data/tox21.csv --dataset_type classification --save_dir $CHEMPROP_RES/tox21_checkpoint
 
-#Predict
+# Predict
 chemprop_predict --test_path $CHEMPROP_RES/data/tox21.csv --checkpoint_dir  $CHEMPROP_RES/tox21_checkpoint --preds_path $CHEMPROP_RES/tox21_preds.csv
 
-#Interpret
+# Interpret
 chemprop_interpret --data_path $CHEMPROP_RES/data/tox21.csv --checkpoint_dir $CHEMPROP_RES/tox21_checkpoint/fold_0
