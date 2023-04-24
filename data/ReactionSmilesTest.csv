@@ -1,4 +1,4 @@
-,SabioID,Reaction
+,SabioReactionID,Reaction
 1,1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O>C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)OP(=O)(O)O
 2,2,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)OP(=O)(O)O>OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 3,3,OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O)>[H]C(O)(C=O)COP(O)(O)=O.OCC(=O)COP(O)(O)=O
