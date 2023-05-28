@@ -1,0 +1,1 @@
+chemprop_train --data_path /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/data/df11.csv  --dataset_type classification --save_dir /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/df1_checkpoint --reaction --reaction_mode reac_prod --explicit_h --target_columns ECNumber
