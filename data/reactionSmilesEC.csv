@@ -13,7 +13,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 10,10,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC1OC(O)C(O)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O,2.7.1.2
 10,10,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC1OC(O)C(O)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O,2.7.1.1
 11,11,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)>>C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O,5.4.2.2
-12,12,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O.OCC1OC(O)C(O)C(O)C1(O)>>[*]NC(=O)C(Cc1cncn1)NC([*])=O.C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O,2.7.1.199
 13,13,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O>>OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),5.1.3.15
 14,14,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC1OC(O)C(O)C(O)C1(O)>>O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),2.7.1.1
 15,15,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O1)).OCC1OC(O)C(O)C(O)C1(O)>>OC1OC(COP(O)(O)=O)C(O)C(O)C1(O).Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1)),2.7.1.2
@@ -117,8 +116,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 76,76,OP(O)(=O)OP(O)(O)=O.[H]O[H]>>OP(O)(O)=O,3.6.2.1
 77,77,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.4.8
 78,78,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(OP(O)(=O)OP(O)(O)=O)C3(O).[H]O[H]>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).OP(O)(=O)OP(O)(O)=O,3.1.7.2
-80,80,OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>Nc1ncnc2ncnc12.OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O,2.4.2.7
-81,81,OP(O)(=O)OP(O)(O)=O.O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O.O=C1NC=Nc2ncnc12,2.4.2.8
 82,82,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.4.4
 82,82,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.4.3
 82,82,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.4.10
@@ -151,7 +148,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 100,100,[H]C2(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)(CNC=3N=C(N)NC(=O)C=3(N2)).NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H].NC=2NC(=O)C=3N=C(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)CNC=3(N=2).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.5.1.3
 100,100,[H]C2(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)(CNC=3N=C(N)NC(=O)C=3(N2)).NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H].NC=2NC(=O)C=3N=C(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)CNC=3(N=2).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.5.1.5
 101,101,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>Nc4ncnc1c4(ncn1C2OC3COP(O)(=O)OC3(C2(O))).OP(O)(=O)OP(O)(O)=O,4.6.1.1
-102,102,C=C(OP(O)(O)=O)C(O)=O.[*]NC(=O)C(Cc1cncn1)NC([*])=O>>CC(=O)C(O)=O.[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O,2.7.3.9
 105,105,CC(=O)C(O)=O.OC(=O)[O-].Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.OC(=O)CC(=O)C(O)=O,6.4.1.1
 106,106,OC(=O)CC(=O)C(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).O=C=O.C=C(OP(O)(O)=O)C(O)=O,4.1.1.49
 106,106,OC(=O)CC(=O)C(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).O=C=O.C=C(OP(O)(O)=O)C(O)=O,4.1.1.32
@@ -174,14 +170,8 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 122,122,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O.NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O)>>[H]C2(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)(CNC=3N=C(N)NC(=O)C=3(N2)).[H]C(=O)Nc1c(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))C(N)=O,2.1.2.3
 123,123,[H]C(=O)Nc1c(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))C(N)=O>>[H]O[H].O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.5.4.10
 124,124,[H]O[H].O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>OP(O)(O)=O.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23,3.1.3.5
-125,125,OP(O)(O)=O.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23>>OCC1OC(OP(O)(O)=O)C(O)C1(O).O=C1NC=Nc2ncnc12,2.4.2.1
-125,125,OP(O)(O)=O.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23>>OCC1OC(OP(O)(O)=O)C(O)C1(O).O=C1NC=Nc2ncnc12,2.4.2.28
-127,127,NC=1NC(=O)c2ncnc2(N=1).[H]O[H]>>[H]N([H])[H].O=C1NC(=O)c2ncnc2(N1),3.5.4.3
 128,128,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O),1.1.1.205
 129,129,[H]O[H].O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)>>OP(O)(O)=O.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23,3.1.3.5
-131,131,Nc1ncnc2ncnc12.[H]O[H]>>[H]N([H])[H].O=C1NC=Nc2ncnc12,3.5.4.2
-133,133,OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))>>OCC1OC(OP(O)(O)=O)C(O)C1(O).Nc1ncnc2ncnc12,2.4.2.28
-133,133,OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))>>OCC1OC(OP(O)(O)=O)C(O)C1(O).Nc1ncnc2ncnc12,2.4.2.1
 134,134,[H]O[H].Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))>>[H]N([H])[H].OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23,3.5.4.4
 135,135,[H]O[H].Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[H]N([H])[H],3.5.4.6
 137,137,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O),2.7.7.48
@@ -243,14 +233,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 183,183,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1)c3(N=2)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O1)c3(N=2),2.7.4.6
 186,186,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)>>OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O),3.1.3.5
 186,186,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)>>OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O),3.1.3.2
-187,187,OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)>>NC=1NC(=O)c2ncnc2(N=1).OCC1OC(OP(O)(O)=O)C(O)C1(O),2.4.2.1
 191,191,[H]N([H])[H].Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OP(O)(=O)OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O),6.3.5.2
-192,192,[H]O[H].O=C1NC(=O)c2ncnc2(N1).O=O>>O=C1NC(=O)C=2NC(=O)NC=2(N1).OO,1.17.3.2
-194,194,OP(O)(=O)OP(O)(O)=O.O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)>>OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O.O=C1NC(=O)c2ncnc2(N1),2.4.2.8
-194,194,OP(O)(=O)OP(O)(O)=O.O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)>>OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O.O=C1NC(=O)c2ncnc2(N1),2.4.2.22
-195,195,OP(O)(=O)OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncnc2(N=1).OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O,2.4.2.8
-195,195,OP(O)(=O)OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncnc2(N=1).OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O,2.4.2
-196,196,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=C1NC(=O)c2ncnc2(N1)>>O=C1NC(=O)C=2NC(=O)NC=2(N1).[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.17.1.4
 197,197,[H]O[H].O=C1NC(=O)C=2NC(=O)NC=2(N1).O=O>>O=C1NC(=O)C2(O)(NC(O)=NC2(=N1)).OO,1.7.3.3
 199,199,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.4.6
 200,200,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).[H]O[H]>>OP(O)(O)=O.O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O),3.6.4.13
@@ -297,16 +280,11 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 226,226,[H]N([H])[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))>>[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.7.1.7
 228,228,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).NC(CC(O)=O)C(O)=O>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).OP(O)(O)=O.OC(=O)CC(Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)))C(O)=O,6.3.4.4
 230,230,NC(=O)NC(O)C(O)=O.[H]O[H]>>O=C=O.[H]N([H])[H].O=CC(O)=O,3.5.1.116
-233,233,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OC1OC(COP(O)(O)=O)C(O)C1(O),3.6.1.53
-233,233,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OC1OC(COP(O)(O)=O)C(O)C1(O),3.6.1.21
-233,233,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OC1OC(COP(O)(O)=O)C(O)C1(O),3.6.1.45
-233,233,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OC1OC(COP(O)(O)=O)C(O)C1(O),3.6.1.13
 236,236,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(OP(O)(=O)OP(O)(O)=O)C3(O),2.7.6.5
 237,237,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O)),2.7.1.25
 240,240,[*]C(=O)C1CSSCC([*])C(=O)N1.[H]O[H].NC=1C=CN(C(=O)N=1)C2CC(O)C(COP(O)(=O)OP(O)(O)=O)O2>>[*]C(=O)C(CS)NC(=O)C([*])CS.NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O),1.17.4.2
 241,241,OC(=O)CC(C(O)=O)C(=O)C(O)=O>>O=C=O.OC(=O)CCC(=O)C(O)=O,1.1.1.42
 242,242,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)CC(C(O)=O)C(O)C(O)=O>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)CC(C(O)=O)C(=O)C(O)=O,1.1.1.42
-243,243,Cc2ncc(C[n+]1csc(CCOP(O)(=O)OP(O)(O)=O)c1(C))c(N)n2.OC(=O)CCC(=O)C(O)=O>>O=C=O.Cc2ncc(Cn1c(C)c(CCOP(O)(=O)OP(O)(O)=O)sc1(C(O)CCC(O)=O))c(N)n2,1.2.4.2
 245,245,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H]>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.6.1
 245,245,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H]>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.1.4.1
 245,245,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H]>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.6.1.8
@@ -362,7 +340,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 284,284,CC(=O)C(O)=O.NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O1)c3(N=2)>>C=C(OP(O)(O)=O)C(O)=O.NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1)c3(N=2),2.7.1.40
 286,286,NC(=O)NC(O)C(O)=O>>O=CC(O)=O.NC(N)=O,4.3.2.3
 286,286,NC(=O)NC(O)C(O)=O>>O=CC(O)=O.NC(N)=O,3.5.3.4
-287,287,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OCC1OC(OP(O)(O)=O)C(O)C1(O),3.6.1.9
 289,289,[H]O[H].NC(N)=O>>O=C=O.[H]N([H])[H],3.5.1.5
 292,292,[H]O[H].Nc4ncnc1c4(ncn1C2OC3COP(O)(=O)OC3(C2(O)))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.1.4.35
 292,292,[H]O[H].Nc4ncnc1c4(ncn1C2OC3COP(O)(=O)OC3(C2(O)))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.1.4.17
@@ -407,8 +384,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 314,314,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1)).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1)),2.7.4.3
 314,314,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1)).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1)),2.7.4.4
 317,317,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)N(C)C(N)=Nc23))C5(O),2.1.1.228
-321,321,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)>>NC=1NC(=O)c2ncnc2(N=1).OCC1OC(O)C(O)C1(O),3.2.2.1
-323,323,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=C1NC=Nc2ncnc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1NC(=O)c2ncnc2(N1).[H],1.17.1.4
 324,324,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)>>NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(O)=O)O1)c3(N=2).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.74
 324,324,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)>>NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(O)=O)O1)c3(N=2).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.20
 324,324,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)>>NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(O)=O)O1)c3(N=2).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.113
@@ -441,7 +416,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 373,373,OO>>[H]O[H].O=O,1.11.1.6
 375,375,OC1CC(O)C(COP(O)(O)=O)O1.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>OCC1OC(O)CC1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.15
 376,376,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O.OO>>NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O)C(=O)NCC(O)=O)C(O)=O.[H]O[H],1.11.1.9
-378,378,OCC1OC(O)C(O)C(O)C1(O).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>[*]NC(=O)C(Cc1cncn1)NC([*])=O.OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),2.7.1.191
 390,390,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))>>Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).OP(O)(=O)OP(O)(O)=O,2.7.7.2
 391,391,CC(O)C(N)C(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C3OC(CO)C(OP(O)(=O)OCC2OC([*])C(O)C2(OP(O)(=O)OCC1OC([*])C(O)C1(OC(=O)C(N)C(C)O)))C3(O),6.1.1.3
 395,395,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCC(O)CO>>OCC(O)C=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.2
@@ -465,9 +439,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 406,406,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCC(O)=O)C(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>OP(O)(=O)OP(O)(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCC(O)=O)C1(O))n3cnc2c(N)ncnc23))C5(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),6.1.1.17
 406,406,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCC(O)=O)C(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>OP(O)(=O)OP(O)(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCC(O)=O)C1(O))n3cnc2c(N)ncnc23))C5(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),6.1.1.24
 407,407,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=N)NCCCC(N)C(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>OP(O)(=O)OP(O)(O)=O.[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCCNC(N)=N)C1(O))n3cnc2c(N)ncnc23))C5(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),6.1.1.19
-408,408,NC(Cc1cnc2ccccc12)C(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C7OC(CO)C(OP(O)(=O)OCC6OC([*])C(O)C6(OP(O)(=O)OCC3OC(C(OC(=O)C(N)Cc1cnc2ccccc12)C3(O))n5cnc4c(N)ncnc45))C7(O),6.1.1.2
 409,409,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(Cc1ccccc1)C(O)=O.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C4OC(CO)C(OP(O)(=O)OCC3OC([*])C(O)C3(OP(O)(=O)OCC2OC([*])C(O)C2(OC(=O)C(N)Cc1ccccc1)))C4(O),6.1.1.20
-410,410,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O).NC(Cc1cncn1)C(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C4OC(CO)C(OP(O)(=O)OCC3OC([*])C(O)C3(OP(O)(=O)OCC2OC([*])C(O)C2(OC(=O)C(N)Cc1cncn1)))C4(O),6.1.1.21
 412,412,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O).CC(C)CC(N)C(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CC(C)C)C1(O))n3cnc2c(N)ncnc23))C5(O),6.1.1.4
 413,413,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O).CCC(C)C(N)C(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)C(C)CC)C1(O))n3cnc2c(N)ncnc23))C5(O),6.1.1.5
 414,414,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCCCC(N)C(O)=O.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]OC(=O)C(N)CCCCN,6.1.1.6
@@ -661,14 +633,12 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 622,622,NC(Cc1ccc(O)cc1)C(O)=O.O=O>>NC(Cc1ccc(O)c(O)c1)C(O)=O,1.14.18.1
 623,623,CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C))C=CC=C(C)C=CC2=C(C)CCCC2(C)(C).O=O>>CC(=CC=O)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C),1.13.11.63
 626,626,OCC(O)C1OC(=O)C(O)=C1(O).O=O>>OCC(O)C1OC(=O)C(=O)C1(=O).[H]O[H],1.10.3.3
-627,627,NCC(=O)CCC(O)=O>>NCc1ncc(CCC(O)=O)c1(CC(O)=O).[H]O[H],4.2.1.24
 630,630,C[N+](C)(C)CCO.O=O>>[H]C(=O)C[N+](C)(C)C.[H]O[H],1.1.99.1
 635,635,NC(Cc1ccc(O)c(O)c1)C(O)=O.O=O>>NC(CC=1C=CC(=O)C(=O)C=1)C(O)=O.[H]O[H],1.14.18.1
 638,638,CC(O)CC(=O)OC(C)CC(O)=O.[H]O[H]>>CC(O)CC(O)=O,3.1.1.22
 638,638,CC(O)CC(=O)OC(C)CC(O)=O.[H]O[H]>>CC(O)CC(O)=O,3.1.1.75
 653,653,CC=2N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)C=2(C)>>NC=1C(=O)NC(=O)NC=1(NCC(O)C(O)C(O)CO).Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C)),2.5.1.9
 665,665,[Fe+2].[H].O=O>>[Fe+3].[H]O[H],1.16.3.1
-669,669,NCc1ncc(CCC(O)=O)c1(CC(O)=O).[H]O[H]>>OCc4nc(Cc3nc(Cc2nc(Cc1ncc(CCC(O)=O)c1(CC(O)=O))c(CCC(O)=O)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O).[H]N([H])[H],2.5.1.61
 670,670,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H]>>OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.6.1.5
 673,673,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSSCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC4OC(C(O)C4(OP(O)(O)=O))n6cnc5c(N)ncnc56.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.8.1.14
 674,674,[Fe+2].c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N>>[Fe+3].[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.5.1
@@ -678,10 +648,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 676,676,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N>>NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O)C(=O)NCC(O)=O)C(O)=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.8.1.16
 676,676,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N>>NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O)C(=O)NCC(O)=O)C(O)=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.8.1.7
 677,677,OCC(O)C1OC(=O)C(O)=C1(O).c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N>>OCC(O)C1OC(=O)C(O)=C1(O).[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.6.5.4
-683,683,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1cccnc1.Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)),3.2.2.5
-683,683,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1cccnc1.Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)),2.3.1.286
-683,683,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1cccnc1.Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)),2.4.2
-683,683,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1cccnc1.Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)),3.2.2.6
 684,684,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1ccc[n+](c1)C2OC(COP(O)(=O)[O-])C(O)C2(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.6.1.22
 684,684,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)c1ccc[n+](c1)C2OC(COP(O)(=O)[O-])C(O)C2(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.6.1.9
 685,685,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.86
@@ -711,7 +677,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 736,736,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(OP(O)(O)=O)C2(O)).[H]O[H]>>OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),3.1.3.97
 738,738,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[H]O[H]>>Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O)).NC(CCS)C(O)=O,3.3.1.1
 739,739,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[H]O[H]>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(O)ncnc23)C(O)=O.[H]N([H])[H],3.5.4.28
-740,740,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[H]O[H]>>Nc1ncnc2ncnc12.NC(CCSCC1OC(O)C(O)C1(O))C(O)=O,3.2.2.9
 741,741,[H]O[H].NCC(N)C(O)=O>>CC(=O)C(O)=O.[H]N([H])[H],4.3.1.15
 742,742,[H]O[H].C=C(OP(O)(O)=O)C(O)=O>>OP(O)(O)=O.CC(=O)C(O)=O,3.1.3.29
 742,742,[H]O[H].C=C(OP(O)(O)=O)C(O)=O>>OP(O)(O)=O.CC(=O)C(O)=O,3.1.3.1
@@ -785,7 +750,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 799,799,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O).[H]O[H]>>OCC1OC(O)C(O)C(O)C1(O),3.2.1.21
 800,800,OCC1OC(O)C(O)C(O)C1(O)>>OCC1OC(O)(CO)C(O)C1(O),5.3.1.5
 800,800,OCC1OC(O)C(O)C(O)C1(O)>>OCC1OC(O)(CO)C(O)C1(O),5.3.1.9
-802,802,[Fe+2].C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)>>C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78.[H],4.99.1.1
 808,808,CC(N)=O.[H]O[H]>>CC(O)=O.[H]N([H])[H],3.5.1.4
 810,810,CC(=O)CC(=O)C(O)=O.[H]O[H]>>CC(O)=O.CC(=O)C(O)=O,3.7.1.5
 816,816,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).OP(O)(O)=O,3.6.5.4
@@ -924,21 +888,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1050,1050,NCCCC(N)C(O)=O>>O=C=O.NCCCCN,4.1.1.19
 1050,1050,NCCCC(N)C(O)=O>>O=C=O.NCCCCN,4.1.1.17
 1051,1051,NCCCC(N)C(O)=O>>[H]N([H])[H].OC(=O)C1CCCN1,4.3.1.12
-1053,1053,[H]O[H].NC(Cc1cnc2ccccc12)C(O)=O>>[H]N([H])[H].c1ccc2nccc2(c1).CC(=O)C(O)=O,4.1.99.1
-1054,1054,NC(CO)C(O)=O.c1ccc2nccc2(c1)>>[H]O[H].NC(Cc1cnc2ccccc12)C(O)=O,4.2.1.20
-1057,1057,[H]O[H].NC(Cc1cnc2ccccc12)C(O)=O.O=O>>[H]N([H])[H].OO.OC(=O)C(=O)Cc1cnc2ccccc12,1.4.3.2
-1058,1058,NC(Cc1cnc2ccccc12)C(O)=O.O=O>>[H]C(=O)Nc1ccccc1(C(=O)CC(N)C(O)=O),1.13.11.11
-1058,1058,NC(Cc1cnc2ccccc12)C(O)=O.O=O>>[H]C(=O)Nc1ccccc1(C(=O)CC(N)C(O)=O),1.13.11.52
-1059,1059,NC(Cc1cnc2ccccc12)C(O)=O.O=O>>O=C=O.[H]O[H].NC(=O)Cc1cnc2ccccc12,1.13.12.3
-1060,1060,NC(Cc1cnc2ccccc12)C(O)=O.O=O>>NC(CC(=O)c1ccccc1(NC=O))C(O)=O,1.13.11.52
-1060,1060,NC(Cc1cnc2ccccc12)C(O)=O.O=O>>NC(CC(=O)c1ccccc1(NC=O))C(O)=O,1.13.11.11
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.57
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.42
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.5
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.1
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.27
-1064,1064,NC(Cc1cnc2ccccc12)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.9
-1065,1065,NC(Cc1cnc2ccccc12)C(O)=O>>O=C=O.NCCc1cnc2ccccc12,4.1.1.28
 1068,1068,[H]O[H].NC(Cc1ccccc1)C(O)=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]N([H])[H].OC(=O)C(=O)Cc1ccccc1.[H],1.4.1.20
 1069,1069,O=O.[H]O[H].NC(Cc1ccccc1)C(O)=O>>[H]N([H])[H].OC(=O)C(=O)Cc1ccccc1.OO,1.4.3.2
 1070,1070,O=O.NC(Cc1ccccc1)C(O)=O>>O=C=O.[H]O[H].NC(=O)Cc1ccccc1,1.13.12.3
@@ -1117,8 +1066,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1303,1303,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC(=O)CO>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC(=O)COP(O)(O)=O,2.7.1.209
 1303,1303,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC(=O)CO>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC(=O)COP(O)(O)=O,2.7.1.29
 1304,1304,C=C(OP(O)(O)=O)C(O)=O.OCC(=O)CO>>OCC(=O)COP(O)(O)=O.CC(=O)C(O)=O,2.7.1.121
-1308,1308,CC=O.[H]O[H].OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O.CC(O)=O,1.1.2.8
-1308,1308,CC=O.[H]O[H].OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O.CC(O)=O,1.1.99
 1310,1310,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C[N+](C)(C)CCO>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C[N+](C)(C)CCOP(O)(O)=O,2.7.1.32
 1311,1311,C[N+](C)(C)CCO.O=O>>[H]C(=O)C[N+](C)(C)C.OO,1.1.3.17
 1312,1312,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.C[N+](C)(C)CCO>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)OCC[N+](C)(C)C,2.3.1.6
@@ -1181,9 +1128,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1380,1380,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(O)(CCOP(O)(=O)OP(O)(O)=O)CC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).O=C=O.OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O,4.1.1.33
 1382,1382,CC(=C)CCOP(O)(=O)OP(O)(O)=O>>CC(C)=CCOP(O)(=O)OP(O)(O)=O,5.3.3.2
 1383,1383,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C.O=O>>CO.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H],1.14.13.25
-1387,1387,CO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O.[H]C([H])=O,1.1.2.8
-1387,1387,CO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O.[H]C([H])=O,1.1.99
-1387,1387,CO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O.[H]C([H])=O,1.1.2.7
 1388,1388,CC(=O)C(O)=O.Cc1ncc(COP(O)(O)=O)c(CN)c1(O)>>Cc1ncc(COP(O)(O)=O)c(C=O)c1(O).CC(N)C(O)=O,2.6.1.54
 1388,1388,CC(=O)C(O)=O.Cc1ncc(COP(O)(O)=O)c(CN)c1(O)>>Cc1ncc(COP(O)(O)=O)c(C=O)c1(O).CC(N)C(O)=O,2.6.1.30
 1389,1389,CC(N)C(O)=O.OC(=O)CCC(=O)C(O)=O>>CC(=O)C(O)=O.NC(CCC(O)=O)C(O)=O,2.6.1.21
@@ -1193,12 +1137,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1392,1392,[H]O[H].NCCCCN.O=O>>[H]N([H])[H].OO.[H]C(=O)CCCN,1.4.3.22
 1393,1393,[H]O[H].NCCCCNC(N)=O>>O=C=O.[H]N([H])[H].NCCCCN,3.5.1.53
 1394,1394,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NCCCCN>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CNCCCCN,2.1.1.53
-1398,1398,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].NC(CO)Cc1cncn1>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).NC(Cc1cncn1)C(O)=O,1.1.1.23
-1403,1403,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCC(O)=O.NC(Cc1cncn1)C(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OP(O)(=O)OP(O)(O)=O.NCCC(=O)NC(Cc1cncn1)C(O)=O,6.3.2.11
-1404,1404,[H]O[H].NCCC(=O)NC(Cc1cncn1)C(O)=O>>NCCC(O)=O.NC(Cc1cncn1)C(O)=O,3.4.13.20
-1404,1404,[H]O[H].NCCC(=O)NC(Cc1cncn1)C(O)=O>>NCCC(O)=O.NC(Cc1cncn1)C(O)=O,3.4.13.18
-1405,1405,NC(Cc1cncn1)C(O)=O>>O=C=O.NCCc1cncn1,4.1.1.22
-1406,1406,NC(Cc1cncn1)C(O)=O>>[H]N([H])[H].OC(=O)C=Cc1cncn1,4.3.1.3
 1408,1408,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,1.3.1.9
 1408,1408,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,1.3.1.44
 1409,1409,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C(=O)CCC>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.1.57
@@ -1322,9 +1260,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1590,1590,NC(=O)OP(O)(O)=O.NCCCCC(N)C(O)=O>>OP(O)(O)=O.NC(=O)NCCCCC(N)C(O)=O,2.1.3.3
 1591,1591,NC(=O)OP(O)(O)=O.NCCCCN>>OP(O)(O)=O.NCCCCNC(N)=O,2.1.3.6
 1591,1591,NC(=O)OP(O)(O)=O.NCCCCN>>OP(O)(O)=O.NCCCCNC(N)=O,2.1.3.3
-1593,1593,[H]O[H].CSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23>>CSCC1OC(O)C(O)C1(O).Nc1ncnc2ncnc12,3.2.2.16
-1593,1593,[H]O[H].CSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23>>CSCC1OC(O)C(O)C1(O).Nc1ncnc2ncnc12,3.2.2.9
-1594,1594,OP(O)(O)=O.CSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23>>CSCC1OC(OP(O)(O)=O)C(O)C1(O).Nc1ncnc2ncnc12,2.4.2.28
 1603,1603,[H]O[H].NCCCCNC(N)=N>>[H]N([H])[H].NCCCCNC(N)=O,3.5.3.12
 1606,1606,[H]O[H].c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.O=Cc1ccccc1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)c1ccccc1.[H],1.2.1.48
 1606,1606,[H]O[H].c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.O=Cc1ccccc1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)c1ccccc1.[H],1.2.1.69
@@ -1400,7 +1335,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1709,1709,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)=O.[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)O,1.1.1.184
 1709,1709,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)=O.[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)O,1.1.1.2
 1709,1709,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)=O.[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)O,1.1.1.1
-1710,1710,CC(C)(O)C#N>>CC(C)=O.(C-)#N,4.1.2.47
 1717,1717,[H]O[H].CN(C)CC(O)=O.O=O>>CNCC(O)=O.OO.[H]C([H])=O,1.5.3.10
 1723,1723,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC1COC(O)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]C(=O)C(O)C(O)C(O)COP(O)(O)=O,2.7.1.1
 1723,1723,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC1COC(O)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]C(=O)C(O)C(O)C(O)COP(O)(O)=O,2.7.1.15
@@ -1437,7 +1371,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1788,1788,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)CC(=O)C(O)=O>>O=C=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.4.4 2.3.1.168 1.8.1.4
 1788,1788,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)CC(=O)C(O)=O>>O=C=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.4.4
 1788,1788,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)CC(=O)C(O)=O>>O=C=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.4.1 2.3.1.12 1.8.1.4
-1792,1792,NC(Cc1cnc2ccccc12)C(O)=O.CC(C)=CCOP(O)(=O)OP(O)(O)=O>>CC(=CCC1=C2C(=CC=C1)NC=C2C[C@@H](C(=O)O)N)C.OP(O)(=O)OP(O)(O)=O,2.5.1.34
 1793,1793,CC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.OP(O)(=O)OP(O)(O)=O,2.5.1.10
 1793,1793,CC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.OP(O)(=O)OP(O)(O)=O,2.5.1.1
 1793,1793,CC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.OP(O)(=O)OP(O)(O)=O,2.5.1.29
@@ -1453,7 +1386,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1816,1816,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].[H]C(=O)CCCCCCCCCCCCCCC>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCCCCCCCCCCCC(O)=O,1.2.1.48
 1819,1819,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Cc1ncc(CO)c(C=O)c1(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc2ncc1COC(=O)c1c2(O).[H],1.1.1.107
 1820,1820,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc1ncc(CO)c(CO)c1(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc1ncc(CO)c(C=O)c1(O).[H],1.1.1.65
-1821,1821,[H]O[H].Cc1ncc(CO)c(C=O)c1(O).O=O>>Cc1ncc(CO)c(C(O)=O)c1(O).O=[O-],1.2.3.1
 1824,1824,CC(=O)C(O)=O.Cc1ncc(CO)c(CN)c1(O)>>CC(N)C(O)=O.Cc1ncc(CO)c(C=O)c1(O),2.6.1.30
 1825,1825,OC(=O)CC(=O)C(O)=O.Cc1ncc(CO)c(CN)c1(O)>>Cc1ncc(CO)c(C=O)c1(O).NC(CC(O)=O)C(O)=O,2.6.1.31
 1826,1826,C=C(OC1CC(=CC(OP(O)(O)=O)C1(O))C(O)=O)C(O)=O>>OP(O)(O)=O.C=C(OC1C=C(C=CC1(O))C(O)=O)C(O)=O,4.2.3.5
@@ -1492,9 +1424,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1863,1863,OC(=O)C(=O)c1ccccc1>>O=C=O.O=Cc1ccccc1,4.1.1.74
 1863,1863,OC(=O)C(=O)c1ccccc1>>O=C=O.O=Cc1ccccc1,4.1.1.7
 1864,1864,NC(C(O)=O)C(O)c1ccccc1>>NCC(O)=O.O=Cc1ccccc1,2.1.2.1
-1865,1865,N#CC(O)c1ccccc1>>(C-)#N.O=Cc1ccccc1,4.1.2.47
-1865,1865,N#CC(O)c1ccccc1>>(C-)#N.O=Cc1ccccc1,4.1.2.11
-1865,1865,N#CC(O)c1ccccc1>>(C-)#N.O=Cc1ccccc1,4.1.2.10
 1866,1866,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCO)C(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCOP(O)(O)=O)C(O)=O,2.7.1.39
 1868,1868,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).NC(CCO)C(O)=O>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).NC(CC=O)C(O)=O,1.1.1.3
 1869,1869,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NC(CCO)C(O)=O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)OCCC(N)C(O)=O,2.3.1.31
@@ -1514,7 +1443,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1890,1890,OP(O)(O)=O.CC(=O)NC1C(O)CC(O)(OC1(C(O)C(O)CO))C(O)=O>>C=C(OP(O)(O)=O)C(O)=O.[H]O[H].CC(=O)NC1C(O)OC(CO)C(O)C1(O),2.5.1.56
 1891,1891,[H]O[H].CC(=O)NC1C(O)CC(O)(OC1(C(O)C(O)COP(O)(O)=O))C(O)=O>>OP(O)(O)=O.CC(=O)NC1C(O)CC(O)(OC1(C(O)C(O)CO))C(O)=O,3.1.3.29
 1898,1898,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(O)C(O)C1CNC=2N=C(N)NC(=O)C=2(N1)>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(O)C(O)c1cnc2N=C(N)NC(=O)c2(n1),1.5.1.33
-1900,1900,NC(Cc1cnc2ccccc12)C(O)=O.CC(O)C(O)C1CNC=2N=C(N)NC(=O)C=2(N1).O=O>>[H]O[H].NC(Cc1cnc2ccc(O)cc12)C(O)=O.CC(O)C(O)C1CNC2=NC(N)=NC(=O)C2(=N1),1.14.16.4
 1901,1901,NC(Cc1ccc(O)cc1)C(O)=O.CC(O)C(O)C1CNC=2N=C(N)NC(=O)C=2(N1).O=O>>[H]O[H].NC(Cc1ccc(O)c(O)c1)C(O)=O.CC(O)C(O)C1CNC2=NC(N)=NC(=O)C2(=N1),1.14.16.2
 1904,1904,Nc4ncnc1c4(ncn1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C(O)C2(O))C(O)C3(O)).[*]OC1OC(CO)C(O)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]OC1OC(CO)C(O)C(O)C1(O),2.4.1.21
 1905,1905,OP(O)(O)=O.[*]OC1OC(CO)C(O)C(O)C1(O)>>OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O).[*]OC1OC(CO)C(O)C(O)C1(O),2.4.1.1
@@ -1538,7 +1466,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 1926,1926,[H]O[H].CS.O=O>>OO.[H]S[H].[H]C([H])=O,1.8.3.4
 1929,1929,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.OC(=O)[O-]>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.CC(C(O)=O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,6.4.1.3
 1929,1929,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.OC(=O)[O-]>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.CC(C(O)=O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,6.4.1.2
-1933,1933,OP(O)(O)=O.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23>>OCC1OC(OP(O)(O)=O)C(O)C1(O).O=C1NC=Nc2ncnc12,2.4.2.1
 1936,1936,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OC(=O)C1(O)(CC(O)C(O)C(O)C1)>>[H].OC(=O)C1(O)(CC(O)C(O)C(=O)C1).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.282
 1941,1941,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CN(CC(O)=O)C(N)=N>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CN(CC(O)=O)C(=N)NP(O)(O)=O,2.7.3.2
 1943,1943,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NC(=N)NCC(O)=O>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CN(CC(O)=O)C(N)=N,2.1.1.2
@@ -1584,7 +1511,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2008,2008,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.8
 2008,2008,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.2
 2008,2008,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.1
-2017,2017,OC(=O)C(=O)Cc1cnc2ccccc12>>O=C=O.O=CCc1cnc2ccccc12,4.1.1.74
 2018,2018,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.1.1.178
 2018,2018,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.1.1.35
 2019,2019,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.1.1.35
@@ -1593,8 +1519,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2024,2024,[H]O[H].OC(=O)C3OC(OC1C(O)C(O)C(OC1(C(O)=O))OC2C(O)C(O)C(O)OC2(C(O)=O))C(O)C(O)C3(O)>>OC(=O)C1OC(O)C(O)C(O)C1(O).OC(=O)C3OC(OC1C(O)C(O)C(OC1(C(O)=O))OC2C(O)C(O)C(O)OC2(C(O)=O))C(O)C(O)C3(O),3.2.1.15
 2027,2027,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]O[H].[H]C(=O)CCCN>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).NCCCC(O)=O.[H],1.2.1.19
 2030,2030,[H]O[H].NC(=N)NCCCC(O)=O>>NCCCC(O)=O.NC(N)=O,3.5.3.7
-2031,2031,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCCC(O)=O.NC(Cc1cncn1)C(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OP(O)(=O)OP(O)(O)=O.NCCCC(=O)NC(Cc1cncn1)C(O)=O,6.3.2.11
-2032,2032,[H]O[H].NCCCC(=O)NC(Cc1cncn1)C(O)=O>>NCCCC(O)=O.NC(Cc1cncn1)C(O)=O,3.4.13.20
 2041,2041,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.29
 2041,2041,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.1
 2041,2041,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.10
@@ -1637,18 +1561,10 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2113,2113,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].CC(=CC=O)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C)>>CC(=CC=CC(C)=CC(O)=O)C=CC1=C(C)CCCC1(C)(C).[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.2.1.36
 2114,2114,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(=CCO)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C)>>CC(=CC=O)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C).[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.1
 2114,2114,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(=CCO)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C)>>CC(=CC=O)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C).[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.105
-2129,2129,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NCCC(=O)NC(Cc1cncn1)C(O)=O>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.Cn1cncc1(CC(NC(=O)CCN)C(O)=O),2.1.1.22
-2130,2130,O=O.[H]O[H].NCCc1cncn1>>[H]N([H])[H].O=CCc1cncn1.OO,1.4.3.22
-2134,2134,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NCCc1cncn1>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.Cn1cnc(CCN)c1,2.1.1.8
 2135,2135,O=O.Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3>>[C-]#[O+].Oc1cc(O)c(C(O)=O)c(c1)OC(=O)c2ccc(O)c(O)c2,1.13.11.24
 2136,2136,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COC=2C(=O)c3c(O)cc(O)cc3(OC=2(c1ccc(O)c(O)c1)),2.1.1.76
 2138,2138,Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(OP(O)(O)=O)C2(O)).Oc1cc(O)c2C(=O)C(OS(O)(=O)=O)=C(Oc2(c1))c3ccc(O)c(O)c3,2.8.2.25
 2139,2139,O=O.OC(=O)CCC(=O)C(O)=O.Oc1cc(O)c2C(=O)C(O)C(Oc2(c1))c3ccc(O)c(O)c3>>O=C=O.[H]O[H].Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3.OC(=O)CCC(O)=O,1.14.20.6
-2147,2147,O=O.[H]O[H].NCCc1cnc2ccccc12>>[H]N([H])[H].O=CCc1cnc2ccccc12.OO,1.4.3.4
-2147,2147,O=O.[H]O[H].NCCc1cnc2ccccc12>>[H]N([H])[H].O=CCc1cnc2ccccc12.OO,1.4.3.21
-2147,2147,O=O.[H]O[H].NCCc1cnc2ccccc12>>[H]N([H])[H].O=CCc1cnc2ccccc12.OO,1.4.3.5
-2147,2147,O=O.[H]O[H].NCCc1cnc2ccccc12>>[H]N([H])[H].O=CCc1cnc2ccccc12.OO,1.5.3.17
-2148,2148,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NCCc1cnc2ccccc12>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.Cn2cc(CCN)c1ccccc12,2.1.1.49
 2150,2150,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)C1CCC(C)CC1(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C1(C)(CCC([H])(C(C)C)C(=O)C1).[H],1.1.1
 2153,2153,[*]OC2OC(CO)C(O)C(OC1OC(C(O)=O)C([*])C(O)C1(O))C2(NC(C)=O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(OP(O)(O)=O)C2(O)).[*]OC2OC(CO)C(OS(O)(=O)=O)C(OC1OC(C(O)=O)C([*])C(O)C1(O))C2(NC(C)=O),2.8.2.5
 2158,2158,OP(O)(=O)OP(O)(=O)OP(O)(O)=O.OCC1OC(O)C(O)C(O)C1(O)>>OC1OC(COP(O)(O)=O)C(O)C(O)C1(O).OP(O)(=O)OP(O)(=O)OP(O)(O)=O,2.7.1.63
@@ -1750,11 +1666,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2325,2325,COc1cc(C=CC(=O)OCC[N+](C)(C)C)cc(OC)c1(O).[H]O[H]>>C[N+](C)(C)CCO.COc1cc(C=CC(O)=O)cc(OC)c1(O),3.1.1.49
 2326,2326,O=O.NCCc1ccc(O)cc1.[H]O[H]>>[H]N([H])[H].O=CCc1ccc(O)cc1.OO,1.4.3.21
 2326,2326,O=O.NCCc1ccc(O)cc1.[H]O[H]>>[H]N([H])[H].O=CCc1ccc(O)cc1.OO,1.4.3.4
-2332,2332,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O).C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).C=CC=6C(=O)NC(=Cc5nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(=O)OC4OC(C(O)=O)C(O)C(O)C4(O))c5(C))C=6(C),2.4.1.17
-2333,2333,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C).[H],1.3.1.24
-2334,2334,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C).NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C).[H],1.3.1.24
-2335,2335,O=O.C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)>>C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C).[H]O[H],1.10.3.2
-2335,2335,O=O.C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)>>C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C).[H]O[H],1.3.3.5
 2337,2337,O=O.OC(=O)CCC(=O)C(O)=O.C[N+](C)(C)CCCC(O)=O>>O=C=O.OC(=O)CCC(O)=O.C[N+](C)(C)CC(O)CC(O)=O,1.14.11.1
 2340,2340,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C(=O)CCCC(O)=O.[H]O[H]>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)CCCC(O)=O.[H],1.2.1.88
 2346,2346,NC(CSSCC(N)C(O)=O)C(O)=O.[H]O[H]>>[H]N([H])[H].NC(CSS)C(O)=O.CC(=O)C(O)=O,4.4.1.1
@@ -1870,21 +1781,11 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2560,2560,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC(OP(O)(O)=O)C(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC(=O)C(COP(O)(O)=O)OP(O)(O)=O,2.7.2
 2561,2561,O=O.Nc1c(O)cccc1(C(O)=O)>>[H]C(=O)C=CC(C(O)=O)=C(N)C(O)=O,1.13.11.6
 2564,2564,[H]O[H].NC(CC(=O)c1cccc(O)c1(N))C(O)=O>>CC(N)C(O)=O.Nc1c(O)cccc1(C(O)=O),3.7.1.3
-2571,2571,N#CC(O)c1ccc(O)cc1>>(C-)#N.O=Cc1ccc(O)cc1,4.1.2.47
-2573,2573,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=CCc1cnc2ccccc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)Cc1cnc2ccccc12,1.2.1.3
-2573,2573,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=CCc1cnc2ccccc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)Cc1cnc2ccccc12,1.2.1.5
-2574,2574,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCCc1cnc2ccccc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=CCc1cnc2ccccc12.[H],1.1.1.1
-2575,2575,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCCc1cnc2ccccc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=CCc1cnc2ccccc12.[H],1.1.1.2
-2575,2575,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCCc1cnc2ccccc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=CCc1cnc2ccccc12.[H],1.1.1.21
-2576,2576,[H]O[H].O=O.O=CCc1cnc2ccccc12>>OC(=O)Cc1cnc2ccccc12.OO,1.2.3.7
 2579,2579,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCC(O)C=CC1C(O)CC(O)C1(CC=CCCCC(O)=O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCC(O)C=CC1C(=O)CC(O)C1(CC=CCCCC(O)=O).[H],1.1.1.188
-2594,2594,NC(Cc1cnc2ccc(O)cc12)C(O)=O>>O=C=O.NCCc1cnc2ccc(O)cc12,4.1.1.28
-2595,2595,O=O.NC(Cc1cnc2ccc(O)cc12)C(O)=O>>NC(CC(=O)c1cc(O)ccc1(NC=O))C(O)=O,1.13.11.52
 2597,2597,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.60
 2597,2597,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.2
 2597,2597,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(O)OC(COP(O)(O)=O)C(O)C1(O),2.7.1.59
 2599,2599,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).CC(=O)NC1C(O)OC(CO)C(O)C1(O)>>[H]O[H].CC(=O)NC3C(O)C(O)C(CO)OC3(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O)),5.1.3.14
-2612,2612,NC(CO)C(O)=O.OC(COP(O)(O)=O)C(O)c2cnc1ccccc12>>NC(Cc1cnc2ccccc12)C(O)=O.[H]O[H].[H]C(=O)C(O)COP(O)(O)=O,4.2.1.20
 2618,2618,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)>>OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),5.4.2.6
 2618,2618,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)>>OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),5.4.2.10
 2621,2621,[H]O[H].NC(CCCC(NC(=O)CCC(O)=O)C(O)=O)C(O)=O>>OC(=O)CCC(O)=O.NC(CCCC(N)C(O)=O)C(O)=O,3.5.1.18
@@ -1932,10 +1833,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2756,2756,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCC(O)C(O)C(O)C(O)CO>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCC1(O)(OCC(O)C(O)C1(O)).[H],1.1.1.14
 2761,2761,[H]O[H].Oc1ccc(cc1)CCC(=O)c2c(O)cc(O)cc2(O)>>Oc1cc(O)cc(O)c1.OC(=O)CCc1ccc(O)cc1,3.7.1.4
 2762,2762,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O).CC(=CC=CC(C)=CC(O)=O)C=CC1=C(C)CCCC1(C)(C)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).CC(=CC=CC(C)=CC(=O)OC1OC(C(O)=O)C(O)C(O)C1(O))C=CC2=C(C)CCCC2(C)(C),2.4.1.17
-2768,2768,[H]O[H].O=O.NCCc1cnc2ccc(O)cc12>>[H]N([H])[H].OO.O=CCc1cnc2ccc(O)cc12,1.4.3.4
-2769,2769,O=O.NCCc1cnc2ccc(O)cc12>>NCCC(=O)c1cc(O)ccc1(NC=O),1.13.11.52
-2770,2770,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NCCc1cnc2ccc(O)cc12>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.Cn2cc(CCN)c1cc(O)ccc12,2.1.1.49
-2771,2771,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NCCc1cnc2ccc(O)cc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)NCCc1cnc2ccc(O)cc12,2.3.1.87
 2773,2773,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN2C1CCC2(CC(O)C1)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN2C1CCC2(CC(=O)C1).[H],1.1.1.236
 2779,2779,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.CNCC(O)c1ccc(O)c(O)c1>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CNCC(O)c1ccc(O)c(c1)OC,2.1.1.6
 2780,2780,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).OCC(O)C(O)C(O)COP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OCC(O)C(O)C(O)CO)C(O)C2(O),2.7.7.40
@@ -1960,7 +1857,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2857,2857,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC(=O)c1ccc[n+](c1)C2OC(COP(O)(O)=O)C(O)C2(O)>>OP(O)(=O)OP(O)(O)=O.Nc5ncnc1c5(ncn1C4OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))[n+]3cccc(c3)C(O)=O)C(O)C4(O)),2.7.7.18
 2858,2858,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.COc1ccc(cc1)C2=COc3cc(O)ccc3(C2(=O)).[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).COc1ccc(cc1(O))C2=COc3cc(O)ccc3(C2(=O)).[H]O[H],1.14.14.88
 2859,2859,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.COc1ccc(cc1)C2=COc3cc(O)ccc3(C2(=O)).[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).COc1ccc(c(O)c1)C2=COc3cc(O)ccc3(C2(=O)).[H]O[H],1.14.14.90
-2863,2863,[H]O[H].NC(COP(O)(O)=O)Cc1cncn1>>OP(O)(O)=O.NC(CO)Cc1cncn1,3.1.3.15
 2864,2864,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(O)C(O)C(O)C(=O)CO>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(O)C(O)C(O)C(=O)COP(O)(O)=O,2.7.1.5
 2868,2868,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(C)(CO)C(O)C(=O)NCCC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(C)(COP(O)(O)=O)C(O)C(=O)NCCC(O)=O,2.7.1.33
 2874,2874,[H]O[H].O=[N+]([O-])c1ccc(cc1)OP(O)(O)=O>>OP(O)(O)=O.Oc1ccc(cc1)[N+](=O)[O-],5.4.2.6
@@ -2007,17 +1903,13 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 2924,2924,OC(=O)C1(O)(CC(O)C(O)C(=O)C1)>>[H]O[H].OC(=O)C=1CC(O)C(O)C(=O)C=1,4.2.1.10
 2930,2930,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=O.[H]C23(CCC4(C)(C(O)CCC4([H])(C3([H])(CCc1cc(O)ccc12))))>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(CCC4(C)(C(O)CCC4([H])(C3([H])(CCc1cc(O)c(O)cc12)))),1.14.14.1
 2931,2931,[H]C23(CCC4(C)(C(O)CCC4([H])(C3([H])(CCc1cc(O)ccc12)))).O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).[H]C24(CCC5(C)(C(O)CCC5([H])(C4([H])(CCc1cc(ccc12)OC3OC(C(O)=O)C(O)C(O)C3(O))))),2.4.1.17
-2934,2934,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).OC(=O)Cc1cnc2ccccc12>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).CC(=O)c2cn(OC1OC(CO)C(O)C(O)C1(O))c3ccccc23,2.4.1.121
 2938,2938,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCCC(O)=O)C(O)=O>>OP(O)(=O)OP(O)(O)=O.NC(CCCC(=O)OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O,1.2.1.95
 2941,2941,[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C(CC=O)C[C@@H](C(=O)O)N>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].NC(CCCC(O)=O)C(O)=O,1.2.1.31
-2944,2944,(C-)#N.OC(=O)C(=O)CS>>N#CS.CC(=O)C(O)=O,2.8.1.2
 2951,2951,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=C)C1CC=C(C)C(O)C1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=C)C1CC=C(C)C(=O)C1.[H],1.1.1
 2955,2955,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCCCO>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C(=O)CCO,1.1.1.202
-2965,2965,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.CC(=O)NCCc1cnc2ccc(O)cc12>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1ccc2ncc(CCNC(C)=O)c2(c1),2.1.1.4
 2967,2967,CC(=O)OCC(N)C(O)=O.OS(=O)(=O)[S-]>>CC(O)=O.NC(CSS(O)(=O)=O)C(O)=O,2.5.1.47
 2990,2990,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.OCCC(O)=O>>[H]O[H].CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CCO,3.1.2.4
 2993,2993,CC1OC(O)C(O)C(O)C1(O)>>CC1OC(O)C(O)C(O)C1(O),5.3.1.4
-2995,2995,OCc4nc(Cc3nc(Cc2nc(Cc1ncc(CCC(O)=O)c1(CC(O)=O))c(CCC(O)=O)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O)>>[H]O[H].OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CC(O)=O)c5(CCC(O)=O),4.2.1.75
 3001,3001,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(C)C(=O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C=O.CCC(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.4.4 2.3.1.168
 3001,3001,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(C)C(=O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C=O.CCC(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H],1.2.4.4 2.3.1.168 1.8.1.4
 3002,3002,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CCC(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC=C(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.3.99.12
@@ -2030,18 +1922,15 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3012,3012,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C1(OC(=O)C(O)C1(O))(C(O)CO)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC1OC2C(O)C(=O)OC2(C1(O)).[H],1.1.1.2
 3021,3021,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(=O)NC1C(OC(CO)C(O)C1(OC(=C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O),1.3.1.98
 3022,3022,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(N)C(O)=O.CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O)>>OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(=O)NC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O),6.3.2.8
-3023,3023,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CC(O)=O)c5(CCC(O)=O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CC2(CC(O)=O)(C1=Cc5nc(Cc4nc(C=C3N=C(C=C(N1)C2(CCC(O)=O))C(C)(CC(O)=O)C3(CCC(O)=O))c(CC(O)=O)c4(CCC(O)=O))c(CCC(O)=O)c5(CC(O)=O)),2.1.1.107
 3027,3027,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC1OC1(C)(C)>>[H]C(C)(CCC=C(C)C)C1([H])(CCC2(C)(C=3CCC4([H])(C(C)(C)C(O)CCC4(C)(C=3(CCC12(C)))))),5.4.99.7
 3037,3037,CC(N)C(O)=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CCCCCC(O)=O>>O=C=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(N)C(=O)CCCCCC(O)=O,2.3.1.47
 3040,3040,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).ON=C(Cc1ccccc1)S>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).OCC1OC(C(O)C(O)C1(O))SC(Cc2ccccc2)=NO,2.4.1.195
-3048,3048,O=O.C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)>>[H]O[H].C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C),1.3.3.4
 3049,3049,Cc1ncc(COP(O)(=O)OP(O)(O)=O)c(N)n1.Cc1ncsc1(CCOP(O)(O)=O)>>OP(O)(=O)OP(O)(O)=O.Cc2ncc(C[n+]1csc(CCOP(O)(O)=O)c1(C))c(N)n2,2.5.1.3
 3051,3051,OC(=O)CCC(=O)C(O)=O.CC(O)CC(O)=O>>CC(=O)CC(O)=O.OC(=O)CCC(O)C(O)=O,1.1.99.24
 3056,3056,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.[H]C35(N2CC=CC5(CC)(C(O)C(O)(C(=O)OC)C4([H])(N(C)c1cc(ccc1C34(CC2))OC)))>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.[H]C35(N2CC=CC5(CC)(C(OC(C)=O)C(O)(C(=O)OC)C4([H])(N(C)c1cc(ccc1C34(CC2))OC))),2.3.1.107
 3057,3057,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.CC(N)C(=O)CCCCCC(O)=O>>CC(N)C(N)CCCCCC(O)=O.C[S+](CCC(=O)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23,2.6.1.62
 3059,3059,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC1(O)(OC(COP(O)(O)=O)C(O)C1(O))>>OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.11
 3059,3059,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OCC1(O)(OC(COP(O)(O)=O)C(O)C1(O))>>OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.144
-3064,3064,OC(=O)CCC(=O)C(O)=O.NC(COP(O)(O)=O)Cc1cncn1>>NC(CCC(O)=O)C(O)=O.O=C(COP(O)(O)=O)Cc1cncn1,2.6.1.9
 3066,3066,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(O)(CCOP(O)(O)=O)CC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(O)(CCOP(O)(=O)OP(O)(O)=O)CC(O)=O,2.7.4.2
 3067,3067,O=O.Oc1cccc(O)c1(O)>>OC(=O)C=CCC(=O)C(O)=O,1.13.11.35
 3075,3075,OP(O)(O)=O.[H]C1(OC(O)(CC(O)C1(O))C(O)=O)(C(O)COP(O)(O)=O)>>[H]O[H].C=C(OP(O)(O)=O)C(O)=O.[H]C(=O)C(O)C(O)C(O)COP(O)(O)=O,2.5.1.55
@@ -2121,8 +2010,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3292,3292,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc1nc(O)c2N=C(CO)CNc2(n1)>>Nc1nc(O)c2N=C(CNc2(n1))COP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),2.7.6.3
 3293,3293,NC=1NC(=O)C=2N=C(CNC=2(N=1))C(O)C(O)CO>>OCC=O.Nc1nc(O)c2N=C(CO)CNc2(n1),4.1.2.25
 3295,3295,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C12(CC(O)CCC1(C)C3([H])(CC(O)C4(C)(C([H])(CCC4([H])(C3([H])(C(O)C2)))C(C)CCCC(C)CO)))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C(=O)C(C)CCCC([H])(C)C2([H])(CCC3([H])(C4([H])(C(O)CC1([H])(CC(O)CCC1(C)C4([H])(CC(O)C23(C)))))),1.1.1.1
-3296,3296,O[C@H](COP([O-])([O-])=O)[C@@H](O)C(=O)CNc1ccccc1C([O-])=O>>O=C=O.[H]O[H].OC(COP(O)(O)=O)C(O)c2cnc1ccccc12,4.1.1.48
-3312,3312,NC(CS)C(O)=O.(C-)#N>>[*]S[*].N#CCC(N)C(O)=O,4.4.1.9
 3322,3322,[H]O[H].Nc4ncnc1c4(ncn1C3OC(CO)C2OP(O)(=O)OC23)>>Nc3ncnc1c3(ncn1C2OC(CO)C(OP(O)(O)=O)C2(O)),3.1.4.16
 3324,3324,[H]N([H])[H].OC(=O)C=CC(O)=O>>[H]O[H].NC(=O)C=CC(O)=O,3.5.1.107
 3328,3328,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C(=O)CCC.[H]>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CCCCO,1.1.1.2
@@ -2167,9 +2054,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3428,3428,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CC(O)=O)C(O)=O.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.[*]C3OC(CO)C(OP(O)(=O)OCC2OC([*])C(O)C2(OP(O)(=O)OCC1OC([*])C(O)C1(OC(=O)C(N)CC(O)=O)))C3(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),6.1.1.23
 3430,3430,NC(=O)CCC(N)C(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCC(N)=O)C1(O))n3cnc2c(N)ncnc23))C5(O),6.1.1.18
 3452,3452,CC(O)C(O)C(O)C(O)C(O)=O>>[H]O[H].CC(O)C(O)CC(=O)C(O)=O,4.2.1.68
-3465,3465,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.c1nc2ncnc(c2(n1))S>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CSc2ncnc1ncnc12,2.1.1.67
 3473,3473,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).OC(=O)C=Cc1ccccc1(O)>>OCC2OC(Oc1ccccc1(C=CC(O)=O))C(O)C(O)C2(O).O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O),2.4.1.35
-3475,3475,O=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCSc1ccc2nc(NC(=O)OC)nc2(c1).[H]>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCS(=O)c1ccc2nc(NC(=O)OC)nc2(c1),1.14.13.32
 3482,3482,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.COc2ccc1cc3c4cc(O)c(cc4(CC[n+]3(cc1c2(OC))))OC>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc2ccc1cc3c4cc(OC)c(cc4(CC[n+]3(cc1c2(OC))))OC,2.1.1.118
 3486,3486,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.[H]C(C)(CCC=C(C)C)C2([H])(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[H]C24(CC=C1CC(O)CCC1(C)C4([H])(CCC3(C)(C(CCC23([H]))C(C)C=CC(CC)C(C)C))),2.1.1.41
 3493,3493,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCC(O)C(O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCC(=O)C(O)C(O)=O.[H],1.1.1.45
@@ -2177,7 +2062,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3536,3536,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.3.8.8
 3536,3536,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.3.8.7
 3537,3537,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,2.3.1.16
-3547,3547,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(N)=Nc23))C5(O).NC=2NC(=O)c3c(CNC1C=CC(O)C1(O))cnc3(N=2)>>NC=1NC(=O)c2ncnc2(N=1).[*]OC6C(O)C=CC6(NCc1cn(c2N=C(N)NC(=O)c12)C5OC(COP(O)(=O)OC4C(O)C([*])OC4(COP(O)(=O)OC3C(O)C([*])OC3(COP(O)(O)=O)))C(OP(O)(O)=O)C5(O)),2.4.2.29
 3548,3548,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OC(=O)C(O)c1ccccc1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)C(=O)c1ccccc1,1.1.1.272
 3548,3548,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OC(=O)C(O)c1ccccc1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)C(=O)c1ccccc1,1.1
 3558,3558,[H]O[H].OCC4OC(OC1C(O)C(O)C(OC1(CO))OC2C(O)C(O)C(OC2(CO))OC3C(O)C(O)C(O)OC3(CO))C(O)C(O)C4(O)>>OCC3OC(OC1C(O)C(O)C(OC1(CO))OC2C(O)C(O)C(O)OC2(CO))C(O)C(O)C3(O).OCC1OC(O)C(O)C(O)C1(O),3.2.1.21
@@ -2229,13 +2113,11 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3773,3773,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CC(C)=CCOP(O)(=O)OP(O)(O)=O>>CC(C)=CCNc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).OP(O)(=O)OP(O)(O)=O,2.5.1.27
 3777,3777,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OCC(O)CO)C(O)C2(O).[*]OCC(O)COP(O)(=O)OCC(O)COP(O)(=O)O[*]>>NC=1C=CN(C(=O)N=1)C2OC(COP(O)(O)=O)C(O)C2(O).[*]OCC(O)COP(O)(=O)OCC(O)COP(O)(=O)O[*],2.7.8.12
 3786,3786,OC(=O)C(=O)CP(O)(O)=O>>O=C=O.[H]C(=O)CP(O)(O)=O,4.1.1.82
-3798,3798,O=CCc1cncn1.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)Cc1cncn1,1.2.1.3
 3808,3808,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.[H]C23(Cc4ccc(OC)c(OC)c4(CN3(CCc1cc(OC)c(O)cc12)))>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.[H]C23(Cc4ccc(OC)c(OC)c4(CN3(CCc1cc(OC)c(cc12)OC))),2.1.1.89
 3815,3815,[H]O[H].O=O.C[n+]1cccc(c1)C(N)=O>>OO.CN1C=C(C=CC1(=O))C(N)=O.CN1C=CC(=O)C(=C1)C(N)=O,1.17.3.2
 3817,3817,O=O.Cc1cccc(O)c1(O)>>CC(=O)C=CC=C(O)C(O)=O,1.13.11.39
 3817,3817,O=O.Cc1cccc(O)c1(O)>>CC(=O)C=CC=C(O)C(O)=O,1.13.11.16
 3817,3817,O=O.Cc1cccc(O)c1(O)>>CC(=O)C=CC=C(O)C(O)=O,1.13.11.2
-3820,3820,[H]C(Cc1cnc2ccccc12)=NO>>[H]O[H].N#CCc1cnc2ccccc12,4.3.1
 3822,3822,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.3.8.4
 3824,3824,NC(=O)CCCCC(CCS)S.CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)CC(=O)SCCC(CCCCC(N)=O)S.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS,2.3.1.168
 3830,3830,[H]O[H].[H]C23(C(NC(=O)Cc1ccccc1)C(=O)N3(C(C(O)=O)C(C)(C)S2))>>CC(=O)Oc1ccccc1.[H]C2(N)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H])),3.5.1.11
@@ -2250,7 +2132,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 3862,3862,[H]O[H].CC(=O)Oc1ccc2C(C)=CC(=O)Oc2(c1)>>CC(O)=O.CC1=CC(=O)Oc2cc(O)ccc12,3.1.1.56
 3862,3862,[H]O[H].CC(=O)Oc1ccc2C(C)=CC(=O)Oc2(c1)>>CC(O)=O.CC1=CC(=O)Oc2cc(O)ccc12,3.1.1.1
 3864,3864,CSCC1OC(O)C(O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>CSCC1OC(OP(O)(O)=O)C(O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.100
-3868,3868,Cc1cc2ncnc2(cc1(C)).OC(=O)c1ccc[n+](c1)C2OC(COP(O)(O)=O)C(O)C2(O)>>Cc1cc2ncn(c2(cc1(C)))C3OC(COP(O)(O)=O)C(O)C3(O).OC(=O)c1cccnc1,2.4.2.21
 3878,3878,CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O.OCC(O)COP(O)(O)=O>>CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOCC(O)COP(O)(O)=O.OP(O)(=O)OP(O)(O)=O,2.5.1.41
 3890,3890,CCCCCCCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>[H]O[H].CCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,4.2.1.17
 3893,3893,NC(COP(O)(O)=O)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)C(=O)COP(O)(O)=O,2.6.1.52
@@ -2306,8 +2187,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 4192,4192,[H]O[H].[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O>>OP(O)(O)=O.[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O,3.1.3.67
 4202,4202,Cc1ncc(C(O)=O)c(C(O)=O)c1(O).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]>>Cc1ncc(C=O)c(C(O)=O)c1(O).c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H],1.1.1
 4221,4221,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O,2.7.1.153
-4234,4234,NC(CCC(O)=O)C(O)=O.OC(COP(O)(O)=O)C(O)c1cncn1.NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O)>>NC(=O)CCC(N)C(O)=O.NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O),2.4.2 4.3.1
-4234,4234,NC(CCC(O)=O)C(O)=O.OC(COP(O)(O)=O)C(O)c1cncn1.NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O)>>NC(=O)CCC(N)C(O)=O.NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O),2.4.2
 4244,4244,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(=O)NC(C)C(=O)NC(CCC(O)=O)C(=O)NC(CCCCN)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O).CC(N)C(=O)NC(C)C(O)=O>>CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(=O)NC(C)C(=O)NC(CCC(O)=O)C(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O,6.3.2.4
 4257,4257,[H]O[H].CCCCCCCCCCCC(O)CC(=O)OC3C(O)C(CO)OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C3(NC(C)=O)>>CC(O)=O.CCCCCCCCCCCC(O)CC(=O)OC1C(N)C(OC(CO)C1(O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O),3.5.1.108
 4266,4266,[H]C2(CCc1c(C)ccc(O)c1(O))(C(=O)CCC3(C)(C(=O)CCC23([H]))).O=O>>[H]C1(CCC(=O)C(C)=CC=C(O)C(O)=O)(C(=O)CCC2(C)(C(=O)CCC12([H]))),1.13.11.25
@@ -2368,7 +2247,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 4491,4491,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)C2CCC3C4CCC1CC(O)CCC1(C)C4(CCC23(C))>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)C2CCC3C4CCC1CC(=O)CCC1(C)C4(CCC23(C)),1.1.1.50
 4491,4491,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)C2CCC3C4CCC1CC(O)CCC1(C)C4(CCC23(C))>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)C2CCC3C4CCC1CC(=O)CCC1(C)C4(CCC23(C)),1.1.1.213
 4514,4514,O=O.CC(C)C(NC(=O)C(CS)NC(=O)CCCC(N)C(O)=O)C(O)=O>>[H]O[H].[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H])),1.21.3.1
-4543,4543,[H]O[H].c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.O=CCc1cnc2ccc(O)cc12>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)Cc1cnc2ccc(O)cc12,1.2.1.3
 4567,4567,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).O[Se](O)(=O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)O[Se](O)(=O)=O)C(O)C2(O)).OP(O)(=O)OP(O)(O)=O,2.7.7.4
 4590,4590,[*]SC(=O)CCC.[*]OC(=O)CC(O)=O>>O=C=O.[*]S.[*]SC(=O)CC(=O)CCC,2.3.1.41
 4595,4595,[*]SC(=O)CCCCC.[*]OC(=O)CC(O)=O>>O=C=O.[*]S.[*]SC(=O)CC(=O)CCCCC,2.3.1.41
@@ -2398,10 +2276,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 4803,4803,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O.[H]>>O=C=O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[*]CCC(O)=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS,2.3.1.38
 4803,4803,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O.[H]>>O=C=O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[*]CCC(O)=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS,2.3.1.86
 4809,4809,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(CCC(O)=O)C(O)=O.NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O)C(O)=O,6.3.2.17
-4810,4810,CCO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>CC=O.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.2.8
-4810,4810,CCO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>CC=O.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.99
 4813,4813,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(=O)(O)OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(=O)(O)O)C(OP(O)(O)=O)C1(OP(O)(O)=O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(OP(O)(O)=O),2.7.1.158
-4833,4833,CC(CNC(=O)CCC11(C)(C(CC(N)=O)C1N10C11(=C(C)C=9C(CCC(N)=O)C(C)(C)C8=CC=6C(CCC(N)=O)C(C)(CC(N)=O)C7=C(C)C=2C(CCC(N)=O)C(C)(CC(N)=O)C1(C)N=2[Co]10(CC3OC(C(O)C3(O))n5cnc4c(N)ncnc45)(N=67)(N8=9))))OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>OP(O)(=O)OP(O)(O)=O.CC(CNC(=O)CCC11(C)(C(CC(N)=O)C1N10C11(=C(C)C=9C(CCC(N)=O)C(C)(C)C8=CC=6C(CCC(N)=O)C(C)(CC(N)=O)C7=C(C)C=2C(CCC(N)=O)C(C)(CC(N)=O)C1(C)N=2[Co]10(CC3OC(C(O)C3(O))n5cnc4c(N)ncnc45)(N=67)(N8=9))))OP(O)(=O)OP(O)(=O)OCC12OC(C(O)C12(O))n14cnc13C(=O)NC(N)=Nc1314,2.7.7.62
 4835,4835,NC(=O)CCC(N)C(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H].CC=1C5=NC(=CC4=NC(=C(C)C3=NC(C)(C2NC=1C(C)(CCC(O)=O)C2(CC(O)=O))C(C)(CC(O)=O)C3(CCC(O)=O))C(C)(CC(O)=O)C4(CCC(O)=O))C(C)(C)C5(CCC(O)=O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.NC(CCC(O)=O)C(O)=O.CC=1C5=NC(=CC4=NC(=C(C)C3=NC(C)(C2NC=1C(C)(CCC(O)=O)C2(CC(O)=O))C(C)(CC(N)=O)C3(CCC(O)=O))C(C)(CC(N)=O)C4(CCC(O)=O))C(C)(C)C5(CCC(O)=O),6.3.5.9
 4853,4853,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1C=CC(=O)C=C1.[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1ccc(O)cc1,1.6.5.2
 4853,4853,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1C=CC(=O)C=C1.[H]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1ccc(O)cc1,1.1.1
@@ -2417,7 +2292,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 4907,4907,CC(=O)C(O)=O.CCC=O>>CCC(O)CC(=O)C(O)=O,4.1.3.43
 4908,4908,O=O.Cc1ccc(O)c(O)c1>>CC(C=CC(O)=O)=CC(O)=O,1.13.11.1
 4910,4910,O=O.OC(=O)CCC(=O)C(O)=O.[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))>>O=C=O.[H]O[H].OC(=O)CCC(O)=O.[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(=C(C)CSC12([H]))C(O)=O),1.14.20.1
-4925,4925,O=O.NC(Cc1cnc2ccccc12)C(O)=O>>OO.NC(=Cc1cnc2ccccc12)C(O)=O,1.3.3.10
 4928,4928,OC(=O)CCC(=O)C(O)=O.O=O.NCCS(O)(=O)=O>>OC(=O)CCC(O)=O.[H]C(=O)CN.O=C=O.OS(O)=O,1.14.11.17
 4935,4935,CC(=O)NC3C(O)C(O)C(CO)OC3(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O)).O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).[*]OC2OC(C(O)=O)C(OC1OC(CO)C(O)C(O[*])C1(NC(C)=O))C(O)C2(O),2.4.1.212
 4937,4937,[*]NC(=O)C(CCCCN)NC([*])=O.NCCCCNCCCN>>[*]NC(=O)C(CCCCNCCCCN)NC([*])=O.NCCCN,2.5.1.46
@@ -2638,7 +2512,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 6585,6585,[H]O[H].OCC3OC(OC1C(O)C(O)C(OC1(CO))OC2C(O)C(O)C(O)OC2(CO))C(O)C(O)C3(O)>>OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O).OCC1OC(O)C(O)C(O)C1(O),3.2.1.20
 6586,6586,[H]O[H].CCCCCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCC=CCC=CCCCCCCCC(O)=O,3.1.2.2
 6586,6586,[H]O[H].CCCCCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCC=CCC=CCCCCCCCC(O)=O,3.1.2.20
-6589,6589,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)).OC(=O)C(O)Cc1cnc2ccccc12>>Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)).OC(=O)C(=O)Cc1cnc2ccccc12,1.1.99.31
 6590,6590,C1=CC=C2C(=C1)C(=CN2)C(C(=O)[O-])O.Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))>>c1ccc2c(c1)c(c[nH]2)C(=O)C(=O)O.Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)),1.1.99.31
 6591,6591,[H]O[H].CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCC(O)=O,3.1.2.20
 6591,6591,[H]O[H].CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCC(O)=O,3.1.2.2
@@ -2656,7 +2529,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 6613,6613,c1cc(ccc1C(C(=O)O)O)Cl.Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))>>c1cc(c(cc1Cl)O)CC(=O)O.Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)),1.1.99.31
 6619,6619,CCC(O)C(O)=O.Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))>>CCC(=O)C(O)=O.Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)),1.1.99.31
 6623,6623,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)).OC(=O)C(O)c1ccccc1>>Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)).OC(=O)C(=O)c1ccccc1,1.1.99.31
-6625,6625,[H]O[H].C1=CC=C(C(=C1)CC2=NC3=C(C(=N2)N)NC=N3)O.O=O>>[H]O[H].O=Cc1ccccc1(O).Nc1ncnc2ncnc12,1.5.99.12
 6631,6631,OO.Oc1ccc(cc1)Cl>>[H]O[H].Oc1ccc(cc1(O))Cl,1.14.18.1
 6632,6632,OO.Cc1ccc(O)cc1>>[H]O[H].Cc1ccc(O)c(O)c1,1.14.18.1
 6632,6632,OO.Cc1ccc(O)cc1>>[H]O[H].Cc1ccc(O)c(O)c1,1.11.1.7
@@ -2666,9 +2538,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 6641,6641,OCC1OC(O)CC(O)C1(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))>>OC1CC(O)C(O)C(COP(O)(O)=O)O1.Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.1.2
 6649,6649,[H]O[H].OC1C(O)C(O)C2OP(O)(=O)OC2(C1(O))>>OC1C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(O)C1(OP(O)(O)=O),3.1.4.11
 6651,6651,[H]O[H].CC(=CCC1=NC2=C(N=CN(C2=N1)C3C(C(C(O3)CO[Si](C)(C)C)O[Si](C)(C)C)O[Si](C)(C)C)N[Si](C)(C)C)C.O=O>>[H]O[H].Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O)).CC(C)=CC=O,1.5.99.12
-6654,6654,[H]O[H].O=O.c1coc(c1)CNc3ncnc2ncnc23>>Nc1ncnc2ncnc12.[H]O[H].[*]C([H])=O,1.5.99.12
-6665,6665,[H]O[H].CC(C)=CCNc1ncnc2ncnc12.O=O>>Nc1ncnc2ncnc12.[H]O[H].CC(C)=CC=O,1.5.99.12
-6676,6676,[H]O[H].CC(=CCN(C)C1=NC=NC2=C1N=CN2C)C.O=O>>[H]O[H].CC(C)=CC=O.CNc1ncnc2ncnc12,1.5.99.12
 6685,6685,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C>>[H]C5(CCC4(C)(C5([H])(CCC2(C)(C4([H])(CCC1([H])(C3(C)(CCCC(C)(C)C3([H])(CCC12(C)))))))))(C(C)=C),5.4.99.17
 6686,6686,[H]O[H].CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C>>[H]C5(CCC4(C)(C5([H])(CCC2(C)(C4([H])(CCC1([H])(C3(C)(CCCC(C)(C)C3([H])(CCC12(C)))))))))(C(C)(C)O),5.4.99.17
 6687,6687,CC(=O)C(O)=O.O=Cc1ccccc1>>C1=CC=C(C=C1)CC(=O)CO.O=C=O,2.2.1.6
@@ -2819,8 +2688,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 7130,7130,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1CCCC=C1>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1CCCCC1,1.6.99.1
 7131,7131,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCN1C(=O)C=CC1(=O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCN1C(=O)C=CC1=O,1.6.99.1
 7132,7132,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-]>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],1.6.99.1
-7138,7138,NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O).[H]N([H])[H]>>OC(COP(O)(O)=O)C(O)c1cncn1.NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O),4.3.1
-7138,7138,NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O).[H]N([H])[H]>>OC(COP(O)(O)=O)C(O)c1cncn1.NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O),2.4.2
 7139,7139,[H]O[H].CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(O)=O,2.3.3.13
 7139,7139,[H]O[H].CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(O)=O,3.1.2.17
 7139,7139,[H]O[H].CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(O)=O,3.1.2.23
@@ -2884,7 +2751,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 7292,7292,[H].Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.5.1
 7292,7292,[H].Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)),1.14.13.7
 7293,7293,NC(COP(O)(O)=O)C(O)=O.[H]S[H]>>OP(O)(O)=O.NC(CS)C(O)=O,2.5.1.47
-7294,7294,O=O.[H]O[H].CNC(Cc1cnc2ccccc12)C(O)=O>>NC(Cc1cnc2ccccc12)C(O)=O.[H]C([H])=O.OO,1.5.3
 7295,7295,O=O.[H].NC(=O)N2c3ccccc3(C=Cc1ccccc12).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).NC(=O)N3c1ccccc1C4OC4(c2ccccc23),1.14.14.55
 7296,7296,O=O.[H].Cc4ccnc3c4(NC(=O)c1cccnc1N3(C2CC2)).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC1=CC(=O)NC2=C1NC(=O)C3=C(N2C4CC4)N=CC=C3,1.14.14.55
 7299,7299,C[S+](C)CCC(N)C(O)=O>>[H]N([H])[H].CCC(=O)C(O)=O.CSC,4.4.1.14
@@ -2897,7 +2763,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 7305,7305,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4[nH]c(nc5=O)N)O)O)O)[O-])C(=O)N>>NC(=O)c1cccnc1.C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=[N+]([C@H]4[C@@H]([C@@H]([C@H](O4)COP(=O)(OP(=O)(O1)O)O)O)O)C5=C3C(=O)N=C(N5)N)O)O,3.2.2.5
 7310,7310,[H]O[H].CC(=O)OCC(N)C(O)=O>>CC(O)=O.[H]N([H])[H].CC(=O)C(O)=O,4.4.1.11
 7311,7311,[H]O[H].NC(CCS)C(O)=O>>[H]N([H])[H].CCC(=O)C(O)=O.[H]S[H],4.4.1.11
-7315,7315,[H]O[H].N=C1c5ncn3c5(N=CN1C4OC(COP(O)(=O)OP(O)(=O)OCC2OC3(C(O)C2(O)))C(O)C4(O))>>Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)),3.2.2.5
 7316,7316,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC(=O)C(O)COP(O)(O)=O>>OC(COP(O)(O)=O)C(=O)OP(O)(O)=O.O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.2.3
 7316,7316,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC(=O)C(O)COP(O)(O)=O>>OC(COP(O)(O)=O)C(=O)OP(O)(O)=O.O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)),2.7.2.10
 7317,7317,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).CC(O)=O>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).CC(=O)OP(O)(O)=O,2.7.2.1
@@ -2958,7 +2823,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 7681,7681,[H]O[H].CC(=O)NC(CCSC)C(O)=O>>CC(O)=O.CSCCC(N)C(O)=O,3.5.1.16
 7687,7687,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O).OCC4OC(OCC3OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C3(OC2OC(CO)C(O)C(O)C2(O)))C(O)C(O)C4(O)>>OP(O)(O)=O.OCC4OC(OCC3OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C3(OC2OC(CO)C(O)C(O)C2(O)))C(O)C(O)C4(O),2.4.1.1
 7688,7688,[H]O[H].[*]C(=O)OCC(COP(O)(=O)OCC(N)C(O)=O)OC([*])=O>>NC(COP(O)(O)=O)C(O)=O.[*]C(=O)OCC(CO)OC([*])=O,3.1.4.3
-7692,7692,OS(=O)(=O)[S-].(C-)#N>>OS(O)=O.N#CS,2.8.1.1
 7702,7702,O=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OO,1.6.3.1
 7702,7702,O=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OO,1.14.13.225
 7703,7703,[H]O[H].[*]OC1OC(CO)C([*])C(O)C1(O)>>[*]OC1OC(CO)C([*])C(O)C1(O).[*]OC1OC(CO)C([*])C(O)C1(O),3.2.1.1
@@ -2991,7 +2855,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 7759,7759,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C23(CCC1([H])(C4([H])(CCC(C(C)=O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C34(CCC1([H])(C([H])(CCC2(C)(C([H])(CCC12([H]))C(C)=O))C4(C)(CCC(=O)C3))).[H],1.1.1
 7759,7759,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C23(CCC1([H])(C4([H])(CCC(C(C)=O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C34(CCC1([H])(C([H])(CCC2(C)(C([H])(CCC12([H]))C(C)=O))C4(C)(CCC(=O)C3))).[H],1.1.1.209
 7759,7759,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C23(CCC1([H])(C4([H])(CCC(C(C)=O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C34(CCC1([H])(C([H])(CCC2(C)(C([H])(CCC12([H]))C(C)=O))C4(C)(CCC(=O)C3))).[H],1.1.1.213
-7762,7762,O=O.OCC(O)C1OC(=O)C(O)=C1(O).NC1(CC1)C(O)=O>>O=C=O.[H]O[H].C=C.OCC(O)C1OC(=O)C(=O)C1(=O).(C-)#N,1.14.17.4
 7763,7763,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCCC(O)=O.CC(C)(CO)C(O)C(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CC(C)(CO)[C@H](C(=O)C(CCN)C(=O)O)O,6.3.2.1
 7769,7769,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCC(O)=O.CC(C)(CO)C(O)C(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CC(C)(CO)[C@H](C(=O)NCC(=O)O)O,6.3.2.1
 7775,7775,OCC1OC(O)C(O)C(O)C1(O)>>OCC1OC(O)C(O)C(O)C1(O),5.1.3.3
@@ -3148,8 +3011,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 8533,8533,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).OC1COC(OP(O)(O)=O)C(O)C1(O)>>OP(O)(=O)OP(O)(O)=O.O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O),2.7.7.64
 8541,8541,OP(O)(O)=O.OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O)>>O=C1C=CNC(=O)N1.OCC1OC(OP(O)(O)=O)C(O)C1(O),2.4.2.3
 8541,8541,OP(O)(O)=O.OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O)>>O=C1C=CNC(=O)N1.OCC1OC(OP(O)(O)=O)C(O)C1(O),2.4.2.4
-8566,8566,NC(CS)C(O)=O.(C-)#N>>[H]S[H].N#CCC(N)C(O)=O,4.4.1.9
-8566,8566,NC(CS)C(O)=O.(C-)#N>>[H]S[H].N#CCC(N)C(O)=O,2.5.1.47
 8569,8569,CCCCCC=CCC=CC=CC=CC1OC1(CCCC(O)=O).NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O>>CCCCCC=CCC=CC=CC=CC(C(O)CCCC(O)=O)SCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O,4.4.1.20
 8599,8599,[H]C1(COP(O)(=O)OP(O)(O)=O)(C([H])(C=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C1(C)(CCC=C(C)CCC=C(C)CCC=C(C)C))>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CC=CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C,2.5.1.32
 8613,8613,OC(=O)Cc1ccc(O)cc1.[H]>>Cc1ccc(O)cc1.O=C=O,4.1.1.83
@@ -3158,7 +3019,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 8635,8635,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1C=CC(=O)C=C1>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Oc1ccc(O)cc1,1.11.1.1
 8635,8635,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1C=CC(=O)C=C1>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Oc1ccc(O)cc1,1.6.5.2
 8635,8635,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1C=CC(=O)C=C1>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Oc1ccc(O)cc1,1.1.1.328
-8657,8657,NC(CO)C(O)=O.OC(COP(O)(O)=O)C(O)c2cnc1ccccc12>>[H]C(O)(C=O)COP(O)(O)=O.NC(Cc1cnc2ccccc12)C(O)=O.[H]O[H],4.2.1.20
 8669,8669,OC(=O)C1CCCN1.O=O.OC(=O)CCC(=O)C(O)=O>>O=C=O.OC(=O)CCC(O)=O.OC1CNC(C1)C(O)=O,1.14.11.2
 8675,8675,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O)>>O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O),5.1.3.5
 8707,8707,O=O.[H]C35(CCC1(O)(CC5(CC1(=C))(C(C(O)=O)C4([H])(C2(C)(CCCC34(OC2(=O))))))).OC(=O)CCC(=O)C(O)=O>>O=C=O.OC(=O)CCC(O)=O.[H]C35(CCC1(O)(CC5(CC1(=C))(C(C(O)=O)C4([H])(C2(C)(C(O)CCC34(OC2(=O))))))),1.14.11.15
@@ -3170,9 +3030,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 8753,8753,[H]O[H].[*]C(=O)NC(COC3OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O))C(O)C3(O))C(O)C=CCCCCCCCCCCCCC>>OCC1OC(O)C(O)C(O)C1(O).[*]C(=O)NC(COC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O))C(O)C=CCCCCCCCCCCCCC,3.2.1.49
 8784,8784,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OC1CCCCC1>>O=C1CCCCC1.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H],1.1.1.184
 8784,8784,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OC1CCCCC1>>O=C1CCCCC1.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H],1.1.1.1
-8825,8825,OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))>>Nc1ncnc2ncnc12.OCC1OC(OP(O)(O)=O)C(O)C1(O),2.4.2.28
-8825,8825,OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))>>Nc1ncnc2ncnc12.OCC1OC(OP(O)(O)=O)C(O)C1(O),2.4.2.1
-8829,8829,OCC1(O)(OCC(O)C(O)C1(O)).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>[*]NC(=O)C(Cc1cncn1)NC([*])=O.OCC(O)C(O)C(O)C(=O)COP(O)(O)=O,2.7.1.206
 8850,8850,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)(O)C(O)C(O)=O>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)(O)C(=O)C(O)=O,1.1.1.86
 8873,8873,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].CC(NC(CCCNC(N)=N)C(O)=O)C(O)=O>>CC(=O)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].NC(=N)NCCCC(N)C(O)=O,1.5.1.11
 8883,8883,[H]O[H].Oc1nc(O)nc(O)n1>>O=C=O.NC(=O)NC(N)=O,3.5.2.15
@@ -3183,7 +3040,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 8922,8922,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H].CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSSCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC4OC(C(O)C4(OP(O)(O)=O))n6cnc5c(N)ncnc56.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.8.1.14
 8922,8922,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H].CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSSCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC4OC(C(O)C4(OP(O)(O)=O))n6cnc5c(N)ncnc56.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.8.4.2
 8947,8947,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).[*]C(=O)OCC(CO)OC([*])=O>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).[*]C(=O)OCC(COC1OC(CO)C(O)C(O)C1(O))OC([*])=O,2.4.1.46
-8980,8980,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>[*]NC(=O)C(Cc1cncn1)NC([*])=O.OCC2OC(O)C(O)C(O)C2(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)),2.7.1.208
 8991,8991,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,1.3.1.38
 8991,8991,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,1.3.1.104
 8992,8992,O=O.OC(=O)CCC(=O)C(O)=O.[H]C13(CCC([H])(CC(C1)OC(=O)C(CO)c2ccccc2)N3(C))>>O=C=O.OC(=O)CCC(O)=O.CN3C1CC(O)C3(CC(C1)OC(=O)C(CO)c2ccccc2),1.14.11.11
@@ -3204,7 +3060,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 9073,9073,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OO,1.6.3.3
 9086,9086,CCC(C)C(N)C(O)=O.OC(=O)CCC(=O)C(O)=O>>NC(CCC(O)=O)C(O)=O.CCC(C)C(=O)C(O)=O,2.6.1.42
 9098,9098,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Nc1ccccc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)Nc1ccccc1,2.3.1.118
-9121,9121,OCC1OC(O)(CO)C(O)C1(O).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>OCC1OC(O)(COP(O)(O)=O)C(O)C1(O).[*]NC(=O)C(Cc1cncn1)NC([*])=O,2.7.1.202
 9140,9140,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[*]C(=O)CCCCC(CCS)S>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[*]C(NC(=O)C([*])NC(=O)C([*])NC(=O)CCCCC1CCSS1)C(O)=O,1.8.1.4
 9145,9145,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCC(O)=O)C1(O))n3cnc2c(N)ncnc23))C5(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O).[H]C(=O)C(N)CCC(O)=O,1.2.1.70
 9168,9168,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O)).[H]C24(CC=C1CC(O)CCC1(C)C4([H])(CCC3(C)(C(=O)CCC23([H]))))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(OP(O)(O)=O)C2(O)).[H]C24(CC=C1CC(CCC1(C)C4([H])(CCC3(C)(C(=O)CCC23([H]))))OS(O)(=O)=O),2.8.2.2
@@ -3223,17 +3078,13 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 9218,9218,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(=CC=O)C=CC12(OC2(C)(CC(O)CC1(C)(C)))>>CC(=CC=O)C=CC1(O)(C(C)=CC(=O)CC1(C)(C)).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H],1.1.1.288
 9226,9226,[*]S.CCCCCCCCCCCC(O)CC(=O)NC4C(OC(COC3OC(COC2(CC(OC1(CC(O)C(O)C(O1)C(O)CO)C(O)=O)C(O)C(O2)C(O)CO)C(O)=O)C(OP(O)(O)=O)C(OC(=O)CC(O)CCCCCCCCCCC)C3(NC(=O)CC(CCCCCCCCCCC)OC(=O)CCCCCCCCCCC))C(O)C4(OC(=O)CC(O)CCCCCCCCCCC))OP(O)(O)=O>>[*]SC(=O)CCCCCCCCCCC.CCCCCCCCCCCC(O)CC(=O)NC4C(OC(COC3OC(COC2(CC(OC1(CC(O)C(O)C(O1)C(O)CO)C(O)=O)C(O)C(O2)C(O)CO)C(O)=O)C(OP(O)(O)=O)C(OC(=O)CC(O)CCCCCCCCCCC)C3(NC(=O)CC(O)CCCCCCCCCCC))C(O)C4(OC(=O)CC(O)CCCCCCCCCCC))OP(O)(O)=O,2.3.1.241
 9227,9227,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC4OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(N)=Nc23)C(O)C(O)C4(O)>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC4OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(N)=Nc23)C(O)C(O)C4(=O),1.1.1.271
-9264,9264,OCC(O)C(O)C(O)C(O)CO.[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>OCC(O)C(O)C(O)C(O)COP(O)(O)=O.[*]NC(=O)C(Cc1cncn1)NC([*])=O,2.7.1.197
 9288,9288,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C(C)(CCCC(C)C)C4([H])(CCC2([H])(C4(C)(CCC1([H])(C3(C)(CCC(O)CC3(=CC(O)C12([H])))))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)CCCC(C)C2CCC3C4C(O)CC1=CC(=O)CCC1(C)C4(CCC23(C)).[H],1.1.1.181
 9288,9288,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C(C)(CCCC(C)C)C4([H])(CCC2([H])(C4(C)(CCC1([H])(C3(C)(CCC(O)CC3(=CC(O)C12([H])))))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC(C)CCCC(C)C2CCC3C4C(O)CC1=CC(=O)CCC1(C)C4(CCC23(C)).[H],1.1.1.145 5.3.3.1
 9358,9358,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C34(CCC2([H])(C(CCC1([H])(C(C)(C)CCCC12(C)))(CC3(=C))C4)).O=O>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C12(CCC34(CC(=C)C(CCC3([H])(C2(C)(CCCC1(C)(CO))))C4)),1.14.14.86
-9368,9368,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O).[H]C(CNc2ncnc1ncnc12)=C(C)CO>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).CC(=CCNc1ncnc2ncnc12)COC3OCC(O)C(O)C3(O),2.4.1.203
 9400,9400,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)>>O=C=O.O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O),4.1.1.35
 9400,9400,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)>>O=C=O.O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O),4.1.1
 9408,9408,[H]O[H].OC1CC(OC1(COP(O)(=O)OP(O)(=O)OP(O)(O)=O))n3cnc2C(=O)NC=Nc23>>OP(O)(=O)OP(O)(O)=O.OC1CC(OC1(COP(O)(O)=O))n3cnc2c(O)ncnc23,3.6.1.9
 9485,9485,[H]C(O)(C=O)COP(O)(O)=O.OCC(=O)C(O)C(O)C(O)C(O)COP(O)(O)=O>>OC1OC(COP(O)(O)=O)C(O)C1(O).OCC(=O)C(O)C(O)COP(O)(O)=O,2.2.1.1
-9527,9527,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12>>[H]C(O)(C=O)COP(O)(O)=O.c1ccc2nccc2(c1),4.1.2.8
-9527,9527,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12>>[H]C(O)(C=O)COP(O)(O)=O.c1ccc2nccc2(c1),4.2.1.20
 9545,9545,[H].[H]C24(CCC1=CC(=O)CCC1(C)C4([H])(CCC3(C)(C(O)CCC23([H])))).O=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>OC=O.[H]C23(CCC4(C)(C(O)CCC4([H])(C3([H])(CCc1cc(O)ccc12)))).NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]O[H],1.14.14.1
 9553,9553,CC1=CC(=O)c2ccccc2(C1(=O)).CNC(=O)C1=CC=CNC1>>C[n+]1cccc(c1)C(N)=O.Cc1cc(O)c2ccccc2(c1(O)),1.10.5.1
 9566,9566,[H].CC(O)C(=O)C=1CNC=2N=C(N)NC(=O)C=2(N=1).NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>CC(O)C(O)C=1CNC=2N=C(N)NC(=O)C=2(N=1).c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N,1.1.1.153
@@ -3398,7 +3249,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 10025,10025,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OCC(O)C=O>>OCC(O)CO.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.21
 10025,10025,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OCC(O)C=O>>OCC(O)CO.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.3.1.20
 10032,10032,[H]C(=O)CCCCCCCCCCC.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]>>CCCCCCCCCCCCO.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.2
-10035,10035,[H]O[H].C1=CC=C2C=C(C=CC2=C1)NC(=O)C(CC3=CN=CN3)N>>NC(Cc1cncn1)C(O)=O.Nc1ccc2ccccc2(c1),3.4.22.40
 10038,10038,[H]C(=O)C([H])=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H]>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=CC(O)=O.[H],1.2.1.23
 10039,10039,[*]OC1COC(O[*])C(O)C1(O[*]).[H]O[H]>>OC1COC(O)C(O)C1(O).[*]OC1COC(O[*])C(O)C1(O[*]),3.2.1.55
 10043,10043,O=O.[H]O[H].NC(=O)CC(N)C(O)=O>>OO.[H]N([H])[H].NC(=O)CC(=O)C(O)=O,1.4.3.2
@@ -3635,14 +3485,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 10862,10862,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C2C=Cc1ccccc1C2(=O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc2ccc1ccccc1c2(O),1.6.5.5
 10862,10862,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C2C=Cc1ccccc1C2(=O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc2ccc1ccccc1c2(O),1.1.1
 10862,10862,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C2C=Cc1ccccc1C2(=O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc2ccc1ccccc1c2(O),1.1.1.2
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.n11
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.62
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.10
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.2
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.149
-10863,10863,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C1Nc2ccccc2(C1(=O))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Oc1nc2ccccc2(c1(O)),1.1.1.184
 10864,10864,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(CCC4(C)(C(=O)C(=O)CC4([H])(C3([H])(CCc1cc(O)ccc12))))>>C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC(C2=O)O)O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.2
 10864,10864,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(CCC4(C)(C(=O)C(=O)CC4([H])(C3([H])(CCc1cc(O)ccc12))))>>C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC(C2=O)O)O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.62
 10864,10864,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(CCC4(C)(C(=O)C(=O)CC4([H])(C3([H])(CCc1cc(O)ccc12))))>>C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC(C2=O)O)O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1
@@ -3666,10 +3508,8 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 10955,10955,[H].OO.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.11.1.1
 10971,10971,[H].OO.C1C=CN(C=C1C(=O)N)[C@@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])OP(=O)([O-])OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=NC5=C4N=CN=C5N)O)O)O)O>>C1=CC(=C[N+](=C1)[C@@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])OP(=O)([O-])OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=NC5=C4N=CN=C5N)O)O)O)O)C(=O)N.[H]O[H],1.11.1.1
 10980,10980,C[C@@H](C(=O)OC)N>>C[C@H](C(=O)OC)N,5.1.1.1
-10986,10986,O=C1NC(=O)c2ncnc2(N1).ON=O>>O=C1NC(=O)C=2NC(=O)NC=2(N1).N=O,1.17.3.2
 10987,10987,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].ON=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].N=O,1.17.3.2
 10987,10987,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].ON=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].N=O,1.14.12.17
-10992,10992,c1cc(ccc1CC(C(=O)O)NC(=O)C2CCCN2C(=O)C(Cc3c[nH]cn3)N)O.[H]O[H]>>NC(Cc1cncn1)C(=O)N2CCCC2C(O)=O.NC(Cc1ccc(O)cc1)C(O)=O,3.4.14.5
 10997,10997,[H]O[H].[*]OC1OC(CO)C([*])C(O)C1(O)>>OCC1OC(O)C(O)C(O)C1(O).[*]OC1OC(CO)C([*])C(O)C1(O),3.2.1.3
 11002,11002,[H]O[H].OCC2OC(OCC1OC(O)C(O)C(O)C1(O))C(O)C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O),3.2.1.3
 11007,11007,[H]O[H].OCC3OC(OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O))C(O)C(O)C3(O)>>OCC1OC(O)C(O)C(O)C1(O).OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O),3.2.1.3
@@ -3752,11 +3592,9 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11293,11293,[H]O[H].CC(C(O)=O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(C(O)=O)C(O)=O,3.1.2.20
 11293,11293,[H]O[H].CC(C(O)=O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(C(O)=O)C(O)=O,3.1.2.17
 11294,11294,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].O=CCCCCC(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OC(=O)CCCCC(O)=O,1.2.1.88
-11301,11301,[H]O[H].c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])O[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=S)N>>Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O)).c1cc(cnc1)C(=S)N,3.2.2.6
 11311,11311,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC1=CN(C(=O)NC1(=O))C3CC(O)C(COP(O)(=O)OP(O)(=O)OC2OC(C)C(=O)C(O)C2(O))O3>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC1=CN(C(=O)NC1(=O))C3CC(O)C(COP(O)(=O)OP(O)(=O)OC2OC(C)C(O)C(O)C2(O))O3,1.1.1.133
 11312,11312,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC1(O)(CC(O)OC(=O)C1)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(C)(O)CC(O)=O,1.1.1.88
 11315,11315,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=O)c1ccc[n+](c1)C2OC(COP(O)(=O)[O-])C(O)C2(O)>>OP(O)(=O)OP(O)(O)=O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3C(=O)NC=Nc34)C(O)C5(O),2.7.7.1
-11319,11319,NC(Cc1cncn1)C(O)=O>>[H]N([H])[H].OC(=O)C=Cc1cncn1,4.3.1.3
 11322,11322,CCCCCC/C=C\CC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)([O-])[O-])O>>CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,5.3.3
 11328,11328,NCCCC(N)C(O)=O.O=CC(O)=O>>NCC(O)=O.OC(=O)C1CCC=N1,2.6.1.13
 11329,11329,CC(=O)C(O)=O.NCCCC(N)C(O)=O>>CC(N)C(O)=O.OC(=O)C1CCC=N1,2.6.1.13
@@ -3789,7 +3627,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11479,11479,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)OC(CO)C(O)C1(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC1C(O)C(O)C(CO)OC1(OP(O)(O)=O),2.7.1.6
 11488,11488,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).OCC1OC(O)C(O)C(O)C1(O)>>NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),2.7.1.2
 11488,11488,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).OCC1OC(O)C(O)C(O)C1(O)>>NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),2.7.1.1
-11489,11489,[H]O[H].CN(C)c1ccc(cc1)/C=C/C(=O)n2ccnc2>>c1cncn1.CN(C)c1ccc(cc1)/C=C/C(=O)O,1.2.1.3
 11490,11490,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O).[H]C57(COC(=O)C7([H])(C(c1cc(OC)c(O)c(c1)OC)c2cc6OCOc6(cc2C5(OC3OC4COC(C)OC4(C(O)C3(O))))))>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).[H]C68(COC(=O)C8([H])(C(c2cc(OC)c(OC1OC(C(=O)[O-])C(O)C(O)C1(O))c(c2)OC)c3cc7OCOc7(cc3C6(OC4OC5COC(C)OC5(C(O)C4(O)))))),2.4.1.17
 11500,11500,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CCCCCCCCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>Cc5cc6NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C)).CCCCCCCC/C=C\CCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)([O-])[O-])O,1.3.8.8
 11501,11501,[H].CSCCC(N)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CS(=O)CCC(N)C(O)=O,1.14.13.8
@@ -3838,7 +3675,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11663,11663,O=O.OC(=O)Cc1ccc(O)cc1>>[H]O[H].OC(=O)Cc1ccc(O)c(O)c1,1.14.18.1
 11664,11664,O=O.NCCc1ccc(O)cc1>>[H]O[H].NCCc1ccc(O)c(O)c1,1.14.16.2
 11664,11664,O=O.NCCc1ccc(O)cc1>>[H]O[H].NCCc1ccc(O)c(O)c1,1.14.18.1
-11667,11667,[H]O[H].O=O.NC(Cc1cnc2ccccc12)C(O)=O>>[H]N([H])[H].OO.OC(=O)C(=O)Cc1cnc2ccccc12,1.4.3.3
 11670,11670,[H]O[H].NC(=O)CC(N)C(O)=O>>[H]N([H])[H].NC(CC(O)=O)C(O)=O,3.5.1.1
 11673,11673,[H]O[H].CC(=O)NC(=O)C[C@@H](C(=O)O)N>>[H]N([H])[H].CC(=O)NC(CC(O)=O)C(O)=O,3.5.1.1
 11674,11674,[H]O[H].C([C@@H](C(=O)O)NC(=O)CN)C(=O)N>>[H]N([H])[H].C([C@@H](C(=O)[O-])NC(=O)C[NH3+])C(=O)[O-],3.5.1.1
@@ -3847,15 +3683,12 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11700,11700,[H]O[H].OCC2OC(OCC1OC(O)(CO)C(O)C1(O))C(O)C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O).OCC1OC(O)(CO)C(O)C1(O),3.2.1.20
 11703,11703,OP(O)(O)=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C(=O)CCC(N)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].NC(CCC(=O)OP(O)(O)=O)C(O)=O,1.2.1.41
 11705,11705,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].C(C[C@@H](C(=O)O)N)C=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].NC(CCC(O)=O)C(O)=O,1.2.1.88
-11722,11722,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).CC(C)CC(NC(=O)C(N)Cc1cncn1)C(O)=O,3.4.15.1
-11722,11722,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).CC(C)CC(NC(=O)C(N)Cc1cncn1)C(O)=O,3.4.21.39
 11740,11740,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].C1C(C1C(=O)O)C=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].C1C(C1C(=O)O)C(=O)O,1.2.1.24
 11754,11754,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O).[H]C45(C=CC(O)C1Oc3c(O)ccc2CC5(N(C)CCC14(c23)))>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).CN1CC[C@]23c4c5ccc(c4O[C@H]2[C@H](C=C[C@H]3[C@H]1C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O)O,2.4.1.17
 11760,11760,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)CCC(=O)C(O)=O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC(=O)CCC(O)C(O)=O,1.1.1.42
 11762,11762,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCN(CC)c1ccc(cc1)N=O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCN(CC)c1ccc(cc1)N,1.1.1.2
 11765,11765,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN(C)c1ccc(cc1)N=O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN(C)c1ccc(N)cc1,1.1.1.2
 11766,11766,NC(Cc1ccccc1)C(O)=O.O=O.CC1C(Nc2c(cncn2)N1)C>>[H]O[H].NC(Cc1ccc(O)cc1)C(O)=O.CC1C(=Nc2cncnc2N1)C,1.14.16.1
-11777,11777,NCCS(O)(=O)=O.[C@@H]1(N2C3=C(C(=NC=N3)N)N=C2)O[C@H](COP(OP(OCC(C)([C@H](C(NCCC(NCCSC(=O)CC[C@@](C)([C@]4(CC[C@@]5([C@@]4(CC[C@@]6([C@]7(CC[C@H](C[C@]7(CC[C@@]56[H])[H])O)C)[H])C)[H])[H])[H])=O)=O)O)C)(=O)O)(=O)O)[C @H]([C@H]1O)OP(O)(O)=O C[C@H](CCC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O)[C@H]4CC[C@@H]5[C@@]4(CC[C@H]6[C@H]5CC[C@H]7[C@@]6(CC[C@H](C7)O)C)C>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C[C@H](CCCNCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C,2.3.1.65
 11789,11789,[H]O[H].OCC2OC(O)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O),3.2.1.20
 11789,11789,[H]O[H].OCC2OC(O)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O),3.2.1.21
 11790,11790,[H]O[H].OCC2OC(OC1C(O)C(O)OC(CO)C1(O))C(O)C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O),3.2.1.20
@@ -3892,20 +3725,9 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11883,11883,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))>>Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O),2.7.1.76
 11884,11884,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2>>NC=1C=CN(C(=O)N=1)C2CC(O)C(COP(O)(O)=O)O2.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O),2.7.1.74
 11885,11885,O=O.OC(=O)CCC(=O)C(O)=O>>[H]O[H].O=C=O.C=C,1.13
-11896,11896,[H]O[H].O=O.O=C1NC=Nc2ncnc12>>O=C1NC(=O)C=2NC(=O)NC=2(N1).OO,1.17.3.2
 11897,11897,[H]O[H].O=O.CN1CNC(=O)c2c1nc[nH]2>>OO.Cn1c2c(c(=O)[nH]c1=O)[nH]c(=O)[nH]2,1.17.3.2
-11900,11900,[H]O[H].O=O.CNc1ncnc2ncnc12>>OO.CNc1c2c([nH]c(=O)[nH]2)ncn1,1.17.3.2
 11901,11901,[H]O[H].O=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)>>OO.C([C@H]1[C@@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)O,1.17.3.2
-11903,11903,[H]O[H].Nc1ncnc2ncnc12.O=O>>OO.c1nc(c2c(n1)nc([nH]2)O)N,1.17.3.2
-11906,11906,[H]O[H].O=O.c1ncc2ncnc2(n1)>>OO.c1c2c(ncn1)nc([nH]2)O,1.17.3.2
-11907,11907,[H]O[H].O=O.c1nc2NC=NC(c2(n1))=S>>OO.c1[nH]c2c(c(=S)n1)[nH]c(=O)[nH]2,1.17.3.2
 11908,11908,OCC(=O)COP(O)(O)=O.CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCCCCCCCCCCCC(=O)OCC(=O)COP(O)(O)=O,2.3.1.42
-11915,11915,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).c1ccc(cc1)CC(C(=O)O)NC(=O)C(Cc2cnc[nH]2)N,3.4.21.39
-11916,11916,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).CC(C(=O)O)NC(=O)C(Cc1cnc[nH]1)N,3.4.21.39
-11917,11917,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).O=C(O)CC(C(=O)O)NC(=O)C(N)Cc1cncn1,3.4.21.39
-11919,11919,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).O=C(O)C(NC(=O)C(N)Cc1cncn1)CCC/N=C(\N)N,3.4.21.39
-11920,11920,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O).NC(Cc1cncn1)C(=O)N2CCCC2C(O)=O,3.4.21.39
-11921,11921,[H]O[H].CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)>>NC(Cc1cncn1)C(O)=O.CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O),3.4.21.39
 11927,11927,[H]O[H].[H]C2(CCC3([H])(C4([H])(CC=C1CC(CCC1(C)C4([H])(CCC23(C)))OC(=O)CCCCCCCC=CCC=CCCCCC)))(C(C)CCCC(C)C)>>[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C).CCCCCC=CCC=CCCCCCCCC(O)=O,3.1.1.13
 11929,11929,[H]O[H].[H]C2(CCC3([H])(C4([H])(CC=C1CC(CCC1(C)C4([H])(CCC23(C)))OC(=O)CCCCCCCCCCCCCCC)))(C(C)CCCC(C)C)>>[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C).CCCCCCCCCCCCCCCC(O)=O,3.1.1.13
 11930,11930,[H]O[H].CCCCCCCCCCCCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@@H]4[C@H](C)CCCC(C)C)C)C>>[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C).CCCCCCCCCCCCCC(O)=O,3.1.1.13
@@ -3915,15 +3737,12 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 11933,11933,[H]O[H].CCCCCCCCCCCCCC(=O)Oc1ccc(cc1)[N+](=O)[O-]>>CCCCCCCCCCCCCC(O)=O.Oc1ccc(cc1)[N+](=O)[O-],3.1.1.13
 11934,11934,[H]O[H].CCCCCCCCCCCC(=O)Oc1ccc(cc1)[N+](=O)[O-]>>CCCCCCCCCCCC(O)=O.Oc1ccc(cc1)[N+](=O)[O-],3.1.1.1
 11934,11934,[H]O[H].CCCCCCCCCCCC(=O)Oc1ccc(cc1)[N+](=O)[O-]>>CCCCCCCCCCCC(O)=O.Oc1ccc(cc1)[N+](=O)[O-],3.1.1.13
-11935,11935,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O).[H]O[H]>>CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O),3.4.15.1
 11938,11938,[H]O[H].CC1=CC(=O)Oc2cc(ccc12)NC(=O)C(CCCNC(N)=N)NC(=O)C(CCCNC(N)=N)NC(=O)OCc3ccccc3>>CC1=CC(=O)Oc2cc(N)ccc12.NC(=N)NCCCC(NC(=O)C(CCCNC(N)=N)NC(=O)OCc1ccccc1)C(O)=O,3.4.22
 11938,11938,[H]O[H].CC1=CC(=O)Oc2cc(ccc12)NC(=O)C(CCCNC(N)=N)NC(=O)C(CCCNC(N)=N)NC(=O)OCc3ccccc3>>CC1=CC(=O)Oc2cc(N)ccc12.NC(=N)NCCCC(NC(=O)C(CCCNC(N)=N)NC(=O)OCc1ccccc1)C(O)=O,3.4.22.1
 11938,11938,[H]O[H].CC1=CC(=O)Oc2cc(ccc12)NC(=O)C(CCCNC(N)=N)NC(=O)C(CCCNC(N)=N)NC(=O)OCc3ccccc3>>CC1=CC(=O)Oc2cc(N)ccc12.NC(=N)NCCCC(NC(=O)C(CCCNC(N)=N)NC(=O)OCc1ccccc1)C(O)=O,3.4.21.4
 11941,11941,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].CCC(N)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]N([H])[H].CCC(=O)C(O)=O,1.4.1.8
 11948,11948,[H]O[H].NC=1C=CN(C(=O)N=1)C2OC(CO)C(O)C2(O)>>[H]N([H])[H].c1cn(c(=O)[nH]c1=O)C2C(C(C(O2)CO)O)O,3.5.4.5
 11956,11956,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C[C@H](CO)c1ccccc1>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].C[C@H](C=O)c1ccccc1,1.1.1.1
-11970,11970,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=C1Nc2ccccc2(C1(=O))>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Oc1nc2ccccc2(c1(O)),1.1.1.51
-11970,11970,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=C1Nc2ccccc2(C1(=O))>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.Oc1nc2ccccc2(c1(O)),1.1.1
 11971,11971,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].C[C@]12CC[C@H](C1(C)C)C(=O)C2=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC1(C2CCC1(C(C2O)O)C)C,1.1.1.51
 11976,11976,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C)O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C34(CCC1([H])(C([H])(CCC2(C)(C([H])(CCC12([H]))C(C)=O))C4(C)(CCC(=O)C3))),1.1.1.51
 11980,11980,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(=O)C2CCC3C4CCC1CC(=O)CCC1(C)C4(CCC23(C))>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCC(=O)C4)C)C)O,1.1.1.51
@@ -3943,7 +3762,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 12021,12021,[H]O[H].COC(=O)c1cc(c(c(c1)O)O)O>>CO.OC(=O)c1cc(O)c(O)c(O)c1,3.1.1.20
 12028,12028,CC(=C)CCOP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.31
 12030,12030,[H]O[H].O=O.[H]C(=O)Cc1ccc(O)c(O)c1>>OO.OC(=O)c1ccc(O)c(O)c1,1.2.3.1
-12032,12032,Oc1ccc(cc1)N=C2C=C(C(=O)C(=C2)Cl)Cl.[H]O[H].O=CCc1cnc2ccccc12>>Oc1ccc(cc1)N=C2C=C(C(=O)C(=C2)Cl)Cl.OC(=O)Cc1cnc2ccccc12,1.2.3.1
 12035,12035,[H]O[H].O=O.O=Cc1cccc2ccccc12>>OO.O=C(O)c2cccc1ccccc12,1.2.3.1
 12035,12035,[H]O[H].O=O.O=Cc1cccc2ccccc12>>OO.O=C(O)c2cccc1ccccc12,1.2.3.14
 12036,12036,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).COc2cccc3C(=O)c4c(O)c5CC(O)(CC(OC1CC(N)C(O)C(C)O1)c5(c(O)c4(C(=O)c23)))C(=O)CO>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)([C@H](CO)O)O)N)O,1.1.1.2
@@ -3964,7 +3782,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 12057,12057,NCC(O)=O.CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)CC(N)C(O)=O,2.3.1.29
 12059,12059,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C(=O)C(O)C(O)COP(O)(O)=O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OCC(O)C(O)COP(O)(O)=O,1.1.1.405
 12060,12060,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).OC1OC(COP(O)(O)=O)C(O)C1(O)>>OCC(O)C(O)C(O)COP(O)(O)=O.NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),1.1.1.405
-12061,12061,Nc1ncnc2ncnc12.OCC1OC(CC1(O))n3cnc2C(=O)NC=Nc23>>O=C1NC=Nc2ncnc12.Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1)),2.4.2.6
 12063,12063,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.C=C3CCC(O)CC3(=CC=C1CCCC2(C)(C(CCC12)C(C)CCCC(C)(C)O))>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C=C3CCC(O)CC3(=CC=C1CCCC2(C)(C(CCC12)C(C)CCC(O)C(C)(C)O)),1.14.15.16
 12067,12067,OC(COP(O)(O)=O)C(=O)OP(O)(O)=O.OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)>>OC(=O)C(O)COP(O)(O)=O.OC1C(O)C(COP(O)(O)=O)OC(OP(O)(O)=O)C1(O),2.7.1.106
 12068,12068,OC(COP(O)(O)=O)C(=O)OP(O)(O)=O.OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)>>OC(=O)C(O)COP(O)(O)=O.OC1C(O)C(COP(O)(O)=O)OC(OP(O)(O)=O)C1(O),2.7.1.106
@@ -4169,7 +3986,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 12842,12842,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.OC(=O)C=Cc1ccc(O)c(O)c1>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)c(O)c4,6.2.1.12
 12846,12846,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O.c1cc(c(cc1[N+](=O)[O-])Cl)Cl>>[H]Cl.c1cc(c(cc1[N+](=O)[O-])Cl)SC[C@@H](C(=O)N(CC(=O)O)C(=O)CC[C@@H](C(=O)O)N)N,2.5.1.18
 12848,12848,CN3C(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)CNC=2N=C(N)NC(=O)C=23.CC1=CC(=O)c2ccccc2(C1(=O))>>[H]C24(CNC=1N=C(N)NC(=O)C=1N4(CN(C2)c3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O)).Cc1cc(O)c2ccccc2(c1(O)),1.5.1.20
-12850,12850,O=O.C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)>>OO.C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C),1.3.3.4
 12851,12851,OP(O)(O)=O.[*]SC(=O)CCCCCCCCCCCCCCC>>[*]S.CCCCCCCCCCCCCCCC(=O)OP(=O)(O)O,2.3.1.274
 12853,12853,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(C)CC(=O)C(O)=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)CC(O)C(O)=O,1.1.1.345
 12853,12853,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(C)CC(=O)C(O)=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)CC(O)C(O)=O,1.1.1
@@ -4183,7 +3999,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 12886,12886,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCC(=O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=C=O.CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,1.2.4.1 2.3.1.12 1.8.1.4
 12890,12890,[H]O[H].C1=CC=C(C=C1)C[C@H](C(=O)N)N>>[H]N([H])[H].NC(Cc1ccccc1)C(O)=O,3.5.1
 12891,12891,[H]O[H].O=C(N)[C@H](N)Cc1ccc(O)cc1>>[H]N([H])[H].NC(Cc1ccc(O)cc1)C(O)=O,3.5.1
-12892,12892,[H]O[H].C1=CC=C2C(=C1)C(=CN2)C[C@H](C(=O)N)N>>[H]N([H])[H].NC(Cc1cnc2ccccc12)C(O)=O,3.5.1
 12893,12893,[H]O[H].CC(=O)Nc1ccc3c(c1)Cc2ccccc23>>CC(O)=O.c1ccc-2c(c1)Cc3c2ccc(c3)N,3.1.1.3
 12900,12900,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].c1ccc2c(c1)C(=O)/C(=C\3/C(=O)c4ccccc4N3)/N2>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.c1ccc2c(c1)c(c([nH]2)c3c(c4ccccc4[nH]3)O)O,1
 12904,12904,[H]O[H].c1ccc(cc1)C(=O)/C=C/C(=C(\C(=O)O)/O)/Cl>>OC(=O)c1ccccc1.C=CC(=C(O)C(O)=O)Cl,3.7.1.8
@@ -4204,12 +4019,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 12933,12933,[H]O[H].C1=CC(=CC=C1NC(=O)[C@H](CCCCN)N)[N+](=O)[O-]>>NCCCCC(N)C(O)=O.Nc1ccc(cc1)[N+](=O)[O-],3.4.11.15
 12933,12933,[H]O[H].C1=CC(=CC=C1NC(=O)[C@H](CCCCN)N)[N+](=O)[O-]>>NCCCCC(N)C(O)=O.Nc1ccc(cc1)[N+](=O)[O-],3.3.2.6
 12937,12937,CC(=O)C(O)=O.CC(C)(N)C(O)=O>>CC(N)C(O)=O.O=C=O.CC(C)=O,4.1.1.64
-12945,12945,Nc1ncnc2ncnc12.NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2>>NC=1C=CNC(=O)N=1.Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1)),2.4.2.6
-12946,12946,NC=1C=CNC(=O)N=1.NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)>>NC=1NC(=O)c2ncnc2(N=1).NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2,2.4.2.6
 12947,12947,NC=1C=CNC(=O)N=1.NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2>>NC=1C=CNC(=O)N=1.NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2,2.4.2.6
-12948,12948,NC=1C=CNC(=O)N=1.OCC1OC(CC1(O))n3cnc2C(=O)NC=Nc23>>O=C1NC=Nc2ncnc12.NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2,2.4.2.6
-12949,12949,Nc1ncnc2ncnc12.Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))>>Nc1ncnc2ncnc12.Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1)),2.4.2.6
-12950,12950,Nc1ncnc2ncnc12.NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)>>NC=1NC(=O)c2ncnc2(N=1).Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1)),2.4.2.6
 12951,12951,NCC(O)=O.Cc1ccccc1C(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3ncnc4N)O)OP(=O)(O)O)O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C1=CC=C(C(=C1)CNCC(=O)O)O,2.3.1.13
 12953,12953,NCC(O)=O.CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCCCC(=O)NCC(=O)O,2.3.1.13
 12954,12954,[H]C([H])=O.[H]C1(NC=2C(=O)NC(N)=NC=2(NC1(C)))(C(C)Nc3ccc(cc3)CC(O)C(O)C(O)COC4OC(COP(O)(=O)OC(CCC(O)=O)C(O)=O)C(O)C4(O))>>[H]O[H].[H]C25(C(C)NC=1N=C(N)NC(=O)C=1N5(CN(C2(C))c3ccc(cc3)CC(O)C(O)C(O)COC4OC(COP(O)(=O)OC(CCC(O)=O)C(O)=O)C(O)C4(O))),4.2.1.147
@@ -4254,7 +4064,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13059,13059,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).OC(=O)C=Cc1ccc(O)c(O)c1>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).OCC2OC(Oc1cc(C=CC(O)=O)ccc1(O))C(O)C(O)C2(O),2.4.1.35
 13061,13061,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,2.4.1.35
 13062,13062,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O).Oc1cc(O)c2C(=O)C=C(Oc2(c1))c3ccc(O)c(O)c3>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).c1cc(c(cc1c2cc(=O)c3c(o2)cc(cc3OC4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,2.4.1.35
-13063,13063,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[Fe+2].[C-]#[O+].C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C),1.14.14.18
 13064,13064,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)C)O>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C)O,1.1.1.357
 13064,13064,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)C)O>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C)O,1.1.1.209
 13067,13067,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@H]4O)C>>[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(CCC1C4CCC(=O)C4(C)(CCC1C3(C)(CCC(=O)C2))),1.1.1.209
@@ -4267,7 +4076,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13081,13081,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=CC(=O)CC[C@]34C>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C24(CCC1=CC(=O)CCC1(C)C4([H])(CCC3(C)(C(=O)CCC23([H])))),1.1.1.209
 13083,13083,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.Oc1ccc(cc1)C=CC(=O)OC2CC(=CC(O)C2(O))C(=O)O>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C(O)C1=CC(O)C(O)C(C1)OC(=O)C=Cc2ccc(O)c(O)c2,1.14
 13091,13091,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.[H+].[H+].Cc1/c/2c/c3n/c(c\c4n/c(c\c5c(c(c([n-]5)/cc(/c1CCC(=O)[O-])\[n-]2)CCC(=O)[O-])C)/C(=C4C)C(C)O)/C(=C3C)C(C)O.[Fe+2]>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[Fe+2].[C-]#[O+].CC1=C(C(=CC2=C(C(=C(N2)C=C3C(=C(C(=CC4=NC(=O)C(=C4C)C(C)O)N3)C(C)O)C)C)CCC(=O)O)NC1=O)CCC(=O)O,1.14.14.18
-13093,13093,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].[Fe+2].[C-]#[O+].C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C),1.14.14.18
 13101,13101,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCCCCC(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,6.2.1
 13101,13101,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CCCCCCCCC(O)=O>>OP(O)(=O)OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23,6.2.1.3
 13111,13111,[H]O[H].[H]C(C#N)(OC1OC(CO)C(O)C(O)C1(O))c2ccc(O)cc2>>N#CC(O)c1ccc(O)cc1.OCC1OC(O)C(O)C(O)C1(O),3.2.1.21
@@ -4306,7 +4114,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13259,13259,[H]O[H].[*]C(=O)NC(COC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O))C(O)C=CCCCCCCCCCCCCC>>OCC1OC(O)C(O)C(O)C1(O).[*]C(=O)NC(COC1OC(CO)C(O)C(O)C1(O))C(O)C=CCCCCCCCCCCCCC,3.2.1.22
 13260,13260,[H]O[H].C([C@@H]1[C@@H](C([C@H]([C@H](O1)O[C@@H]([C@@H](CO)O)[C@@H]([C@H](C=O)O)O)O)O)O)O>>OCC1OC(O)C(O)C(O)C1(O).OCC1OC(O)C(O)C(O)C1(O),3.2.1.22
 13262,13262,[H]O[H].c1ccc2c(c1)C(=O)OC2(c3ccc(cc3)O)c4ccc(cc4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O>>OC(=O)C1OC(O)C(O)C(O)C1(O).Oc1ccc(cc1)C3(OC(=O)c2ccccc23)(c4ccc(O)cc4),3.2.1.31
-13271,13271,Nc1ncnc2ncnc12.OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23>>O=C1NC=Nc2ncnc12.Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O)),2.4.2.1
 13272,13272,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C4(O)(CCC2(C)(C([H])(CCC1([H])(C3([H])(CCC(C(C)=O)C3(C)(CCC12([H])))))C4))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@@H](C4)O)C)C)O,1.1.1.149
 13273,13273,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)=CCCC(C)=CCO>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C(=O)C=C(C)CCC=C(C)C,1.1.1.1
 13275,13275,[H]O[H].O=C(O)C(NC(=O)C(N)CC(O)=O)CO>>NC(CC(O)=O)C(O)=O.NC(CO)C(O)=O,3.5.1.18
@@ -4317,8 +4124,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13296,13296,[H]O[H].OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)>>OP(O)(O)=O.OCC1OC(O)C(O)C(O)C1(O),3.1.3.25
 13297,13297,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O).OCC1OC(O)C(O)C(O)C1(O)>>NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O).OC1OC(COP(O)(O)=O)C(O)C(O)C1(O),2.7.1.147
 13298,13298,CC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.10
-13305,13305,[H].NC(Cc1cnc2ccccc12)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C=O.ON=CCc1cnc2ccccc12,1.14.14.156
-13305,13305,[H].NC(Cc1cnc2ccccc12)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=C=O.ON=CCc1cnc2ccccc12,1.14
 13306,13306,NC(CCS)C(O)=O.C[S+](C)CCC(N)C(O)=O>>CSCCC(N)C(O)=O,2.1.1.10
 13317,13317,[H]O[H].[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCN/C(=N/[H])/N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@H](CCCN/C(=N/[H])/N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc2ccccc2)NC(=O)CNC(=O)CNC(=O)[C@H](Cc3ccc(cc3)O)N>>NCCCCC(N)C(O)=O.[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCN/C(=N/[H])/N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCCN/C(=N/[H])/N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc2ccccc2)NC(=O)CNC(=O)CNC(=O)[C@H](Cc3ccc(cc3)O)N,3.4.17.23
 13319,13319,[H]O[H].C1=CC=C(C=C1)C[C@@H](C(=O)NC2=CC=C(C=C2)[N+](=O)[O-])N>>NC(Cc1ccccc1)C(O)=O.Nc1ccc(cc1)[N+](=O)[O-],3.4.11.10
@@ -4386,7 +4191,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13593,13593,[H]O[H].C([C@@H]1[C@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)OP(=O)(O)OP(=O)(O)O>>OP(O)(O)=O.C([C@@H]1[C@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)OP(=O)(O)O,3.6.1.58
 13593,13593,[H]O[H].C([C@@H]1[C@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)OP(=O)(O)OP(=O)(O)O>>OP(O)(O)=O.C([C@@H]1[C@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)OP(=O)(O)O,3.6.1.55
 13596,13596,OC(=O)CCC(=O)C(O)=O.NC(=N)NCCCC(N)C(O)=O>>NC(CCC(O)=O)C(O)=O.NC(=N)NCCCC(=O)C(O)=O,2.6.1
-13601,13601,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O.OCC6OC(Oc2cc(O)cc3[o+]c(c1ccc(O)c(O)c1)c(cc23)OC5OC(COC(=O)C=Cc4ccc(O)cc4)C(O)C(O)C5(O))C(O)C(O)C6(O)>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1cc(ccc1/C=C/C(=O)OCC2C(C(C(C(O2)OC3=Cc4c(cc(cc4OC5C(C(C(C(O5)COC(=O)CC(=O)O)O)O)O)O)O=C3c6ccc(c(c6)O)O)O)O)O)O,2.3.1.172
 13604,13604,[H]O[H].CCCCCC(=O)CC(=O)NC1CCOC1(=O)>>CCCCCC(=O)CC(=O)N[C@@H](CCO)C(=O)O,3.1.1.81
 13605,13605,[H]O[H].CCCCCCCC(=O)CC(=O)N[C@H]1CCOC1=O>>CCCCCCCC(=O)CC(=O)N[C@@H](CCO)C(=O)O,3.1.1.81
 13607,13607,[H]O[H].CCCCCC(=O)NC1CCOC1=O>>CCCCCC(=O)N[C@@H](CCO)C(=O)O,3.1.1.81
@@ -4409,7 +4213,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13670,13670,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C23(CCC1([H])(C4([H])(CCC(O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C23(CCC1([H])(C4([H])(CCC(O)C4(C)(CCC1([H])C3(C)(CCC(=O)C2))))),1.1.1.50
 13670,13670,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]C23(CCC1([H])(C4([H])(CCC(O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].[H]C23(CCC1([H])(C4([H])(CCC(O)C4(C)(CCC1([H])C3(C)(CCC(=O)C2))))),1.1.1.357
 13671,13671,[H]O[H].C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(NC(=O)N=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O>>OP(O)(=O)OP(O)(O)=O.c1nc2c(nc(nc2n1[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)O)N,3.6.1.56
-13675,13675,O=O.Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)>>OO.Cc2c1cc5nc(cc4nc(cc3nc(cc(n1)c2(CCC(O)=O))C(C)=C3(CCC(O)=O))c(C)c4(CCC(O)=O))C(CCC(O)=O)=C5(C),1.3.3.4
 13678,13678,CC(=C)CCOP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.29
 13679,13679,CC(C)=CCOP(O)(=O)OP(O)(O)=O.CC(=C)CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O,2.5.1.29
 13682,13682,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C24(CCC1=CC(=O)C=CC1(C)C4([H])(CCC3(C)(C(O)CCC23([H]))))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC[C@H]4[C@@]3(C=CC(=O)C4)C,1.3.1.3
@@ -4456,7 +4259,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 13946,13946,NC(CCS)C(O)=O>>[H]S[H].C(CSCC[C@@H](C(=O)O)N)[C@@H](C(=O)O)N,4.4.1.1
 13947,13947,O=CC(O)=O.NC(CCCC(O)=O)C(O)=O>>NCC(O)=O.OC(=O)CCCC(=O)C(O)=O,2.6.1.39
 13948,13948,NC(Cc1ccc(O)cc1)C(O)=O.O=CC(O)=O>>NCC(O)=O.Oc1ccc(cc1)CC(=O)C(O)=O,2.6.1.7
-13949,13949,NC(Cc1cnc2ccccc12)C(O)=O.O=CC(O)=O>>NCC(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.7
 13950,13950,CC(C)CC(N)C(O)=O.O=CC(O)=O>>NCC(O)=O.CC(C)CC(=O)C(O)=O,2.6.1.7
 13951,13951,O=CC(O)=O.NC(CC(=O)c1cccc(O)c1(N))C(O)=O>>NCC(O)=O.Nc1c(O)cccc1C(=O)CC(=O)C(O)=O,2.6.1.7
 13952,13952,O=CC(O)=O.CCC(N)C([O-])=O>>NCC(O)=O.[H]C(=O)CCC(O)=O,2.6.1.7
@@ -4478,7 +4280,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14021,14021,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.Cc1cc(ccc1S(=O)C)OP(=S)(OC)OC>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Cc1cc(ccc1S(=O)(=O)C)OP(=S)(OC)OC,1.14.14.1
 14023,14023,[H]O[H].CSCC[C@@H](C(=O)NC1=CC=C(C=C1)[N+](=O)[O-])N>>Nc1ccc(cc1)[N+](=O)[O-].CSCCC(N)C(O)=O,3.3.2.6
 14033,14033,[H]O[H].Cc1cc(=O)oc2c1ccc(c2)NC(=O)[C@@H]3CCCN3C(=O)CNC(=O)OCc4ccccc4>>CC1=CC(=O)Oc2cc(N)ccc12.OC(=O)C2CCCN2(C(=O)CNC(=O)OCc1ccccc1),3.4.21.26
-14068,14068,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O).C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)>>O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).C=CC=5C(=O)NC(=Cc4nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(O)=O)c4(C))C=5(C),2.4.1.17
 14076,14076,[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C).[*]C(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC([*])=O>>[*]C(=O)OC4CCC2(C)(C(=CCC1C3CCC(C(C)CCCC(C)C)C3(C)(CCC12))C4).[*]C(=O)OCC(O)COP(=O)(O)OCC[N+](C)(C)C,2.3.1.43
 14089,14089,[C@@H]([C@H](C(=O)[O-])O)(C(=O)[O-])[NH3+]>>[H]N([H])[H].OC(=O)CC(=O)C(O)=O,4.3.1.27
 14099,14099,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.[H]C12(CC=C(C)CC2([H])(C1(C)(C))),4.2.3.107
@@ -4491,13 +4292,9 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14116,14116,CCCCCC(C=CC2C1CC(OO1)C2(CC=CCCCC(O)=O))OO>>CCCCC[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O)OO,5.3.99.3
 14117,14117,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O.CCCCC[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O)OO>>[H]O[H].NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O)C(=O)NCC(O)=O)C(O)=O.CCCCCC(O)C=CC1C(O)CC(=O)C1(CC=CCCCC(O)=O),1.11.1.9
 14119,14119,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.O=C=O.c1ccc(cc1)c2ccc(c(c2)O)O,2.3.1.177
-14122,14122,[H]O[H].CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C>>(C-)#N.c1ccc(cc1)Oc2cccc(c2)C=O.O=C([O-])C1C(C)(C)C1(C)C,3.1.1.88
-14124,14124,[H]O[H].N2c1ccccc1[C@@]54[C@@H]2CC[C@]3([C@@H]5N(CCC3)CC4)CC>>(C-)#N.CC1(C(C1C(=O)[O-])C=C(Cl)Cl)C.c1ccc(cc1)Oc2cccc(c2)C=O,3.1.1.88
-14126,14126,[H]O[H].CC(C)C(c1ccc(cc1)Cl)C(=O)OC(C#N)c2cccc(c2)Oc3ccccc3>>(C-)#N.c1ccc(cc1)Oc2cccc(c2)C=O.Clc1ccc(cc1)C(C(C)C)C([O-])=O,3.1.1.88
 14128,14128,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.CN2CCCC2(c1cccnc1)>>[H].[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN1C(CCC1=O)c2cccnc2,1.14.14.1
 14135,14135,OCC(=O)COP(O)(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCC(O)CO,1.1.1.8 3.1.3.21
 14136,14136,OC(=O)C1NCCC1(O)>>C1CN[C@H](C1O)C(=O)O,5.1.1.8
-14137,14137,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O.CC(C)=CCNc1ncnc2ncnc12>>OP(O)(=O)OP(O)(O)=O.CC(C)=CCNc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),2.4.2.7
 14144,14144,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OCC4OC(Oc2cc3c(O)cc(O)cc3([o+]c2(c1ccc(O)c(O)c1)))C(O)C(O)C4(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1cc(ccc1(O))c3[o+]c4cc(O)cc(O)c4(cc3(OC2OC(CO)C(O)C(O)C2(O))),2.1.1.267
 14145,14145,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OCC4OC(Oc2cc3c(O)cc(O)cc3([o+]c2(c1cc(O)c(O)c(O)c1)))C(O)C(O)C4(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1cc(cc(O)c1(O))c3[o+]c4cc(O)cc(O)c4(cc3(OC2OC(CO)C(O)C(O)C2(O))),2.1.1.267
 14146,14146,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OCC4OC(OC=2C(=O)c3c(O)cc(O)cc3(OC=2(c1ccc(O)c(O)c1)))C(O)C(O)C4(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1cc(ccc1O)c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,2.1.1.267
@@ -4544,7 +4341,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14290,14290,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(OP(O)(O)=O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O,2.7.4.21
 14299,14299,[H]O[H].Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)OP(=O)(O)O>>OP(O)(O)=O.Cc2ncc(C[n+]1csc(CCOP(O)(O)=O)c1(C))c(N)n2,3.1.3.97
 14308,14308,CCCCCCCCCCCCCC(C)C(C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O)O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC=O.CCCCCCCCCCCCCC(C)C=O,4.1.2.n2
-14309,14309,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]NC(=O)C(Cc1cncn1)NC([*])=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O,2.7.13.3
 14319,14319,[H]O[H].OC1CC(O)C(COP(O)(O)=O)O1>>OP(O)(O)=O.OCC1OC(O)CC1(O),3.1.3
 14321,14321,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NC(C[Se])C(O)=O>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.C[Se]CC(N)C(O)=O,2.1.1.280
 14322,14322,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NC(CC[Se])C(O)=O>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.C[Se]CCC(N)C(O)=O,2.1.1.280
@@ -4588,8 +4384,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14410,14410,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.CC(=O)OC5C(=O)C7(C)(C(O)CC1OCC1(OC(C)=O)C7(C(OC(=O)c2ccccc2)C6(O)(CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c4ccccc4)C(C)=C5C6(C)(C))))>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC1=C2[C@H](C(=O)[C@]3([C@H]([C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C4=CC=CC=C4)NC(=O)C5=CC=CC=C5)O)O)OC(=O)C6=CC=CC=C6)[C@@]7(CO[C@@H]7[C@H]([C@@H]3O)O)OC(=O)C)C)OC(=O)C,1.14.14.1
 14411,14411,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.CCN(CC)Cc1cc(ccc1(O))Nc3ccnc2cc(ccc23)Cl>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).c1cc(c(cc1Nc2ccnc3c2ccc(c3)Cl)CN)O,1.14.14.1
 14412,14412,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).N#C[Fe+3](C#N)(C#N)(C#N)(C#N)C#N.OS(O)=O>>c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OS(=O)(=O)O)O)O)N.N#C[Fe+2](C#N)(C#N)(C#N)(C#N)C#N,1.8.99.2
-14413,14413,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O,3.6.1.13
-14413,14413,[H]O[H].Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))>>Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O,3.1.4
 14454,14454,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.Nc1ccccc1(C(O)=O)>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)Nc1ccccc1(C(O)=O),2.3.1.118
 14461,14461,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NNC(=O)c1ccncc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)NNC(=O)c1ccncc1,2.3.1.118
 14461,14461,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NNC(=O)c1ccncc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)NNC(=O)c1ccncc1,2.3.1.5
@@ -4612,17 +4406,12 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14583,14583,[H]O[H].C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O)O>>OCC1OC(O)C(O)C(O)C1(O).C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O,3.2.1.58
 14584,14584,[H]O[H].C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@H]3[C@@H]([C@H](O[C@H]([C@@H]3O)O[C@H]4[C@@H]([C@H](O[C@H]([C@@H]4O)O[C@H]5[C@@H]([C@H](O[C@H]([C@@H]5O)O[C@H]6[C@@H]([C@H](OC([C@@H]6O)O)CO)O)CO)O)CO)O)CO)O)CO)O)O)O)O)O>>OCC1OC(O)C(O)C(O)C1(O).C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O)O,3.2.1.58
 14585,14585,[H]O[H].C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@H]3[C@@H]([C@H](O[C@H]([C@@H]3O)O[C@H]4[C@@H]([C@H](O[C@H]([C@@H]4O)O[C@H]5[C@@H]([C@H](O[C@H]([C@@H]5O)O[C@H]6[C@@H]([C@H](O[C@H]([C@@H]6O)O[C@H]([C@H](C=O)O)[C@@H]([C@@H](CO)O)O)CO)O)CO)O)CO)O)CO)O)CO)O)O)O)O)O>>OCC1OC(O)C(O)C(O)C1(O).C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@H]3[C@@H]([C@H](O[C@H]([C@@H]3O)O[C@H]4[C@@H]([C@H](O[C@H]([C@@H]4O)O[C@H]5[C@@H]([C@H](O[C@H]([C@@H]5O)O[C@H]6[C@@H]([C@H](OC([C@@H]6O)O)CO)O)CO)O)CO)O)CO)O)CO)O)O)O)O)O,3.2.1.58
-14590,14590,OCC2OC(OC1OC(CO)C(O)C(O)C1(O))C(O)C(O)C2(O).[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O>>[*]NC(=O)C(Cc1cncn1)NC([*])=O.OCC2OC(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O))C(O)C(O)C2(O),2.7.1.201
 14592,14592,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[Fe+3]>>[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[Fe+2],1.16.1.9
 14594,14594,[H]O[H].O=P(O)(O)OC1C(OP(O)(=O)O)C(OP(O)(O)=O)C(OP(=O)(O)OP(O)(=O)O)C(OP(O)(=O)O)C1(OP(O)(=O)O)>>OP(O)(O)=O.OP(=O)(O)OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(=O)(O)O)C(OP(O)(O)=O)C1(OP(O)(O)=O),3.6.1.52
 14596,14596,[H]O[H].[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O)>>[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O),3.1.13
 14596,14596,[H]O[H].[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O)>>[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O),3.1
 14600,14600,[H]O[H].NC(=N)NCCCC(N)C(O)=O>>[H]N([H])[H].C(C[C@H](C(=O)O)N)CNC(=O)N,3.5.3.6
 14606,14606,OC(=O)CCC(=O)C(O)=O.NC(CC(=O)c1ccccc1(N))C(O)=O>>NC(CCC(O)=O)C(O)=O.OC(=O)c1cc(O)c2ccccc2(n1),2.6.1.7
-14607,14607,NC(Cc1cnc2ccccc12)C(O)=O.Cc1ncc(COP(O)(O)=O)c(C=O)c1(O)>>Cc1ncc(COP(O)(O)=O)c(CN)c1(O).OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1
-14608,14608,OC(=O)C(=O)Cc1cnc2ccccc12>>C1=CC=C2C(=C1)C(=CN2)C3=C(C(=O)C(=C(C3=O)O)C4=CNC5=CC=CC=C54)O,2.3.1
-14613,14613,[H].NC(CS)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.[H]C(Cc1cnc2ccccc12)=NO>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C1=CC=C2C(=C1)C(=CN2)C/C(=N/O)/SC[C@@H](C(=O)O)N,1.14.14.45
-14613,14613,[H].NC(CS)C(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.[H]C(Cc1cnc2ccccc12)=NO>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).C1=CC=C2C(=C1)C(=CN2)C/C(=N/O)/SC[C@@H](C(=O)O)N,1.14.14.43
 14620,14620,[H]O[H].CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.CC(=CCC/C(=C/CC[C@@](C)(C=C)O)/C)C,4.2.3.48
 14621,14621,[H]O[H].CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.C=CC(C)(O)CCC=C(C)C,4.2.3.48
 14623,14623,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O),2.7.4.8
@@ -4636,7 +4425,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14669,14669,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(C)(C(=O)C1=CC=C(C=C1)OC)N2C=CN=C2>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(C(C1=CC=C(C=C1)OC)O)N2C=CN=C2,1.1.1.50
 14671,14671,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))>>Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1)).NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O),2.7.1.76
 14673,14673,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))>>Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1)).O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O),2.7.1.76
-14676,14676,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NCCc1cnc2ccccc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)NCCC1=CNC2=CC=CC=C21,2.3.1.87
 14678,14678,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NCCc1ccccc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)NCCc1ccccc1,2.3.1.87
 14682,14682,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCC(C)C(=O)C(O)=O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCC(C)[C@H](C(=O)[O-])O,1.1.1.272
 14683,14683,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CCC(C)C(=O)C(O)=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CCC(C)[C@H](C(=O)[O-])O,1.1.1.345
@@ -4664,15 +4452,9 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14742,14742,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=C1CCC(=O)CC1>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.C1CC(CCC1O)O,1.1.1
 14743,14743,CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(C)C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)([O-])[O-])O,5.4.99.13
 14746,14746,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H].NC(=O)CCC(N)C(O)=O>>OP(O)(O)=O.Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).C(CC(=O)NP(=O)(O)O)[C@@H](C(=O)O)N,2.7.3.13
-14751,14751,NC(COP(O)(O)=O)C(O)=O.c1ccc2nccc2(c1)>>OP(O)(O)=O.NC(Cc1cnc2ccccc12)C(O)=O,4.2.1.122
 14754,14754,CSCCC(N)C(O)=O.O=O>>[H]O[H].O=C=O.CSCCC(=O)N,1.13.12.3
 14755,14755,C=C/C=C(\C(=O)O)/O>>CC=CC(=O)C(=O)[O-],5.3.2.6
-14776,14776,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4.NCCc1cnc2ccc(O)cc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C1=CC=C2C(=C1)C(=CN2)CCNC(=O)/C=C/C3=CC=C(C=C3)O,2.3.1
 14777,14777,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4.NCCc1ccc(O)cc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C1=CC(=CC=C1CCNC(=O)/C=C/C2=CC=C(C=C2)O)O,2.3.1
-14778,14778,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4.NCCc1cnc2ccccc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C1=CC=C(C=C1)C(=O)NCCC2=CNC3=CC=CC=C32,2.3.1
-14779,14779,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)c(O)c4.NCCc1cnc2ccccc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1ccc2c(c1)c(c[nH]2)CCNC(=O)/C=C/c3ccc(c(c3)O)O,2.3.1
-14780,14780,NCCc1cnc2ccccc12.COc1cc(ccc1(O))C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(OP(O)(O)=O))n4cnc3c(N)ncnc34>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cccc3,2.3.1
-14782,14782,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4.NCCc1cnc2ccc(O)cc12>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C1=CC=C(C=C1)C(=O)NCCC2=CNC3=C2C=C(C=C3)O,2.3.1
 14783,14783,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4.NCCc1ccc(O)cc1>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.c1ccc(cc1)C(=O)NCCc2ccc(cc2)O,2.3.1
 14799,14799,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(=O)C(C)(O)C(O)=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(O)C(O)C(O)=O,1.1.1.383
 14801,14801,OO.Oc1ccc(O)cc1>>[H]O[H].O=C1C=CC(=O)C=C1,1.11.1.16
@@ -4684,10 +4466,7 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14821,14821,[H]O[H].O=O.CCC(C(C)O)[N+](=O)[O-]>>OO.ON=O.CCC(=O)C(C)O,1.7.3.1
 14822,14822,[H]O[H].O=O.C1CCC(CC1)[N+](=O)[O-]>>OO.ON=O.O=C1CCCCC1,1.7.3.1
 14823,14823,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.OCC1OC(O)C(O)C(O)C1(O)>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].OCC(O)C(O)C(O)C(O)C(O)=O,1.1.1.18
-14826,14826,CC(=O)OCC(N)C(O)=O.(C-)#N>>CC(O)=O.N#CCC(N)C(O)=O,4.4.1.9
-14826,14826,CC(=O)OCC(N)C(O)=O.(C-)#N>>CC(O)=O.N#CCC(N)C(O)=O,2.5.1.47
 14827,14827,[H]S[H].NC(CSS(O)(=O)=O)C(O)=O>>NC(CS)C(O)=O.OS(=O)(=O)[S-],2.5.1.47
-14828,14828,(C-)#N.NC(CSS(O)(=O)=O)C(O)=O>>N#CCC(N)C(O)=O.OS(=O)(=O)[S-],2.5.1.47
 14829,14829,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(OP(O)(=O)OP(O)(O)=O)C3(O)>>OP(O)(=O)OP(O)(O)=O.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O),3.1.7.2
 14832,14832,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.CCC=CCCO>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC/C=C\CCOC(=O)C,2.3.1.195
 14834,14834,[H]O[H].CC(C)NC(=O)CC[C@@H](C(=O)[O-])[NH3+]>>NC(CCC(O)=O)C(O)=O.CC(C)N,3.4
@@ -4727,7 +4506,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 14935,14935,[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C).CCCCCCCCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.[H]C2(CCC3([H])(C4([H])(CC=C1CC(CCC1(C)C4([H])(CCC23(C)))OC(=O)CCCCCCCC=CCCCCCCCC)))(C(C)CCCC(C)C),2.3.1.26
 14936,14936,COc1ccccc1(O).c1ccc(cc1)/C=C/CCCOO>>[H]O[H].COC1=C/C(=C/2\C=CC(=O)C(=C2)OC)/C=CC1=O.c1ccc(cc1)/C=C/CCCO,1.14.99.1
 14940,14940,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C14(CC(=O)C(O)CC4(C)(C2CCC3(C)(C(CCC3(O)(C2(=CC1(=O))))C(C)C(O)CCC(C)(C)O)))>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C13(CCC4(C)(C(CCC4(O)(C3(=CC(=O)C2([H])(CC(O)C(O)CC12(C)))))C(C)C(O)CCC(C)(C)O)),1.1.1
-14941,14941,[H]O[H].O=O.NC(Cc1cncn1)C(O)=O>>[H]N([H])[H].OO.C1=C(NC=N1)C(=O)C(=O)O,1.4.3.3
 14947,14947,[H]O[H].C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@H]([C@@H](CO)O)[C@@H]([C@H](CO)O)O)O)O)O)O>>OCC1OC(O)C(O)C(O)C1(O).OCC(O)C(O)C(O)C(O)CO,3.2.1.23
 14948,14948,[H]O[H].OCC2OC(OC1C(CO)OC(O)(CO)C1(O))C(O)C(O)C2(O)>>OCC1OC(O)C(O)C(O)C1(O).OCC1OC(O)(CO)C(O)C1(O),3.2.1.23
 14950,14950,OP(O)(O)=O.c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.NC(CC=O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].NC(CC(=O)OP(O)(O)=O)C(O)=O,1.2.1.11
@@ -4836,14 +4614,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15315,15315,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O>>OP(O)(=O)OP(O)(O)=O.C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)([O-])OP(=O)([O-])OC[C@@H]4C(=C([C@H]5[C@@H](O4)NC6=C(N5)C(=O)NC(=N6)N)[S-])[S-])O)O)N=C(NC2=O)N.O=[Mo+2]=O,2.7.7.77
 15316,15316,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O>>OP(O)(=O)OP(O)(O)=O.C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O,2.7.7.76
 15316,15316,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O>>OP(O)(=O)OP(O)(O)=O.C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O,2.7.7.77
-15343,15343,(C-)#N.COc1ccc(C=O)cc1>>COC1=CC=C(C=C1)[C@H](C#N)O,4.1.2.10
-15344,15344,O=Cc1ccccc1.(C-)#N>>O[C@@H](C#N)c1ccccc1,4.1.2.10
-15348,15348,CCC=O.(C-)#N>>CC[C@H](C#N)O,4.1.2.10
-15351,15351,O=Cc1ccccc1.(C-)#N>>N#CC(O)c1ccccc1,4.1.2.47
-15352,15352,(C-)#N.Cc1ccccc1(C=O)>>N#C[C@@H](O)c1ccccc1C,4.1.2.47
-15366,15366,(C-)#N.CCCC=CC=O>>CCC/C=C/[C@@H](C#N)O,4.1.2.47
-15367,15367,(C-)#N.CCCCCCC=O>>CCCCCC[C@@H](C#N)O,4.1.2.47
-15368,15368,(C-)#N.CC(C)CCC(C)=O>>CC(C)CC[C@@](C)(C#N)O,4.1.2.47
 15372,15372,OC(=O)c2ccccc2(NC1OC(COP(O)(O)=O)C(O)C1(O))>>O[C@H](COP([O-])([O-])=O)[C@@H](O)C(=O)CNc1ccccc1C([O-])=O,5.3.1.24
 15374,15374,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CN1C=[N+](C2=C1C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)[O-])O)O,2.1.1.56
 15375,15375,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C5N=C(NC6=O)N)O)O)O)O)N>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CN1C=[N+](C2=C1C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C(N=CN=C65)N)O)O)O)O,2.1.1.56
@@ -4885,7 +4655,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15487,15487,[H]O[H].[*]SC(=O)CCCCCCCCCCCCC>>[*]S.CCCCCCCCCCCCCC(O)=O,3.1.2.2
 15491,15491,[H]O[H].CC1=CC=C(C=C1)C(=O)SNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=CN=C4N)O)OP(=O)(O)O)O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.Cc1ccc(cc1)C(O)=O,3.1.2.23
 15492,15492,[H]O[H].CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccc(F)cc4>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.OC(=O)c1ccc(F)cc1,3.1.2.23
-15495,15495,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.COc1ccc2ncc(CCN)c2(c1)>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.COc1ccc2ncc(CCNC(C)=O)c2(c1),2.3.1.87
 15496,15496,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O).Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C))>>NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O).Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C)),2.7.1.161
 15497,15497,CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.[H][C@@]12CC=C(C)C=C1[C@H](CC[C@H]2C)C(C)C,4.2.3.67
 15498,15498,CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O>>OP(O)(=O)OP(O)(O)=O.C=CC(=C)CCC=C(C)CCC=C(C)C,4.2.3.47
@@ -4903,8 +4672,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15530,15530,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.Oc1cc(O)c2C(=O)C=C(Oc2(c1))c3cc(O)c(O)c(O)c3>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1cc(cc(OC)c1(O))C2=CC(=O)c3c(O)cc(O)cc3(O2),2.1.1.175
 15530,15530,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.Oc1cc(O)c2C(=O)C=C(Oc2(c1))c3cc(O)c(O)c(O)c3>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COc1cc(cc(OC)c1(O))C2=CC(=O)c3c(O)cc(O)cc3(O2),2.1.1.169
 15539,15539,[H]O[H].c1ccc(cc1)CC2C(O2)c3ccccc3>>c1ccc(cc1)CC(C(c2ccccc2)O)O,3.3.2.10
-15545,15545,NC(CS)C(O)=O.O=O.C[N+](C)(C)C(Cc1cncn1)C(O)=O>>[H]O[H].C[N+](C)(C)[C@@H](Cc1c[nH]c(n1)S(=O)C[C@H](N)C(O)=O)C([O-])=O,1.14.99.51
-15546,15546,O=O.NC(CCC(=O)NC(CS)C(O)=O)C(O)=O.C[N+](C)(C)C(Cc1cncn1)C(O)=O>>[H]O[H].C[N+](C)(C)[C@@H](Cc1c[nH]c(n1)S(=O)C[C@@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)N)C(=O)[O-],1.14.99.51
 15548,15548,[H]O[H].CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)\C=C\C[N+](C)(C)C>>CC(C)(COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC(=O)C[C@H](C[N+](C)(C)C)O)O,4.2.1.149
 15549,15549,CC(C)C[C@@H](O)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP([O-])([O-])=O)n1cnc2c(N)ncnc12>>[H]O[H].CC(C)C=CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12,4.2.1.157
 15550,15550,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].CC(=O)C(C)(O)C(O)=O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(O)C(O)C(O)=O,1.1.1.86
@@ -4917,10 +4684,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15571,15571,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O.CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.O=C=O.Oc1ccc(cc1)C=CC(=O)CC2=CC(O)=CC(=O)O2,2.3.1.74
 15579,15579,[H]O[H].CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O>>OP(O)(=O)OP(O)(O)=O.CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)O)O)O,3.6.1.63
 15580,15580,[H]O[H].OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O)>>OP(O)(O)=O.OC1OC(COP(O)(O)=O)C(O)C1(O),3.6.1.63
-15581,15581,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CP(=O)([O-])[O-]>>Nc1ncnc2ncnc12.CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,2.7.8.37
-15582,15582,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O).CP(=O)([O-])[O-]>>NC=1NC(=O)c2ncnc2(N=1).CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,2.7.8.37
-15585,15585,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).[H]O[H]>>Nc1ncnc2ncnc12.OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O),3.2.2
-15586,15586,[H]O[H].NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O)>>NC=1NC(=O)c2ncnc2(N=1).OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O),3.2.2
 15588,15588,OC(CS)C(O)CS.OS(=O)(=O)[S-]>>OC1CSSCC1(O).[*]S[*].OS(O)=O,2.8.1.1
 15593,15593,[H]O[H].C1=NC2=C(N=C(N=C2N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)Cl)N>>OP(O)(O)=O.C1=NC2=C(N=C(N=C2N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)Cl)N,3.6.1.5
 15594,15594,[H]O[H].CSC1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N>>OP(O)(O)=O.CSC1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N,3.6.1.5
@@ -5009,8 +4772,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15854,15854,[H]O[H].CS(=O)(=O)OCCCCCCCCCCCCCCCC(=O)OC1=CC=C(C=C1)[N+](=O)[O-]>>Oc1ccc(cc1)[N+](=O)[O-].CS(=O)(=O)OCCCCCCCCCCCCCCCC(=O)O,3.1.1.74
 15856,15856,[H]O[H].C1=CC(=CC=C1C(=O)[O-])C(=O)OCCO>>OCCO.OC(=O)c1ccc(cc1)C(O)=O,3.1.1.102
 15857,15857,[H]O[H].C1=CC(=CC=C1C(=O)OCCO)C(=O)OCCO>>OCCO.C1=CC(=CC=C1C(=O)[O-])C(=O)OCCO,3.1.1.102
-15860,15860,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C).CC1=CC(=O)c2ccccc2(C1(=O))>>C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C).Cc1cc(O)c2ccccc2(c1(O)),1.3.5.3
-15861,15861,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C).CC1=CC(=O)c2ccccc2(C1(=O)).Cc1cc(O)c2ccccc2(c1(O))>>C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C),1.3.5.3
 15867,15867,[H]O[H].CCCCCCCCCCCCCCCC(=O)OCC(O)COP(O)(O)=O>>OP(O)(O)=O.CCCCCCCCCCCCCCCC(=O)OC[C@H](CO)O,3.1.3.76
 15870,15870,[H]O[H].CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OC[C@H](COP(=O)(O)O)O>>OP(O)(O)=O.CCCCCC=CCC=CCC=CCC=CCCCC(=O)OCC(O)CO,3.1.3.76
 15871,15871,[H]O[H].CCCCCCCCCCCCCCCCCCOCC(COP(=O)(O)O)O>>OP(O)(O)=O.CCCCCCCCCCCCCCCCCCOCC(O)CO,3.1.3.76
@@ -5033,7 +4794,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 15949,15949,[H]O[H].CC(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(C)C(O)=O,3.1.2.2
 15950,15950,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=CC=Cc1ccc(O)cc1>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).c1cc(ccc1CCC=O)O,1.3.1.74
 15951,15951,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).COc1cc(C=CC=O)ccc1(O)>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).COC1=C(C=CC(=C1)CCC=O)O,1.3.1.74
-15954,15954,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.CCCCc4nc(c(CO)n4(Cc1ccc(cc1)c3ccccc3(c2nnnn2)))Cl>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)O)Cl,1.14.14.1
 15958,15958,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CCCCCCCCCCCCCCC(O)C(O)C(N)CO>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).CCCCCCCCCCCCCC[C@H]([C@H]([C@H](COP(=O)(O)O)N)O)O,2.7.1.91
 15959,15959,[H]O[H].CCCOC(=O)CC>>CCC(O)=O.CCCO,3.1.1.2
 15961,15961,[H]O[H].CCC(=O)OC>>CO.CCC(O)=O,3.1.1.2
@@ -5051,7 +4811,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 16026,16026,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.CC(C)(C1CC2=C(O1)C=C3C(=C2O)C=CC(=O)O3)O>>c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.[H]O[H].CC(C)=O.O=C1C=Cc2c(O)c3ccoc3(cc2(O1)),1.14.14.141
 16031,16031,[H]O[H].CC(=O)NC(=O)C[C@@H](C(=O)O)N>>NC(=O)CC(N)C(O)=O.CC(O)=O,3.5.1.16
 16033,16033,[H]O[H].C(C(=O)O)NC(=O)CCl>>NCC(O)=O.OC(=O)CCl,3.5.1.16
-16052,16052,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O>>[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=[O-],1.6.3
 16057,16057,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.NC(CO)C(O)=O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.CC(=O)N[C@H](CO)C(=O)O,2.3.1.36
 16058,16058,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.CC(N)C(O)=O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C[C@H](C(=O)O)NC(=O)C,2.3.1.36
 16062,16062,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O).C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)C#N)N>>OP(O)(=O)OP(O)(O)=O.[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O),2.7.7.48
@@ -5068,7 +4827,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 16094,16094,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.COc2ccc1CC(=O)c3cc4OCOc4(cc3(CCN(C)Cc1c2(OC)))>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CN1CC2=C(CC(=O)C3=CC4=C(C=C3CC1O)OCO4)C=CC(=C2OC)OC,1.14.14.98
 16096,16096,NC(=O)CC(N)C(O)=O.O=O.OC(=O)CCC(=O)C(O)=O>>O=C=O.OC(=O)CCC(O)=O.[C@H]([C@@H](C(=O)N)O)(C(=O)O)N,1.14.11.39
 16097,16097,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OC(=O)c1ccccc1(O)>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COC(=O)c1ccccc1(O),2.1.1.274
-16098,16098,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.OC(=O)Cc1cnc2ccccc12>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.COC(=O)CC1=CNC2=CC=CC=C21,2.1.1.278
 16105,16105,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=O)C=1CCC(O)[N+](C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O),4.2.1.93
 16106,16106,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=O)C=1CCC(O)[N+](C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>OP(O)(O)=O.NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),4.2.1.136
 16107,16107,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(=O)C=1CCC(O)[N+](C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)>>OP(O)(O)=O.[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)),4.2.1.136
@@ -5081,15 +4839,9 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 16133,16133,OC(CS)C(O)CS.CN(C)C1=CC=C(C=C1)N=NC2=CC=C(C=C2)S(=O)(=O)N[C@@H](CC[S@](=O)C)C(=O)O>>[H]O[H].OC(CS)C(O)CSSCC(O)C(O)CS.CN(C)C1=CC=C(C=C1)N=NC2=CC=C(C=C2)S(=O)(=O)N[C@@H](CCSC)C(=O)O,1.8.4.12
 16134,16134,[*]C(=O)C(CS)NC(=O)C([*])CS.CC(=O)N[C@@H](CC[S@](=O)C)C(=O)O>>[H]O[H].[*]C(=O)C1CSSCC([*])C(=O)N1.CC(=O)NC(CCSC)C(O)=O,1.8.4.12
 16135,16135,NC(CS)C(O)=O>>CC(N)C(O)=O.[*]S[*],2.8.1.7
-16141,16141,[H]O[H].[H]C([H])=O.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC=O.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.99
-16141,16141,[H]O[H].[H]C([H])=O.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>OC=O.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.2.8
-16143,16143,CCCO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>CCC=O.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.2.8
-16144,16144,CCCCO.OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O>>[H]C(=O)CCC.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.2.8
-16146,16146,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O.OCCc1ccccc1>>O=CCc1ccccc1.OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O,1.1.2.8
 16149,16149,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CC(C(=C)C)CC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CCC(C(=C)C)C)\C)\C)/C)/C,2.1.1.262
 16150,16150,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.C[C@H](CC/C=C(\C)/CCC=C(C)C)/C=C/[C@@](C)(CC/C=C(\C)/CCC=C(C)C)C=C>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.C[C@H](CC/C=C(\C)/CCC(C)C(=C)C)/C=C/[C@@](C)(CC/C=C(\C)/CCC(C)C(=C)C)C=C,2.1.1.263
 16153,16153,[H]O[H].CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23.OC(=O)CCC(=O)CC(O)=O>>CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS.C(CC(CC(=O)O)(CC(=O)O)O)C(=O)O,2.3.3.14
-16154,16154,[H]O[H].COC(=O)CC1=CNC2=CC=CC=C21>>CO.OC(=O)Cc1cnc2ccccc12,3.1.1.1
 16155,16155,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC1=C(/C(=C/C2=C(C(=C(N2)/C=C\3/C(=C(C(=CC4=NC(=O)C(=C4C)C=C)N3)C=C)C)C)CCC(=O)O)/NC1=O)CCC(=O)O>>NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).CC1=C(/C(=C/C2=C(C(=C(N2)CC3=C(C(=C(N3)/C=C\4/C(=C(C(=O)N4)C=C)C)C=C)C)C)CCC(=O)O)/NC1=O)CCC(=O)O,1.3.1.24
 16159,16159,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.CC(=CCC1=C2C(=CC=C1)NC=C2C[C@@H](C(=O)O)N)C>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CC(=CCC1=C2C(=CC=C1)NC=C2C[C@@H](C(=O)O)NC)C,2.1.1.261
 16161,16161,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N.CC(C)(C)C(C(O)C(O)=O)C(O)=O>>NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H].O=C=O.CC(C)(C)CC(C(=O)[O-])O,1.1.1.85
@@ -5110,7 +4862,6 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 16190,16190,O=O.OC(=O)CCC(=O)C(O)=O.COc1ccc2CC3C4=CC=C(OC)C5Oc1c2C45(CCN3(C))>>O=C=O.OC(=O)CCC(O)=O.[H]C([H])=O.COC1=CC=C3C2Cc4ccc(O)c5OC1C3(CCN2(C))c45,1.14.11.32
 16192,16192,[H]O[H].[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O>>OP(O)(O)=O.[*]C(=O)OCC(COP(O)(=O)OC1C(O)C(O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(O))OC([*])=O,3.1.3.86
 16197,16197,NC(Cc1ccc(O)cc1)C(O)=O.CSCCC(=O)C(O)=O>>CSCCC(N)C(O)=O.Oc1ccc(cc1)CC(=O)C(O)=O,2.6.1.5
-16198,16198,NC(Cc1cnc2ccccc12)C(O)=O.CSCCC(=O)C(O)=O>>CSCCC(N)C(O)=O.OC(=O)C(=O)Cc1cnc2ccccc12,2.6.1.57
 16199,16199,NC(Cc1ccc(O)cc1)C(O)=O.OC(=O)CC(=O)C(O)=O>>NC(CC(O)=O)C(O)=O.Oc1ccc(cc1)CC(=O)C(O)=O,2.6.1.5
 16203,16203,CC(=O)C(O)=O.NC(CC=O)C(O)=O>>[H]O[H].C1[C@@H](CC(=N[C@@H]1C(=O)O)C(=O)O)O,4.3.3.7
 16216,16216,NC(Cc1ccc(O)c(O)c1)C(O)=O>>C1=CC(=C(C=C1C(CC(=O)O)N)O)O,5.4.3.6
@@ -5129,14 +4880,10 @@ Unnamed: 0,SabioReactionID,Reaction,ECNumber
 16242,16242,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OC(=O)c1ccccc1>>OP(O)(=O)OP(O)(O)=O.C1=CC=C(C=C1)C(=O)OP(=O)([O-])OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)O,6.3.2
 16244,16244,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).Nc1ccc(cc1)C(O)=O>>OP(O)(=O)OP(O)(O)=O.C1=CC(=CC=C1C(=O)OP(=O)([O-])OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)O)N,6.3.2
 16249,16249,OCC(=O)C(O)C(O)C(O)C(O)COP(O)(O)=O>>OC(COP(O)(O)=O)C1OC(O)C(O)C(O)C1(O),5.3.1.28
-16250,16250,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(Cc1cncn1)C(O)=O.NCCC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.NCCC(=O)NC(Cc1cncn1)C(O)=O,6.3.2.11
-16251,16251,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NC(Cc1cncn1)C(O)=O.NCCCC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.NCCCC(=O)NC(Cc1cncn1)C(O)=O,6.3.2.11
 16252,16252,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCCCC(N)C(O)=O.NCCC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.NCCCCC(NC(=O)CCN)C(O)=O,6.3.2.11
 16253,16253,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCCC(N)C(O)=O.NCCC(O)=O>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.C(C[C@@H](C(=O)[O-])NC(=O)CC[NH3+])C[NH3+],6.3.2.11
 16254,16254,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)).NCCC(O)=O.Cn1cncc1(CC(N)C(O)=O)>>Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)).OP(O)(O)=O.Cn1cncc1(CC(NC(=O)CCN)C(O)=O),6.3.2.11
 16257,16257,CNC.OS(=O)(=O)CCS>>CN.CSCCS(O)(=O)=O,2.1.1.249
-16258,16258,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.[H]C24(CC(C(=CC)CN4(CCc1c3ccccc3(nc12)))C(C=O)C(=O)OC)>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C25(CC4C(=CC)CN5(C(Cc1c3ccccc3(nc12))C4(C=O)(C(=O)OC))),1.14.14
-16259,16259,[H].NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).O=O.[H]C24(CC5([H])(C(=COC(C)C5([H])(CN4(CCc1c3ccccc3(nc12))))C(=O)OC))>>[H]O[H].NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O).[H]C23(C[n+]4ccc1c5ccccc5([n-]c1c4(CC3([H])(C(=COC2(C))C(=O)OC)))),1.14.14
 16260,16260,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.N#CS>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CSC#N,2.1.1.165
 16262,16262,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23.[SH-]>>NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O.CS,2.1.1.165
 16264,16264,[H]O[H].CNc1c2c(ncn1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O>>O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O)).CN,3.5.4

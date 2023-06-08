@@ -33,10 +33,6 @@
 33,10,alpha-D-Glucose 6-phosphate,Product,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O
 34,11,D-Glucose 1-phosphate,Substrate,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)
 35,11,alpha-D-Glucose 6-phosphate,Product,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O
-36,12,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-37,12,alpha-D-Glucose 6-phosphate,Product,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O
-38,12,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-39,12,D-Glucose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
 40,13,alpha-D-Glucose 6-phosphate,Substrate,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O
 41,13,beta-D-Glucose 6-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
 42,14,ITP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -277,14 +273,6 @@
 281,78,"Guanosine 3',5'-bis(diphosphate)",Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(OP(O)(=O)OP(O)(O)=O)C3(O)
 282,78,H2O,Substrate,[H]O[H]
 283,78,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-288,80,Adenine,Product,Nc1ncnc2ncnc12
-289,80,5-Phospho-alpha-D-ribose 1-diphosphate,Product,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O
-290,80,Diphosphate,Substrate,OP(O)(=O)OP(O)(O)=O
-291,80,AMP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-292,81,Diphosphate,Substrate,OP(O)(=O)OP(O)(O)=O
-293,81,5-Phospho-alpha-D-ribose 1-diphosphate,Product,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O
-294,81,IMP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-295,81,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
 296,82,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 297,82,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 298,82,AMP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
@@ -368,10 +356,6 @@
 378,101,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 379,101,"3',5'-Cyclic AMP",Product,Nc4ncnc1c4(ncn1C2OC3COP(O)(=O)OC3(C2(O)))
 380,101,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-381,102,Phosphoenolpyruvate,Substrate,C=C(OP(O)(O)=O)C(O)=O
-382,102,Protein histidine,Substrate,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-383,102,Pyruvate,Product,CC(=O)C(O)=O
-384,102,Protein N(pi)-phospho-L-histidine,Product,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 385,104,beta-D-Fructose 6-phosphate,Product,C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)OP(=O)(O)O
 386,104,beta-D-Glucose 6-phosphate,Substrate,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
 387,105,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -467,19 +451,6 @@
 477,124,H2O,Substrate,[H]O[H]
 478,124,Inosine monophosphate,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 479,124,Inosine,Product,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23
-480,125,alpha-D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-481,125,Phosphate,Substrate,OP(O)(O)=O
-482,125,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-483,125,Inosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23
-484,126,H2O,Substrate,[H]O[H]
-485,126,Hypoxanthine,Substrate,O=C1NC=Nc2ncnc12
-486,126,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-487,126,H2O2,Product,OO
-488,126,O2,Substrate,O=O
-489,127,NH3,Product,[H]N([H])[H]
-490,127,Guanine,Substrate,NC=1NC(=O)c2ncnc2(N=1)
-491,127,H2O,Substrate,[H]O[H]
-492,127,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
 493,128,H+,Product,[H]
 494,128,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 495,128,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
@@ -490,18 +461,6 @@
 500,129,H2O,Substrate,[H]O[H]
 501,129,XMP,Substrate,O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)
 502,129,Xanthosine,Product,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23
-503,130,alpha-D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-504,130,Phosphate,Substrate,OP(O)(O)=O
-505,130,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-506,130,Xanthosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23
-507,131,NH3,Product,[H]N([H])[H]
-508,131,Adenine,Substrate,Nc1ncnc2ncnc12
-509,131,H2O,Substrate,[H]O[H]
-510,131,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-511,133,alpha-D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-512,133,Adenine,Product,Nc1ncnc2ncnc12
-513,133,Phosphate,Substrate,OP(O)(O)=O
-514,133,Adenosine,Substrate,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
 515,134,NH3,Product,[H]N([H])[H]
 516,134,H2O,Substrate,[H]O[H]
 517,134,Adenosine,Substrate,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
@@ -700,39 +659,16 @@
 764,186,H2O,Substrate,[H]O[H]
 765,186,Guanosine 5'-phosphate,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)
 766,186,Guanosine,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
-767,187,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-768,187,alpha-D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-769,187,Phosphate,Substrate,OP(O)(O)=O
-770,187,Guanosine,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
 783,191,NH3,Substrate,[H]N([H])[H]
 784,191,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 785,191,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 786,191,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 787,191,GMP,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)
 788,191,XMP,Substrate,O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)
-789,192,H2O,Substrate,[H]O[H]
-790,192,Uric acid,Product,O=C1NC(=O)C=2NC(=O)NC=2(N1)
-791,192,Xanthine,Substrate,O=C1NC(=O)c2ncnc2(N1)
-792,192,H2O2,Product,OO
-793,192,O2,Substrate,O=O
 794,193,NH3,Product,[H]N([H])[H]
 795,193,H2O,Substrate,[H]O[H]
 796,193,Guanosine,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
 797,193,Xanthosine,Product,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23
-798,194,Diphosphate,Substrate,OP(O)(=O)OP(O)(O)=O
-799,194,5-Phospho-alpha-D-ribose 1-diphosphate,Product,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O
-800,194,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-801,194,XMP,Substrate,O=C1NC(=O)c2ncn(c2(N1))C3OC(COP(O)(O)=O)C(O)C3(O)
-802,195,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-803,195,Diphosphate,Substrate,OP(O)(=O)OP(O)(O)=O
-804,195,5-Phospho-alpha-D-ribose 1-diphosphate,Product,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O
-805,195,Guanosine 5'-phosphate,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)
-806,196,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-807,196,H2O,Substrate,[H]O[H]
-808,196,Urate,Product,O=C1NC(=O)C=2NC(=O)NC=2(N1)
-809,196,Xanthine,Substrate,O=C1NC(=O)c2ncnc2(N1)
-810,196,H+,Product,[H]
-811,196,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 812,197,H2O,Substrate,[H]O[H]
 813,197,5-Hydroxyisourate,Product,O=C1NC(=O)C2(O)(NC(O)=NC2(=N1))
 814,197,Urate,Substrate,O=C1NC(=O)C=2NC(=O)NC=2(N1)
@@ -842,10 +778,6 @@
 944,226,IMP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 945,226,GMP,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(O)=O)C(O)C3(O)
 946,226,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-947,227,Adenine,Product,Nc1ncnc2ncnc12
-948,227,H2O,Substrate,[H]O[H]
-949,227,D-Ribose 5-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C1(O)
-950,227,AMP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 951,228,GDP,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O)
 952,228,Phosphate,Product,OP(O)(O)=O
 953,228,IMP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
@@ -861,10 +793,6 @@
 963,230,Glyoxylate,Product,O=CC(O)=O
 964,230,(-)-Ureidoglycolate,Substrate,NC(=O)NC(O)C(O)=O
 965,230,H2O,Substrate,[H]O[H]
-973,233,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-974,233,H2O,Substrate,[H]O[H]
-975,233,ADPribose,Substrate,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-976,233,D-Ribose 5-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C1(O)
 977,234,"P1,P4-Bis(5'-adenosyl) tetraphosphate",Substrate,Nc6ncnc1c6(ncn1C5OC(COP(O)(=O)OP(O)(=O)OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O))
 978,234,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 979,234,H2O,Substrate,[H]O[H]
@@ -898,10 +826,6 @@
 1007,242,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 1008,242,Isocitrate,Substrate,OC(=O)CC(C(O)=O)C(O)C(O)=O
 1009,242,Oxalosuccinate,Product,OC(=O)CC(C(O)=O)C(=O)C(O)=O
-1010,243,Thiamin diphosphate,Substrate,Cc2ncc(C[n+]1csc(CCOP(O)(=O)OP(O)(O)=O)c1(C))c(N)n2
-1011,243,CO2,Product,O=C=O
-1012,243,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
-1013,243,3-Carboxy-1-hydroxypropyl-ThPP,Product,Cc2ncc(Cn1c(C)c(CCOP(O)(=O)OP(O)(O)=O)sc1(C(O)CCC(O)=O))c(N)n2
 1018,245,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1019,245,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 1020,245,H2O,Substrate,[H]O[H]
@@ -1032,10 +956,6 @@
 1189,286,Glyoxylate,Product,O=CC(O)=O
 1190,286,(-)-Ureidoglycolate,Substrate,NC(=O)NC(O)C(O)=O
 1191,286,Urea,Product,NC(N)=O
-1192,287,Adenosine 5'-phosphate,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-1193,287,H2O,Substrate,[H]O[H]
-1194,287,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-1195,287,ADP-ribose,Substrate,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
 1196,289,CO2,Product,O=C=O
 1197,289,H2O,Substrate,[H]O[H]
 1198,289,Urea,Substrate,NC(N)=O
@@ -1106,48 +1026,18 @@
 1275,312,H2O,Substrate,[H]O[H]
 1276,312,dIMP,Product,OC1CC(OC1(COP(O)(O)=O))n3cnc2c(O)ncnc23
 1277,312,dITP,Substrate,OC1CC(OC1(COP(O)(=O)OP(O)(=O)OP(O)(O)=O))n3cnc2C(=O)NC=Nc23
-1278,313,H2O,Substrate,[H]O[H]
-1279,313,IMP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-1280,313,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-1281,313,D-Ribose 5-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C1(O)
 1282,314,dAMP,Substrate,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1))
 1283,314,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1284,314,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1285,314,dADP,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(=O)OP(O)(O)=O)O1))
-1286,315,D-Ribose,Product,OCC1OC(O)C(O)C1(O)
-1287,315,Adenine,Product,Nc1ncnc2ncnc12
-1288,315,H2O,Substrate,[H]O[H]
-1289,315,Adenosine,Substrate,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
-1290,316,D-Ribose,Product,OCC1OC(O)C(O)C1(O)
-1291,316,H2O,Substrate,[H]O[H]
-1292,316,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-1293,316,Inosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23
 1294,317,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 1295,317,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 1296,317,tRNA containing N1-methylguanine,Product,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)N(C)C(N)=Nc23))C5(O)
 1297,317,tRNA,Substrate,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)
-1298,321,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-1299,321,D-Ribose,Product,OCC1OC(O)C(O)C1(O)
-1300,321,H2O,Substrate,[H]O[H]
-1301,321,Guanosine,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
-1302,322,D-Ribose,Product,OCC1OC(O)C(O)C1(O)
-1303,322,H2O,Substrate,[H]O[H]
-1304,322,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-1305,322,Xanthosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23
-1306,323,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-1307,323,H2O,Substrate,[H]O[H]
-1308,323,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-1309,323,Hypoxanthine,Substrate,O=C1NC=Nc2ncnc12
-1310,323,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-1311,323,H+,Product,[H]
 1312,324,dGMP,Product,NC=2NC(=O)c3ncn(C1CC(O)C(COP(O)(O)=O)O1)c3(N=2)
 1313,324,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1314,324,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1315,324,Deoxyguanosine,Substrate,NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)
-1316,325,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-1317,325,Phosphate,Substrate,OP(O)(O)=O
-1318,325,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-1319,325,Guanosine,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
 1320,327,Phosphate,Product,OP(O)(O)=O
 1321,327,Carbamoyl phosphate,Substrate,NC(=O)OP(O)(O)=O
 1322,327,Oxamate,Substrate,NC(=O)C(O)=O
@@ -1178,10 +1068,6 @@
 1378,344,H2O,Substrate,[H]O[H]
 1379,344,(-)-Ureidoglycolate,Product,NC(=O)NC(O)C(O)=O
 1380,344,Ureidoglycine,Substrate,NC(=O)NC(N)C(O)=O
-1393,349,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-1394,349,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-1395,349,tRNA containing 5-methylaminomethyl-2-thiouridylate,Product,[*]C4OC(CO)C(OP(O)(=O)OCC3OC([*])C(O)C3(OP(O)(=O)OCC1OC(C(O)C1(O))n2cc(CNC)c(O)nc2S))C4(O)
-1396,349,tRNA,Substrate,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)
 1397,350,"5,6,7,8-Tetrahydrofolate",Product,[H]C2(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)(CNC=3N=C(N)NC(=O)C=3(N2))
 1398,350,10-Formyltetrahydrofolate,Substrate,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O
 1399,350,N-Formylmethionyl-tRNA(fMet),Product,[*]C3OC(CO)C(OP(O)(=O)OCC2OC([*])C(O)C2(OP(O)(=O)OCC1OC([*])C(O)C1(OC(=O)C(CCSC)NC=O)))C3(O)
@@ -1256,18 +1142,6 @@
 1492,376,Reduced glutathione,Substrate,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O
 1493,376,H2O2,Substrate,OO
 1494,376,H2O,Product,[H]O[H]
-1495,378,D-Mannose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
-1496,378,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-1497,378,D-Mannose 6-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
-1498,378,Protein N(pi)-phospho-L-histidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-1499,379,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-1500,379,D-Glucosamine 6-phosphate,Product,NC1C(O)OC(COP(O)(O)=O)C(O)C1(O)
-1501,379,Protein N(pi)-phospho-L-histidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-1502,379,D-Glucosamine,Substrate,NC1C(O)OC(CO)C(O)C1(O)
-1503,383,alpha-Lactose,Substrate,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O)
-1504,383,Lactose 6-phosphate,Product,OCC2OC(O)C(O)C(O)C2(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O))
-1505,383,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-1506,383,Protein N(pi)-phospho-L-histidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 1515,390,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1516,390,Riboflavin-5-phosphate,Substrate,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
 1517,390,FAD,Product,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C))
@@ -1334,24 +1208,12 @@
 1595,407,tRNA(Arg),Substrate,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)
 1596,407,L-Arginyl-tRNA(Arg),Product,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(OC(=O)C(N)CCCNC(N)=N)C1(O))n3cnc2c(N)ncnc23))C5(O)
 1597,407,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-1598,408,Pyrophosphate,Product,OP(O)(=O)OP(O)(O)=O
-1599,408,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-1600,408,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-1601,408,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-1602,408,tRNA(Trp),Substrate,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23))C5(O)
-1603,408,L-Tryptophanyl-tRNA(Trp),Product,[*]C7OC(CO)C(OP(O)(=O)OCC6OC([*])C(O)C6(OP(O)(=O)OCC3OC(C(OC(=O)C(N)Cc1cnc2ccccc12)C3(O))n5cnc4c(N)ncnc45))C7(O)
 1604,409,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 1605,409,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 1606,409,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 1607,409,L-Phenylalanine,Substrate,NC(Cc1ccccc1)C(O)=O
 1608,409,tRNA(Phe),Substrate,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)
 1609,409,L-Phenylalanyl-tRNA(Phe),Product,[*]C4OC(CO)C(OP(O)(=O)OCC3OC([*])C(O)C3(OP(O)(=O)OCC2OC([*])C(O)C2(OC(=O)C(N)Cc1ccccc1)))C4(O)
-1610,410,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-1611,410,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-1612,410,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-1613,410,tRNA(His),Substrate,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(CO)))C(O)C3(O)
-1614,410,L-Histidyl-tRNA(His),Product,[*]C4OC(CO)C(OP(O)(=O)OCC3OC([*])C(O)C3(OP(O)(=O)OCC2OC([*])C(O)C2(OC(=O)C(N)Cc1cncn1)))C4(O)
-1615,410,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
 1622,412,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 1623,412,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 1624,412,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -1966,9 +1828,6 @@
 2403,626,Dehydroascorbate,Product,OCC(O)C1OC(=O)C(=O)C1(=O)
 2404,626,H2O,Product,[H]O[H]
 2405,626,O2,Substrate,O=O
-2406,627,5-Aminolevulinate,Substrate,NCC(=O)CCC(O)=O
-2407,627,Porphobilinogen,Product,NCc1ncc(CCC(O)=O)c1(CC(O)=O)
-2408,627,H2O,Product,[H]O[H]
 2409,628,Propanal,Substrate,CCC=O
 2410,628,Propioin,Product,CCC(O)C(=O)CC
 2414,630,Choline,Substrate,C[N+](C)(C)CCO
@@ -1983,10 +1842,6 @@
 2434,635,Dopaquinone,Product,NC(CC=1C=CC(=O)C(=O)C=1)C(O)=O
 2435,635,H2O,Product,[H]O[H]
 2436,635,O2,Substrate,O=O
-2437,636,Indole-3-acetate,Product,OC(=O)Cc1cnc2ccccc12
-2438,636,Indole-3-acetaldehyde,Substrate,O=CCc1cnc2ccccc12
-2439,636,H2O,Product,[H]O[H]
-2440,636,O2,Substrate,O=O
 2441,637,CO2,Product,O=C=O
 2442,637,6-Hydroxynicotinate,Substrate,OC(=O)c1ccc(O)nc1
 2443,637,"2,5-Dihydroxypyridine",Product,Oc1ccc(O)nc1
@@ -2002,9 +1857,6 @@
 2474,646,H2O,Product,[H]O[H]
 2475,646,O2,Substrate,O=O
 2476,646,Catechol,Substrate,Oc1ccccc1(O)
-2488,650,Bilirubin-glucuronoside,Substrate,C=CC=5C(=O)NC(=Cc4nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(O)=O)c4(C))C=5(C)
-2489,650,Bilirubin,Product,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-2490,650,Bilirubin beta-diglucuronide,Product,C=CC=6C(=O)NC(=Cc5nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(=O)OC4OC(C(O)=O)C(O)C(O)C4(O))c5(C))C=6(C)
 2496,653,"4-(1-D-Ribitylamino)-5-amino-2,6-dihydroxypyrimidine",Product,NC=1C(=O)NC(=O)NC=1(NCC(O)C(O)C(O)CO)
 2497,653,Riboflavin,Product,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C))
 2498,653,"6,7-Dimethyl-8-(1-D-ribityl)lumazine",Substrate,CC=2N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)C=2(C)
@@ -2020,10 +1872,6 @@
 2538,665,H+,Substrate,[H]
 2539,665,H2O,Product,[H]O[H]
 2540,665,O2,Substrate,O=O
-2553,669,Hydroxymethylbilane,Product,OCc4nc(Cc3nc(Cc2nc(Cc1ncc(CCC(O)=O)c1(CC(O)=O))c(CCC(O)=O)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O)
-2554,669,Porphobilinogen,Substrate,NCc1ncc(CCC(O)=O)c1(CC(O)=O)
-2555,669,NH3,Product,[H]N([H])[H]
-2556,669,H2O,Substrate,[H]O[H]
 2557,670,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 2558,670,Phosphate,Product,OP(O)(O)=O
 2559,670,H2O,Substrate,[H]O[H]
@@ -2058,10 +1906,6 @@
 2588,677,H+,Product,[H]
 2589,677,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 2590,677,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-2617,683,Nicotinamide,Product,NC(=O)c1cccnc1
-2618,683,ADPribose,Product,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-2619,683,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-2620,683,H2O,Substrate,[H]O[H]
 2621,684,Nicotinamide nucleotide,Product,NC(=O)c1ccc[n+](c1)C2OC(COP(O)(=O)[O-])C(O)C2(O)
 2622,684,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 2623,684,H2O,Substrate,[H]O[H]
@@ -2153,9 +1997,6 @@
 2775,715,Carbamoyl phosphate,Product,NC(=O)OP(O)(O)=O
 2776,715,NH3,Substrate,[H]N([H])[H]
 2777,715,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-2778,716,CO2,Substrate,O=C=O
-2779,716,Cyanide,Product,(C-)#N
-2780,716,NH3,Substrate,[H]N([H])[H]
 2785,718,FMN,Product,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
 2786,718,H2O,Substrate,[H]O[H]
 2787,718,FAD,Substrate,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C))
@@ -2212,10 +2053,6 @@
 2853,739,H2O,Substrate,[H]O[H]
 2854,739,S-Inosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(O)ncnc23)C(O)=O
 2855,739,NH3,Product,[H]N([H])[H]
-2856,740,S-Adenosyl-L-homocysteine,Substrate,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-2857,740,Adenine,Product,Nc1ncnc2ncnc12
-2858,740,H2O,Substrate,[H]O[H]
-2859,740,S-Ribosyl-L-homocysteine,Product,NC(CCSCC1OC(O)C(O)C1(O))C(O)=O
 2860,741,H2O,Substrate,[H]O[H]
 2861,741,Pyruvate,Product,CC(=O)C(O)=O
 2862,741,"2,3-Diaminopropanoate",Substrate,NCC(N)C(O)=O
@@ -2339,10 +2176,6 @@
 2999,774,CO2,Product,O=C=O
 3000,774,Oxalate,Substrate,OC(=O)C(O)=O
 3001,774,H2O2,Product,OO
-3002,775,H2O2,Product,OO
-3003,775,O2.-,Substrate,O=[O-]
-3004,775,O2,Product,O=O
-3005,775,H+,Substrate,[H]
 3006,776,CO2,Substrate,O=C=O
 3007,776,H2O2,Substrate,OO
 3008,776,CO,Product,[C-]#[O+]
@@ -2400,10 +2233,6 @@
 3118,799,H2O,Substrate,[H]O[H]
 3119,800,D-Glucose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
 3120,800,D-Fructose,Product,OCC1OC(O)(CO)C(O)C1(O)
-3121,802,Fe2+,Substrate,[Fe+2]
-3122,802,Heme,Product,C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78
-3123,802,H+,Product,[H]
-3124,802,Protoporphyrin IX,Substrate,C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)
 3139,807,Phosphate,Product,OP(O)(O)=O
 3140,807,Acetate,Product,CC(O)=O
 3141,807,Phosphonoacetic acid,Substrate,OC(=O)CP(O)(O)=O
@@ -2501,8 +2330,6 @@
 3275,840,Oxaloacetate,Substrate,OC(=O)CC(=O)C(O)=O
 3276,840,Glyoxylate,Product,O=CC(O)=O
 3277,840,L-Aspartate,Product,NC(CC(O)=O)C(O)=O
-3278,841,Glycine,Substrate,NCC(O)=O
-3279,841,Cyanide,Product,(C-)#N
 3294,845,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 3295,845,Carboxylate,Product,[*]C(=O)[O-]
 3296,845,Acyl-CoA,Substrate,[*]C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
@@ -3033,61 +2860,6 @@
 4157,1051,L-Ornithine,Substrate,NCCCC(N)C(O)=O
 4158,1051,NH3,Product,[H]N([H])[H]
 4159,1051,L-Proline,Product,OC(=O)C1CCCN1
-4162,1053,NH3,Product,[H]N([H])[H]
-4163,1053,H2O,Substrate,[H]O[H]
-4164,1053,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4165,1053,Indole,Product,c1ccc2nccc2(c1)
-4166,1053,Pyruvate,Product,CC(=O)C(O)=O
-4167,1054,L-Serine,Substrate,NC(CO)C(O)=O
-4168,1054,H2O,Product,[H]O[H]
-4169,1054,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-4170,1054,Indole,Substrate,c1ccc2nccc2(c1)
-4171,1055,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-4172,1055,NH3,Product,[H]N([H])[H]
-4173,1055,H2O,Substrate,[H]O[H]
-4174,1055,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4175,1055,H+,Product,[H]
-4176,1055,NAD,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-4177,1055,Indole-3-pyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-4178,1056,NH3,Product,[H]N([H])[H]
-4179,1056,H2O,Substrate,[H]O[H]
-4180,1056,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-4181,1056,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4182,1056,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-4183,1056,H+,Product,[H]
-4184,1056,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-4185,1057,NH3,Product,[H]N([H])[H]
-4186,1057,H2O,Substrate,[H]O[H]
-4187,1057,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4188,1057,H2O2,Product,OO
-4189,1057,O2,Substrate,O=O
-4190,1057,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-4191,1058,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4192,1058,Formylkynurenine,Product,[H]C(=O)Nc1ccccc1(C(=O)CC(N)C(O)=O)
-4193,1058,O2,Substrate,O=O
-4194,1059,CO2,Product,O=C=O
-4195,1059,H2O,Product,[H]O[H]
-4196,1059,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4197,1059,Indole-3-acetamide,Product,NC(=O)Cc1cnc2ccccc12
-4198,1059,O2,Substrate,O=O
-4199,1060,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4200,1060,L-Formylkynurenine,Product,NC(CC(=O)c1ccccc1(NC=O))C(O)=O
-4201,1060,O2,Substrate,O=O
-4207,1062,NH3,Product,[H]N([H])[H]
-4208,1062,H2O,Substrate,[H]O[H]
-4209,1062,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-4210,1062,L-Tryptophanamide,Substrate,NC(=O)C(N)Cc1cnc2ccccc12
-4211,1063,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-4212,1063,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-4213,1063,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4214,1063,N-Methyl-L-tryptophan,Product,CNC(Cc1cnc2ccccc12)C(O)=O
-4215,1064,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4216,1064,L-Glutamate,Product,NC(CCC(O)=O)C(O)=O
-4217,1064,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
-4218,1064,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-4219,1065,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-4220,1065,CO2,Product,O=C=O
-4221,1065,Tryptamine,Product,NCCc1cnc2ccccc12
 4222,1066,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 4223,1066,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 4224,1066,H2O,Substrate,[H]O[H]
@@ -3786,10 +3558,6 @@
 5132,1275,"2,3-Dihydroxybenzoate",Product,OC(=O)c1cccc(O)c1(O)
 5133,1275,Anthranilate,Substrate,Nc1ccccc1(C(O)=O)
 5134,1275,O2,Substrate,O=O
-5141,1277,CO2,Product,O=C=O
-5142,1277,"2,3-Dihydroxyindole",Substrate,Oc1nc2ccccc2(c1(O))
-5143,1277,Anthranilate,Product,Nc1ccccc1(C(O)=O)
-5144,1277,O2,Substrate,O=O
 5149,1279,NH3,Substrate,[H]N([H])[H]
 5150,1279,H2O,Product,[H]O[H]
 5151,1279,Chorismate,Substrate,C=C(OC1C=C(C=CC1(O))C(O)=O)C(O)=O
@@ -3811,8 +3579,6 @@
 5171,1284,CO2,Product,O=C=O
 5172,1284,Anthranilate,Substrate,Nc1ccccc1(C(O)=O)
 5173,1284,Aniline,Product,Nc1ccccc1
-5176,1286,Indole-3-acetaldoxime,Product,ON=CCc1cnc2ccccc12
-5177,1286,Anthranilate,Substrate,Nc1ccccc1(C(O)=O)
 5178,1287,CO2,Product,O=C=O
 5179,1287,Phosphate,Substrate,OP(O)(O)=O
 5180,1287,H2O,Product,[H]O[H]
@@ -3873,14 +3639,6 @@
 5263,1307,CDP,Product,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 5264,1307,Dolichol,Substrate,CC(C)=CCCC(C)=CCCC(C)CCO
 5265,1307,Dolichyl phosphate,Product,CC(C)=CCCC(C)=CCCC(C)CCOP(O)(O)=O
-5266,1308,Acetaldehyde,Substrate,CC=O
-5267,1308,H2O,Substrate,[H]O[H]
-5268,1308,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-5269,1308,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-5270,1308,Acetate,Product,CC(O)=O
-5271,1309,Dopaquinone,Product,NC(CC=1C=CC(=O)C(=O)C=1)C(O)=O
-5272,1309,Glutamate,Product,NC(CCC(O)=O)C(O)=O
-5273,1309,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
 5274,1310,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 5275,1310,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 5276,1310,Choline,Substrate,C[N+](C)(C)CCO
@@ -3934,10 +3692,6 @@
 5366,1331,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 5367,1331,"D-Ribose 1,5-bisphosphate",Product,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(O)=O
 5368,1331,D-Ribose 5-phosphate,Substrate,OC1OC(COP(O)(O)=O)C(O)C1(O)
-5369,1332,ADP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-5370,1332,Phosphate,Product,OP(O)(O)=O
-5371,1332,ADPribose,Product,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-5372,1332,D-Ribose 5-phosphate,Substrate,OC1OC(COP(O)(O)=O)C(O)C1(O)
 5373,1333,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 5374,1333,NH3,Substrate,[H]N([H])[H]
 5375,1333,Phosphate,Product,OP(O)(O)=O
@@ -4104,10 +3858,6 @@
 5591,1384,Methane,Substrate,C
 5592,1384,O2,Substrate,O=O
 5593,1384,H+,Substrate,[H]
-5602,1387,Methanol,Substrate,CO
-5603,1387,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-5604,1387,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-5605,1387,Formaldehyde,Product,[H]C([H])=O
 5606,1388,Pyruvate,Substrate,CC(=O)C(O)=O
 5607,1388,Pyridoxal 5-phosphate,Product,Cc1ncc(COP(O)(O)=O)c(C=O)c1(O)
 5608,1388,D-Alanine,Product,CC(N)C(O)=O
@@ -4140,32 +3890,6 @@
 5643,1396,Putrescine,Substrate,NCCCCN
 5644,1396,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 5645,1396,4-Aminobutanal,Product,[H]C(=O)CCCN
-5650,1398,H+,Product,[H]
-5651,1398,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-5652,1398,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-5653,1398,H2O,Substrate,[H]O[H]
-5654,1398,L-Histidinol,Substrate,NC(CO)Cc1cncn1
-5655,1398,L-Histidine,Product,NC(Cc1cncn1)C(O)=O
-5656,1399,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-5657,1399,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-5658,1399,1-Methylhistidine,Product,Cn1cncc1(CC(N)C(O)=O)
-5659,1399,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-5674,1403,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-5675,1403,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-5676,1403,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-5677,1403,beta-Alanine,Substrate,NCCC(O)=O
-5678,1403,Carnosine,Product,NCCC(=O)NC(Cc1cncn1)C(O)=O
-5679,1403,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-5680,1404,H2O,Substrate,[H]O[H]
-5681,1404,beta-Alanine,Product,NCCC(O)=O
-5682,1404,Carnosine,Substrate,NCCC(=O)NC(Cc1cncn1)C(O)=O
-5683,1404,L-Histidine,Product,NC(Cc1cncn1)C(O)=O
-5684,1405,CO2,Product,O=C=O
-5685,1405,1H-Imidazole-4-ethanamine,Product,NCCc1cncn1
-5686,1405,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-5687,1406,NH3,Product,[H]N([H])[H]
-5688,1406,Urocanate,Product,OC(=O)C=Cc1cncn1
-5689,1406,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
 5693,1408,H+,Product,[H]
 5694,1408,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 5695,1408,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
@@ -4651,10 +4375,6 @@
 6444,1577,L-Phenylalanine,Product,NC(Cc1ccccc1)C(O)=O
 6445,1577,Phenylpyruvate,Substrate,OC(=O)C(=O)Cc1ccccc1
 6446,1577,2-Oxoglutaramate,Product,NC(=O)CCC(=O)C(O)=O
-6447,1578,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-6448,1578,L-Phenylalanine,Product,NC(Cc1ccccc1)C(O)=O
-6449,1578,Phenylpyruvate,Substrate,OC(=O)C(=O)Cc1ccccc1
-6450,1578,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
 6451,1579,CO2,Product,O=C=O
 6452,1579,Phenylpyruvic acid,Substrate,OC(=O)C(=O)Cc1ccccc1
 6453,1579,Phenylacetaldehyde,Product,O=CCc1ccccc1
@@ -4684,17 +4404,6 @@
 6490,1591,Carbamoyl phosphate,Substrate,NC(=O)OP(O)(O)=O
 6491,1591,Putrescine,Substrate,NCCCCN
 6492,1591,N-Carbamoylputrescine,Product,NCCCCNC(N)=O
-6495,1593,5-Methylthio-D-ribose,Product,CSCC1OC(O)C(O)C1(O)
-6496,1593,H2O,Substrate,[H]O[H]
-6497,1593,Adenine,Product,Nc1ncnc2ncnc12
-6498,1593,5'-Deoxy-5'-(methylthio)adenosine,Substrate,CSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-6499,1594,5-Methylthio-D-ribose 1-phosphate,Product,CSCC1OC(OP(O)(O)=O)C(O)C1(O)
-6500,1594,Adenine,Product,Nc1ncnc2ncnc12
-6501,1594,Phosphate,Substrate,OP(O)(O)=O
-6502,1594,5-Methylthioadenosine,Substrate,CSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-6525,1599,H2O,Product,[H]O[H]
-6526,1599,Cyanide,Product,(C-)#N
-6527,1599,Formamide,Substrate,[H]C(N)=O
 6542,1603,NH3,Product,[H]N([H])[H]
 6543,1603,H2O,Substrate,[H]O[H]
 6544,1603,Agmatine,Substrate,NCCCCNC(N)=N
@@ -4952,9 +4661,6 @@
 6994,1709,Acetone,Substrate,CC(C)=O
 6995,1709,Isopropanol,Product,CC(C)O
 6996,1709,H+,Substrate,[H]
-6997,1710,Acetone,Product,CC(C)=O
-6998,1710,Cyanide,Product,(C-)#N
-6999,1710,Acetone cyanohydrin,Substrate,CC(C)(O)C#N
 7000,1711,Phosphate,Substrate,OP(O)(O)=O
 7001,1711,beta-D-Glucose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)
 7002,1711,Maltose,Substrate,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O)
@@ -5201,10 +4907,6 @@
 7350,1791,L-Glutamate,Substrate,NC(CCC(O)=O)C(O)=O
 7351,1791,10-Formyltetrahydrofolate,Substrate,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O
 7352,1791,10-Formyltetrahydrofolyl L-glutamate,Product,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O
-7353,1792,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-7354,1792,4-(3-Methylbut-2-enyl)-L-tryptophan,Product,CC(=CCC1=C2C(=CC=C1)NC=C2C[C@@H](C(=O)O)N)C
-7355,1792,Dimethylallyl diphosphate,Substrate,CC(C)=CCOP(O)(=O)OP(O)(O)=O
-7356,1792,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 7357,1793,Geranyl diphosphate,Product,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
 7358,1793,Dimethylallyl diphosphate,Substrate,CC(C)=CCOP(O)(=O)OP(O)(O)=O
 7359,1793,Isopentenyl diphosphate,Substrate,CC(=C)CCOP(O)(=O)OP(O)(O)=O
@@ -5283,11 +4985,6 @@
 7476,1820,Pyridoxine,Substrate,Cc1ncc(CO)c(CO)c1(O)
 7477,1820,Pyridoxal,Product,Cc1ncc(CO)c(C=O)c1(O)
 7478,1820,H+,Product,[H]
-7479,1821,H2O,Substrate,[H]O[H]
-7480,1821,4-Pyridoxate,Product,Cc1ncc(CO)c(C(O)=O)c1(O)
-7481,1821,Pyridoxal,Substrate,Cc1ncc(CO)c(C=O)c1(O)
-7482,1821,O2.-,Product,O=[O-]
-7483,1821,O2,Substrate,O=O
 7484,1822,NH3,Product,[H]N([H])[H]
 7485,1822,H2O,Substrate,[H]O[H]
 7486,1822,Pyridoxamine,Substrate,Cc1ncc(CO)c(CN)c1(O)
@@ -5368,8 +5065,6 @@
 7571,1843,Reduced riboflavin,Product,Cc2cc3NC1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C))
 7572,1843,Riboflavin,Substrate,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C))
 7573,1843,H+,Substrate,[H]
-7574,1844,Dimethylbenzimidazole,Substrate,Cc1cc2ncnc2(cc1(C))
-7575,1844,Riboflavin,Product,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)CO)c3(cc2(C))
 7576,1845,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 7577,1845,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 7578,1845,6-Phospho-D-gluconate,Product,OC(=O)C(O)C(O)C(O)C(O)COP(O)(O)=O
@@ -5439,9 +5134,6 @@
 7654,1864,Glycine,Product,NCC(O)=O
 7655,1864,L-threo-3-Phenylserine,Substrate,NC(C(O)=O)C(O)c1ccccc1
 7656,1864,Benzaldehyde,Product,O=Cc1ccccc1
-7657,1865,Cyanide,Product,(C-)#N
-7658,1865,Benzaldehyde,Product,O=Cc1ccccc1
-7659,1865,Mandelonitrile,Substrate,N#CC(O)c1ccccc1
 7660,1866,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 7661,1866,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 7662,1866,O-Phospho-L-homoserine,Product,NC(CCOP(O)(O)=O)C(O)=O
@@ -5537,12 +5229,6 @@
 7799,1898,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 7800,1898,Biopterin,Product,CC(O)C(O)c1cnc2N=C(N)NC(=O)c2(n1)
 7801,1898,Tetrahydrobiopterin,Substrate,CC(O)C(O)C1CNC=2N=C(N)NC(=O)C=2(N1)
-7807,1900,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-7808,1900,H2O,Product,[H]O[H]
-7809,1900,5-Hydroxy-L-tryptophan,Product,NC(Cc1cnc2ccc(O)cc12)C(O)=O
-7810,1900,"6,7-Dihydrobiopterin",Product,CC(O)C(O)C1CNC2=NC(N)=NC(=O)C2(=N1)
-7811,1900,Tetrahydrobiopterin,Substrate,CC(O)C(O)C1CNC=2N=C(N)NC(=O)C=2(N1)
-7812,1900,O2,Substrate,O=O
 7813,1901,H2O,Product,[H]O[H]
 7814,1901,L-Tyrosine,Substrate,NC(Cc1ccc(O)cc1)C(O)=O
 7815,1901,L-Dopa,Product,NC(Cc1ccc(O)c(O)c1)C(O)=O
@@ -5637,10 +5323,6 @@
 7950,1930,CO2,Product,O=C=O
 7951,1930,4-Aminobenzoate,Substrate,Nc1ccc(cc1)C(O)=O
 7952,1930,Aniline,Product,Nc1ccccc1
-7961,1933,Phosphate,Substrate,OP(O)(O)=O
-7962,1933,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-7963,1933,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-7964,1933,Inosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23
 7965,1934,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 7966,1934,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 7967,1934,L-Dihydroorotate,Substrate,OC(=O)C1CC(=O)NC(=O)N1
@@ -5651,10 +5333,6 @@
 7976,1936,Quinate,Substrate,OC(=O)C1(O)(CC(O)C(O)C(O)C1)
 7977,1936,3-Dehydroquinate,Product,OC(=O)C1(O)(CC(O)C(O)C(=O)C1)
 7978,1936,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-7979,1937,Quinate,Substrate,OC(=O)C1(O)(CC(O)C(O)C(O)C1)
-7980,1937,3-Dehydroquinate,Product,OC(=O)C1(O)(CC(O)C(O)C(=O)C1)
-7981,1937,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-7982,1937,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
 7983,1938,NH3,Product,[H]N([H])[H]
 7984,1938,Pyruvate,Product,CC(=O)C(O)=O
 7985,1938,H2O,Substrate,[H]O[H]
@@ -5687,10 +5365,6 @@
 8012,1944,H2O,Substrate,[H]O[H]
 8013,1944,Creatinine,Substrate,CN1CC(=O)NC1(=N)
 8014,1944,Creatine,Product,CN(CC(O)=O)C(N)=N
-8015,1945,H2O,Substrate,[H]O[H]
-8016,1945,L-Arginine,Product,NC(=N)NCCCC(N)C(O)=O
-8017,1945,ADPribose,Product,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-8018,1945,N(omega)-(ADP-D-ribosyl)-L-arginine,Substrate,N=C(NCCCC(N)C(O)=O)NC4OC(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)C4(O)
 8023,1947,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 8024,1947,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 8025,1947,Kanamycin,Substrate,[*]CC3OC(OC2C(N)CC(N)C(OC1OC(CO)C(O)C(N)C1(O))C2(O))C([*])C(O)C3(O)
@@ -5881,14 +5555,6 @@
 8302,2013,D-Glucosaminide,Substrate,NC3C(O)OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(N))C(O)C2(N))C3(O)
 8303,2013,D-Glucosaminide,Product,NC3C(O)OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(N))C(O)C2(N))C3(O)
 8304,2013,D-Glucosamine,Substrate,NC1C(O)OC(CO)C(O)C1(O)
-8305,2014,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-8306,2014,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-8307,2014,Indolelactate,Substrate,OC(=O)C(O)Cc1cnc2ccccc12
-8308,2014,H+,Product,[H]
-8309,2014,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-8318,2017,CO2,Product,O=C=O
-8319,2017,Indole-3-acetaldehyde,Product,O=CCc1cnc2ccccc12
-8320,2017,Indolepyruvate,Substrate,OC(=O)C(=O)Cc1cnc2ccccc12
 8321,2018,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 8322,2018,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 8323,2018,Acetoacetyl-CoA,Product,CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
@@ -5937,16 +5603,6 @@
 8375,2030,4-Aminobutanoate,Product,NCCCC(O)=O
 8376,2030,4-Guanidinobutanoate,Substrate,NC(=N)NCCCC(O)=O
 8377,2030,Urea,Product,NC(N)=O
-8378,2031,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-8379,2031,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-8380,2031,gamma-Aminobutyrate,Substrate,NCCCC(O)=O
-8381,2031,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-8382,2031,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-8383,2031,Homocarnosine,Product,NCCCC(=O)NC(Cc1cncn1)C(O)=O
-8384,2032,H2O,Substrate,[H]O[H]
-8385,2032,4-Aminobutanoate,Product,NCCCC(O)=O
-8386,2032,L-Histidine,Product,NC(Cc1cncn1)C(O)=O
-8387,2032,Homocarnosine,Substrate,NCCCC(=O)NC(Cc1cncn1)C(O)=O
 8424,2041,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 8425,2041,Geranyl diphosphate,Substrate,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
 8426,2041,Farnesyl diphosphate,Product,CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
@@ -6120,15 +5776,6 @@
 8669,2105,Steryl ester,Substrate,[*]C(=O)OC4CCC1C(CCC2C3CCCC3(CCC12))C4
 8670,2106,Sterol,Substrate,OC4CCC1C(CCC2C3CCCC3(CCC12))C4
 8671,2106,"(S)-2,3-Epoxysqualene",Product,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC1OC1(C)(C)
-8672,2107,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-8673,2107,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-8674,2107,Zeatin,Product,[H]C(CNc2ncnc1ncnc12)=C(C)CO
-8675,2107,Dihydrozeatin,Substrate,CC(CO)CCNc1ncnc2ncnc12
-8676,2107,H+,Product,[H]
-8677,2108,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-8678,2108,Zeatin,Substrate,[H]C(CNc2ncnc1ncnc12)=C(C)CO
-8679,2108,UDPglucose,Substrate,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
-8680,2108,O-beta-D-Glucosylzeatin,Product,CC(=CCNc1ncnc2ncnc12)COC3OC(CO)C(O)C(O)C3(O)
 8685,2110,Sucrose,Substrate,OCC2OC(OC1(CO)(OC(CO)C(O)C1(O)))C(O)C(O)C2(O)
 8686,2110,D-Fructose,Product,OCC1OC(O)(CO)C(O)C1(O)
 8687,2110,Dextran,Product,[*]OCC2OC(OCC1OC(O[*])C(O)C(O)C1(O))C(O)C(O)C2(O)
@@ -6175,20 +5822,6 @@
 8751,2126,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 8752,2126,Xylitol,Substrate,OCC(O)C(O)C(O)CO
 8753,2126,Xylitol 5-phosphate,Product,OCC(O)C(O)C(O)COP(O)(O)=O
-8761,2129,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-8762,2129,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-8763,2129,Carnosine,Substrate,NCCC(=O)NC(Cc1cncn1)C(O)=O
-8764,2129,beta-Alanyl-N(pai)-methyl-L-histidine,Product,Cn1cncc1(CC(NC(=O)CCN)C(O)=O)
-8765,2130,O2,Substrate,O=O
-8766,2130,NH3,Product,[H]N([H])[H]
-8767,2130,Imidazole acetaldehyde,Product,O=CCc1cncn1
-8768,2130,H2O,Substrate,[H]O[H]
-8769,2130,Histamine,Substrate,NCCc1cncn1
-8770,2130,H2O2,Product,OO
-8787,2134,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-8788,2134,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-8789,2134,N-Methylhistamine,Product,Cn1cnc(CCN)c1
-8790,2134,Histamine,Substrate,NCCc1cncn1
 8791,2135,O2,Substrate,O=O
 8792,2135,Quercetin,Substrate,Oc1cc(O)c2C(=O)C(O)=C(Oc2(c1))c3ccc(O)c(O)c3
 8793,2135,CO,Product,[C-]#[O+]
@@ -6227,16 +5860,6 @@
 8831,2144,Penicillin,Substrate,[*]C(=O)NC2([H])(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
 8832,2144,Carboxylate,Product,[*]C(=O)[O-]
 8833,2144,6-Aminopenicillanate,Product,[H]C2(N)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
-8842,2147,O2,Substrate,O=O
-8843,2147,NH3,Product,[H]N([H])[H]
-8844,2147,H2O,Substrate,[H]O[H]
-8845,2147,Tryptamine,Substrate,NCCc1cnc2ccccc12
-8846,2147,Indole-3-acetaldehyde,Product,O=CCc1cnc2ccccc12
-8847,2147,H2O2,Product,OO
-8848,2148,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-8849,2148,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-8850,2148,Tryptamine,Substrate,NCCc1cnc2ccccc12
-8851,2148,N-Methyltryptamine,Product,Cn2cc(CCN)c1ccccc12
 8856,2150,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 8857,2150,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 8858,2150,(-)-Menthol,Substrate,CC(C)C1CCC(C)CC1(O)
@@ -6596,14 +6219,6 @@
 9440,2285,UDP-N-acetyl-D-glucosamine,Substrate,CC(=O)NC3C(O)C(O)C(CO)OC3(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))
 9441,2285,Chitin,Product,[*]OC1C(O)C(NC(C)=O)C([*])OC1(CO)
 9442,2285,Chitin,Substrate,[*]OC1C(O)C(NC(C)=O)C([*])OC1(CO)
-9458,2291,D-Ribose,Product,OCC1OC(O)C(O)C1(O)
-9459,2291,Purine,Product,c1ncc2ncnc2(n1)
-9460,2291,H2O,Substrate,[H]O[H]
-9461,2291,Purine nucleoside,Substrate,OCC1OC(C(O)C1(O))n3cnc2cncnc23
-9462,2292,alpha-D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-9463,2292,Phosphate,Substrate,OP(O)(O)=O
-9464,2292,Purine,Product,c1ncc2ncnc2(n1)
-9465,2292,Purine riboside,Substrate,OCC1OC(C(O)C1(O))n3cnc2cncnc23
 9466,2293,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 9467,2293,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 9468,2293,Acetoin,Substrate,CC(O)C(C)=O
@@ -6706,24 +6321,6 @@
 9629,2327,H+,Substrate,[H]
 9630,2327,H2O,Product,[H]O[H]
 9631,2327,Dopamine,Product,NCCc1ccc(O)c(O)c1
-9648,2332,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-9649,2332,UDP-glucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
-9650,2332,Bilirubin,Substrate,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-9651,2332,Bilirubin beta-diglucuronide,Product,C=CC=6C(=O)NC(=Cc5nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(=O)OC4OC(C(O)=O)C(O)C(O)C4(O))c5(C))C=6(C)
-9652,2333,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-9653,2333,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-9654,2333,Bilirubin,Substrate,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-9655,2333,Biliverdin,Product,C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C)
-9656,2333,H+,Product,[H]
-9657,2334,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-9658,2334,Bilirubin,Substrate,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-9659,2334,Biliverdin,Product,C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C)
-9660,2334,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-9661,2334,H+,Product,[H]
-9662,2335,O2,Substrate,O=O
-9663,2335,Bilirubin,Substrate,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-9664,2335,Biliverdin,Product,C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C)
-9665,2335,H2O,Product,[H]O[H]
 9666,2336,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 9667,2336,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 9668,2336,Carnitine,Substrate,C[N+](C)(C)CC(O)CC(O)=O
@@ -6773,10 +6370,6 @@
 9739,2351,Shikimate,Substrate,OC(=O)C=1CC(O)C(O)C(O)C=1
 9740,2351,3-Dehydroshikimate,Product,OC(=O)C=1CC(O)C(O)C(=O)C=1
 9741,2351,H+,Product,[H]
-9747,2353,Shikimate,Substrate,OC(=O)C=1CC(O)C(O)C(O)C=1
-9748,2353,3-Dehydroshikimate,Product,OC(=O)C=1CC(O)C(O)C(=O)C=1
-9749,2353,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-9750,2353,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
 9751,2354,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 9752,2354,4-Coumaroyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4
 9753,2354,Shikimate,Substrate,OC(=O)C=1CC(O)C(O)C(O)C=1
@@ -7289,30 +6882,6 @@
 10681,2565,CO2,Product,O=C=O
 10682,2565,3-Hydroxyanthranilate,Substrate,Nc1c(O)cccc1(C(O)=O)
 10683,2565,2-Aminophenol,Product,Nc1ccccc1(O)
-10705,2571,Cyanide,Product,(C-)#N
-10706,2571,4-Hydroxymandelonitrile,Substrate,N#CC(O)c1ccc(O)cc1
-10707,2571,4-Hydroxybenzaldehyde,Product,O=Cc1ccc(O)cc1
-10712,2573,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-10713,2573,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-10714,2573,H+,Product,[H]
-10715,2573,H2O,Substrate,[H]O[H]
-10716,2573,Indole-3-acetate,Product,OC(=O)Cc1cnc2ccccc12
-10717,2573,Indole-3-acetaldehyde,Substrate,O=CCc1cnc2ccccc12
-10718,2574,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-10719,2574,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-10720,2574,Indole-3-ethanol,Substrate,OCCc1cnc2ccccc12
-10721,2574,Indole-3-acetaldehyde,Product,O=CCc1cnc2ccccc12
-10722,2574,H+,Product,[H]
-10723,2575,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-10724,2575,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-10725,2575,Indole-3-ethanol,Substrate,OCCc1cnc2ccccc12
-10726,2575,Indole-3-acetaldehyde,Product,O=CCc1cnc2ccccc12
-10727,2575,H+,Product,[H]
-10728,2576,H2O,Substrate,[H]O[H]
-10729,2576,O2,Substrate,O=O
-10730,2576,Indole-3-acetate,Product,OC(=O)Cc1cnc2ccccc12
-10731,2576,Indole-3-acetaldehyde,Substrate,O=CCc1cnc2ccccc12
-10732,2576,H2O2,Product,OO
 10737,2578,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 10738,2578,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 10739,2578,H+,Product,[H]
@@ -7360,12 +6929,6 @@
 10800,2592,Coenzyme A,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 10801,2592,4-Hydroxyphenylacetyl-CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)Cc4ccc(O)cc4
 10802,2592,4-Hydroxyphenylacetate,Substrate,OC(=O)Cc1ccc(O)cc1
-10807,2594,CO2,Product,O=C=O
-10808,2594,Serotonin,Product,NCCc1cnc2ccc(O)cc12
-10809,2594,5-Hydroxy-L-tryptophan,Substrate,NC(Cc1cnc2ccc(O)cc12)C(O)=O
-10810,2595,O2,Substrate,O=O
-10811,2595,5-Hydroxy-L-tryptophan,Substrate,NC(Cc1cnc2ccc(O)cc12)C(O)=O
-10812,2595,5-Hydroxy-N-formylkynurenine,Product,NC(CC(=O)c1cc(O)ccc1(NC=O))C(O)=O
 10813,2597,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 10814,2597,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 10815,2597,N-Acetyl-D-mannosamine 6-phosphate,Product,CC(=O)NC1C(O)OC(COP(O)(O)=O)C(O)C1(O)
@@ -7385,11 +6948,6 @@
 10852,2606,H2O,Substrate,[H]O[H]
 10853,2606,D-Arabinonate,Product,OCC(O)C(O)C(O)C(O)=O
 10854,2606,"D-Arabinono-1,4-lactone",Substrate,OCC1OC(=O)C(O)C1(O)
-10876,2612,L-Serine,Substrate,NC(CO)C(O)=O
-10877,2612,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-10878,2612,H2O,Product,[H]O[H]
-10879,2612,Glyceraldehyde 3-phosphate,Product,[H]C(=O)C(O)COP(O)(O)=O
-10880,2612,(3-Indolyl)-glycerol phosphate,Substrate,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12
 10907,2617,"alpha,alpha-Trehalose",Substrate,OCC2OC(OC1OC(CO)C(O)C(O)C1(O))C(O)C(O)C2(O)
 10908,2617,Phosphate,Substrate,OP(O)(O)=O
 10909,2617,beta-D-Glucose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C(O)C1(O)
@@ -7568,10 +7126,6 @@
 11275,2706,Hydrocortisone,Product,[H]C34(CCC(O)(C(=O)CO)C4(C)(CC(O)C2([H])(C3([H])(CCC1=CC(=O)CCC12(C)))))
 11287,2709,"11beta,17alpha,21-Trihydroxy-5beta-pregnane-3,20-dione",Product,[H]C23(CCC1([H])(C4([H])(CCC(O)(C(=O)CO)C4(C)(CC(O)C1([H])C3(C)(CCC(=O)C2)))))
 11288,2709,Hydrocortisone,Substrate,[H]C34(CCC(O)(C(=O)CO)C4(C)(CC(O)C2([H])(C3([H])(CCC1=CC(=O)CCC12(C)))))
-11289,2710,Cyanide,Substrate,(C-)#N
-11290,2710,Hydrogen sulfide,Product,[H]S[H]
-11291,2710,Cysteine,Substrate,NC(CS)C(O)=O
-11292,2710,3-Cyano-L-alanine,Product,N#CCC(N)C(O)=O
 11298,2712,D-Hexose 6-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
 11299,2712,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 11300,2712,D-Hexose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
@@ -7663,23 +7217,6 @@
 11506,2762,all-trans-Retinoic acid,Substrate,CC(=CC=CC(C)=CC(O)=O)C=CC1=C(C)CCCC1(C)(C)
 11511,2764,Rhodopsin,Substrate,[*]=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C)
 11512,2764,11-cis-Retinal,Product,CC(=CC=O)C=CC=C(C)C=CC1=C(C)CCCC1(C)(C)
-11523,2768,NH3,Product,[H]N([H])[H]
-11524,2768,H2O,Substrate,[H]O[H]
-11525,2768,O2,Substrate,O=O
-11526,2768,Serotonin,Substrate,NCCc1cnc2ccc(O)cc12
-11527,2768,H2O2,Product,OO
-11528,2768,5-Hydroxyindoleacetaldehyde,Product,O=CCc1cnc2ccc(O)cc12
-11529,2769,O2,Substrate,O=O
-11530,2769,Serotonin,Substrate,NCCc1cnc2ccc(O)cc12
-11531,2769,Formyl-5-hydroxykynurenamine,Product,NCCC(=O)c1cc(O)ccc1(NC=O)
-11532,2770,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-11533,2770,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-11534,2770,N-Methylserotonin,Product,Cn2cc(CCN)c1cc(O)ccc12
-11535,2770,3-(2-Aminoethyl)-1H-indol-5-ol,Substrate,NCCc1cnc2ccc(O)cc12
-11536,2771,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-11537,2771,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-11538,2771,Serotonin,Substrate,NCCc1cnc2ccc(O)cc12
-11539,2771,N-Acetylserotonin,Product,CC(=O)NCCc1cnc2ccc(O)cc12
 11543,2773,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 11544,2773,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 11545,2773,Tropinone,Product,CN2C1CCC2(CC(=O)C1)
@@ -7886,10 +7423,6 @@
 11905,2859,2'-Hydroxyformononetin,Product,COc1ccc(c(O)c1)C2=COc3cc(O)ccc3(C2(=O))
 11906,2859,H+,Substrate,[H]
 11907,2859,H2O,Product,[H]O[H]
-11920,2863,Phosphate,Product,OP(O)(O)=O
-11921,2863,H2O,Substrate,[H]O[H]
-11922,2863,L-Histidinol,Product,NC(CO)Cc1cncn1
-11923,2863,L-Histidinol phosphate,Substrate,NC(COP(O)(O)=O)Cc1cncn1
 11924,2864,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 11925,2864,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 11926,2864,L-Rhamnulose,Substrate,CC(O)C(O)C(O)C(=O)CO
@@ -8040,18 +7573,6 @@
 12181,2931,Estradiol-17beta,Substrate,[H]C23(CCC4(C)(C(O)CCC4([H])(C3([H])(CCc1cc(O)ccc12))))
 12182,2931,UDPglucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
 12183,2931,Estradiol-17beta 3-glucuronide,Product,[H]C24(CCC5(C)(C(O)CCC5([H])(C4([H])(CCc1cc(ccc12)OC3OC(C(O)=O)C(O)C(O)C3(O)))))
-12188,2933,NH3,Product,[H]N([H])[H]
-12189,2933,H2O,Substrate,[H]O[H]
-12190,2933,Indole-3-acetate,Product,OC(=O)Cc1cnc2ccccc12
-12191,2933,3-Indoleacetonitrile,Substrate,N#CCc1cnc2ccccc12
-12192,2934,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-12193,2934,UDPglucose,Substrate,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
-12194,2934,Indole-3-acetate,Substrate,OC(=O)Cc1cnc2ccccc12
-12195,2934,Indole-3-acetyl-beta-1-D-glucose,Product,CC(=O)c2cn(OC1OC(CO)C(O)C(O)C1(O))c3ccccc23
-12202,2936,NH3,Product,[H]N([H])[H]
-12203,2936,H2O,Substrate,[H]O[H]
-12204,2936,Indoleacetate,Product,OC(=O)Cc1cnc2ccccc12
-12205,2936,Indole-3-acetamide,Substrate,NC(=O)Cc1cnc2ccccc12
 12209,2938,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 12210,2938,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 12211,2938,L-2-Aminoadipate adenylate,Product,NC(CCCC(=O)OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
@@ -8067,10 +7588,6 @@
 12221,2941,H+,Product,[H]
 12222,2941,L-2-Aminoadipate,Product,NC(CCCC(O)=O)C(O)=O
 12223,2941,L-2-Aminoadipate 6-semialdehyde,Substrate,C(CC=O)C[C@@H](C(=O)O)N
-12233,2944,Cyanide,Substrate,(C-)#N
-12234,2944,Thiocyanate,Product,N#CS
-12235,2944,Pyruvate,Product,CC(=O)C(O)=O
-12236,2944,3-Mercaptopyruvate,Substrate,OC(=O)C(=O)CS
 12262,2951,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 12263,2951,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 12264,2951,(-)-trans-Carveol,Substrate,CC(=C)C1CC=C(C)C(O)C1
@@ -8095,10 +7612,6 @@
 12283,2955,3-Hydroxypropanal,Product,[H]C(=O)CCO
 12321,2963,2-Hydroxy-3-oxosuccinate,Product,OC(=O)C(O)C(=O)C(O)=O
 12322,2963,Dihydroxyfumarate,Substrate,OC(=O)C(O)=C(O)C(O)=O
-12327,2965,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-12328,2965,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-12329,2965,Melatonin,Product,COc1ccc2ncc(CCNC(C)=O)c2(c1)
-12330,2965,N-Acetylserotonin,Substrate,CC(=O)NCCc1cnc2ccc(O)cc12
 12335,2967,Acetate,Product,CC(O)=O
 12336,2967,O-Acetyl-L-serine,Substrate,CC(=O)OCC(N)C(O)=O
 12337,2967,S-Sulfo-L-cysteine,Product,NC(CSS(O)(=O)=O)C(O)=O
@@ -8125,12 +7638,6 @@
 12434,2991,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 12439,2993,L-Fucose,Substrate,CC1OC(O)C(O)C(O)C1(O)
 12440,2993,L-Fuculose,Product,CC1OC(O)C(O)C(O)C1(O)
-12445,2995,H2O,Product,[H]O[H]
-12446,2995,Hydroxymethylbilane,Substrate,OCc4nc(Cc3nc(Cc2nc(Cc1ncc(CCC(O)=O)c1(CC(O)=O))c(CCC(O)=O)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O)
-12447,2995,Uroporphyrinogen III,Product,OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CC(O)=O)c5(CCC(O)=O)
-12448,2996,H2O,Product,[H]O[H]
-12449,2996,Hydroxymethylbilane,Substrate,OCc4nc(Cc3nc(Cc2nc(Cc1ncc(CCC(O)=O)c1(CC(O)=O))c(CCC(O)=O)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O)
-12450,2996,Uroporphyrinogen I,Product,OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CCC(O)=O)c5(CC(O)=O)
 12460,2999,Tiglyl-CoA,Product,CC=C(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 12461,2999,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 12462,2999,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
@@ -8194,13 +7701,6 @@
 12563,3022,L-Alanine,Substrate,CC(N)C(O)=O
 12564,3022,UDP-N-acetylmuramoyl-L-alanine,Product,CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(=O)NC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O)
 12565,3022,UDP-N-acetylmuramate,Substrate,CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O)
-12566,3023,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-12567,3023,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-12568,3023,Uroporphyrinogen III,Substrate,OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CC(O)=O)c5(CCC(O)=O)
-12569,3023,Precorrin 2,Product,CC2(CC(O)=O)(C1=Cc5nc(Cc4nc(C=C3N=C(C=C(N1)C2(CCC(O)=O))C(C)(CC(O)=O)C3(CCC(O)=O))c(CC(O)=O)c4(CCC(O)=O))c(CCC(O)=O)c5(CC(O)=O))
-12575,3025,CO2,Product,O=C=O
-12576,3025,Uroporphyrinogen III,Substrate,OC(=O)CCc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CC(O)=O))c(CCC(O)=O)c3(CC(O)=O))c(CCC(O)=O)c4(CC(O)=O))c(CC(O)=O)c5(CCC(O)=O)
-12577,3025,Coproporphyrinogen III,Product,Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
 12584,3027,"(S)-2,3-Epoxysqualene",Substrate,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC1OC1(C)(C)
 12585,3027,Lanosterol,Product,[H]C(C)(CCC=C(C)C)C1([H])(CCC2(C)(C=3CCC4([H])(C(C)(C)C(O)CCC4(C)(C=3(CCC12(C))))))
 12586,3028,"(S)-2,3-Epoxysqualene",Substrate,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC1OC1(C)(C)
@@ -8229,15 +7729,6 @@
 12655,3044,L-Cysteine,Substrate,NC(CS)C(O)=O
 12656,3044,O-Acetyl-L-homoserine,Substrate,CC(=O)OCCC(N)C(O)=O
 12657,3044,L-Cystathionine,Product,NC(CCSCC(N)C(O)=O)C(O)=O
-12658,3047,CO2,Product,O=C=O
-12659,3047,H2O,Product,[H]O[H]
-12660,3047,O2,Substrate,O=O
-12661,3047,Protoporphyrinogen IX,Product,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-12662,3047,Coproporphyrinogen III,Substrate,Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-12663,3048,H2O,Product,[H]O[H]
-12664,3048,O2,Substrate,O=O
-12665,3048,Protoporphyrinogen IX,Substrate,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-12666,3048,Protoporphyrin IX,Product,C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)
 12667,3049,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 12668,3049,2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate,Substrate,Cc1ncc(COP(O)(=O)OP(O)(O)=O)c(N)n1
 12669,3049,4-Methyl-5-(2-phosphoethyl)-thiazole,Substrate,Cc1ncsc1(CCOP(O)(O)=O)
@@ -8279,10 +7770,6 @@
 12724,3063,L-Fuculose,Substrate,CC1OC(O)C(O)C(O)C1(O)
 12725,3063,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 12726,3063,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-12727,3064,L-Glutamate,Product,NC(CCC(O)=O)C(O)=O
-12728,3064,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
-12729,3064,L-Histidinol phosphate,Substrate,NC(COP(O)(O)=O)Cc1cncn1
-12730,3064,3-(Imidazol-4-yl)-2-oxopropyl phosphate,Product,O=C(COP(O)(O)=O)Cc1cncn1
 12731,3065,L-Xylulose 5-phosphate,Product,OCC(=O)C(O)C(O)COP(O)(O)=O
 12732,3065,L-Ribulose 5-phosphate,Substrate,OCC(=O)C(O)C(O)COP(O)(O)=O
 12733,3066,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -8676,9 +8163,6 @@
 13476,3239,H2O,Product,[H]O[H]
 13477,3239,Kynurenic acid,Product,OC(=O)c1cc(O)c2ccccc2(n1)
 13478,3239,"4-(2-Aminophenyl)-2,4-dioxobutanoate",Substrate,Nc1ccccc1C(=O)CC(=O)C(O)=O
-13528,3251,H2O,Product,[H]O[H]
-13529,3251,D-erythro-Imidazole-glycerol 3-phosphate,Substrate,OC(COP(O)(O)=O)C(O)c1cncn1
-13530,3251,3-(Imidazol-4-yl)-2-oxopropyl phosphate,Product,O=C(COP(O)(O)=O)Cc1cncn1
 13531,3252,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 13532,3252,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 13533,3252,5-Amino-6-(5'-phosphoribitylamino)uracil,Substrate,NC=1C(=O)NC(=O)NC=1(NCC(O)C(O)C(O)COP(O)(O)=O)
@@ -8750,14 +8234,6 @@
 13706,3295,H+,Product,[H]
 13707,3295,"3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane",Substrate,[H]C12(CC(O)CCC1(C)C3([H])(CC(O)C4(C)(C([H])(CCC4([H])(C3([H])(C(O)C2)))C(C)CCCC(C)CO)))
 13708,3295,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al",Product,[H]C(=O)C(C)CCCC([H])(C)C2([H])(CCC3([H])(C4([H])(C(O)CC1([H])(CC(O)CCC1(C)C4([H])(CC(O)C23(C))))))
-13709,3296,CO2,Product,O=C=O
-13710,3296,H2O,Product,[H]O[H]
-13711,3296,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,Substrate,O[C@H](COP([O-])([O-])=O)[C@@H](O)C(=O)CNc1ccccc1C([O-])=O
-13712,3296,(3-Indolyl)-glycerol phosphate,Product,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12
-13773,3312,L-Cysteine,Substrate,NC(CS)C(O)=O
-13774,3312,Sulfide,Product,[*]S[*]
-13775,3312,Cyanide,Substrate,(C-)#N
-13776,3312,3-Cyano-L-alanine,Product,N#CCC(N)C(O)=O
 13802,3319,FAD,Substrate,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C))
 13803,3319,2-Oxoglutarate,Product,OC(=O)CCC(=O)C(O)=O
 13804,3319,2-Hydroxyglutarate,Substrate,OC(=O)CCC(O)C(O)=O
@@ -8993,21 +8469,10 @@
 14441,3461,Morphine,Substrate,[H]C45(C=CC(O)C1Oc3c(O)ccc2CC5(N(C)CCC14(c23)))
 14442,3462,Oripavine,Product,COC1=CC=C3C2Cc4ccc(O)c5OC1C3(CCN2(C))c45
 14443,3462,Morphinone,Substrate,[H]C45(C=CC(=O)C1Oc3c(O)ccc2CC5(N(C)CCC14(c23)))
-14452,3465,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-14453,3465,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-14454,3465,6-Methylthiopurine,Product,CSc2ncnc1ncnc12
-14455,3465,Mercaptopurine,Substrate,c1nc2ncnc(c2(n1))S
 14484,3473,UDPglucose,Substrate,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
 14485,3473,trans-beta-D-Glucosyl-2-hydroxycinnamate,Product,OCC2OC(Oc1ccccc1(C=CC(O)=O))C(O)C(O)C2(O)
 14486,3473,2-Coumarate,Substrate,OC(=O)C=Cc1ccccc1(O)
 14487,3473,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-14491,3475,H2O,Product,[H]O[H]
-14492,3475,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-14493,3475,O2,Substrate,O=O
-14494,3475,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-14495,3475,Albendazole S-oxide,Product,CCCS(=O)c1ccc2nc(NC(=O)OC)nc2(c1)
-14496,3475,Albendazole,Substrate,CCCSc1ccc2nc(NC(=O)OC)nc2(c1)
-14497,3475,H+,Substrate,[H]
 14524,3482,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 14525,3482,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 14526,3482,Palmatine,Product,COc2ccc1cc3c4cc(OC)c(cc4(CC[n+]3(cc1c2(OC))))OC
@@ -9060,10 +8525,6 @@
 14738,3537,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 14739,3537,3-Oxodecanoyl-CoA,Product,CCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 14740,3537,Octanoyl-CoA,Substrate,CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-14780,3547,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-14781,3547,tRNA guanine,Substrate,[*]C5OC(CO)C(OP(O)(=O)OCC4OC([*])C(O)C4(OP(O)(=O)OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(N)=Nc23))C5(O)
-14782,3547,tRNA queuine,Product,[*]OC6C(O)C=CC6(NCc1cn(c2N=C(N)NC(=O)c12)C5OC(COP(O)(=O)OC4C(O)C([*])OC4(COP(O)(=O)OC3C(O)C([*])OC3(COP(O)(O)=O)))C(OP(O)(O)=O)C5(O))
-14783,3547,Queuine,Substrate,NC=2NC(=O)c3c(CNC1C=CC(O)C1(O))cnc3(N=2)
 14784,3548,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 14785,3548,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 14786,3548,H+,Product,[H]
@@ -9176,11 +8637,6 @@
 15092,3618,(S)-Methylmalonate semialdehyde,Substrate,CC(C=O)C(O)=O
 15093,3618,Methylmalonate,Product,CC(C(O)=O)C(O)=O
 15094,3618,H+,Product,[H]
-15095,3619,H2O,Product,[H]O[H]
-15096,3619,O2,Product,O=O
-15097,3619,(S)-Methylmalonate semialdehyde,Product,CC(C=O)C(O)=O
-15098,3619,Methylmalonate,Substrate,CC(C(O)=O)C(O)=O
-15099,3619,O2.-,Substrate,O=[O-]
 15100,3620,(S)-Methylmalonate semialdehyde,Product,CC(C=O)C(O)=O
 15101,3620,Methylmalonate,Substrate,CC(C(O)=O)C(O)=O
 15118,3625,Mg2+,Substrate,[Mg+2]
@@ -9258,11 +8714,6 @@
 15339,3677,L-Alanine,Product,CC(N)C(O)=O
 15340,3677,Formylkynurenine,Substrate,[H]C(=O)Nc1ccccc1(C(=O)CC(N)C(O)=O)
 15341,3677,Formylanthranilate,Product,O=CNc1ccccc1(C(O)=O)
-15375,3687,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-15376,3687,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-15377,3687,H+,Product,[H]
-15378,3687,Sirohydrochlorin,Product,CC2(CC(O)=O)(c1cc5nc(cc4nc(cc3nc(cc(n1)C2(CCC(O)=O))C(C)(CC(O)=O)C3(CCC(O)=O))C(CC(O)=O)=C4(CCC(O)=O))c(CCC(O)=O)c5(CC(O)=O))
-15379,3687,Precorrin 2,Substrate,CC2(CC(O)=O)(C1=Cc5nc(Cc4nc(C=C3N=C(C=C(N1)C2(CCC(O)=O))C(C)(CC(O)=O)C3(CCC(O)=O))c(CC(O)=O)c4(CCC(O)=O))c(CCC(O)=O)c5(CC(O)=O))
 15406,3695,Glycine,Product,NCC(O)=O
 15407,3695,Glutathione,Substrate,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O
 15408,3695,[Glu(-Cys)]n+1-Gly,Product,[*]NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O
@@ -9354,9 +8805,6 @@
 15651,3754,Digalactosylceramide,Substrate,[*]C(=O)NC(COC2OC(CO)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O))C(O)C=CCCCCCCCCCCCCC
 15652,3754,Galactosylceramide,Product,[*]C(=O)NC(COC1OC(CO)C(O)C(O)C1(O))C(O)C=CCCCCCCCCCCCCC
 15653,3754,H2O,Substrate,[H]O[H]
-15654,3755,3-Indoleacetonitrile,Product,N#CCc1cnc2ccccc12
-15655,3755,Indole-3-acetamide,Substrate,NC(=O)Cc1cnc2ccccc12
-15656,3755,H2O,Product,[H]O[H]
 15701,3766,H2O,Substrate,[H]O[H]
 15702,3766,2-Succinylbenzoate,Substrate,OC(=O)CCC(=O)c1ccccc1(C(O)=O)
 15703,3766,"2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate",Product,OC(=O)CCC(=O)C1=CC=CC(O)C1(C(O)=O)
@@ -9393,12 +8841,6 @@
 15789,3786,3-Phosphonopyruvate,Substrate,OC(=O)C(=O)CP(O)(O)=O
 15790,3787,3-Phosphonopyruvate,Substrate,OC(=O)C(=O)CP(O)(O)=O
 15791,3787,2-Amino-3-phosphonopropanoate,Product,NC(CP(O)(O)=O)C(O)=O
-15835,3798,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-15836,3798,Imidazole acetaldehyde,Substrate,O=CCc1cncn1
-15837,3798,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-15838,3798,H2O,Substrate,[H]O[H]
-15839,3798,H+,Product,[H]
-15840,3798,Imidazole-4-acetate,Product,OC(=O)Cc1cncn1
 15890,3808,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 15891,3808,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 15892,3808,"5,8,13,13a-Tetrahydrocolumbamine",Substrate,[H]C23(Cc4ccc(OC)c(OC)c4(CN3(CCc1cc(OC)c(O)cc12)))
@@ -9416,9 +8858,6 @@
 15930,3817,O2,Substrate,O=O
 15931,3817,"2-Hydroxy-6-keto-2,4-heptadienoate",Product,CC(=O)C=CC=C(O)C(O)=O
 15932,3817,3-Methylcatechol,Substrate,Cc1cccc(O)c1(O)
-15941,3820,H2O,Product,[H]O[H]
-15942,3820,3-Indoleacetaldoxime,Substrate,[H]C(Cc1cnc2ccccc12)=NO
-15943,3820,3-Indoleacetonitrile,Product,N#CCc1cnc2ccccc12
 15950,3822,FAD,Substrate,Cc5cc6N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)c6(cc5(C))
 15951,3822,3-Methylcrotonyl-CoA,Product,CC(C)=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 15952,3822,3-Methylbutanoyl-CoA,Substrate,CC(C)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
@@ -9493,10 +8932,6 @@
 16123,3864,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 16132,3867,Isopenicillin N,Substrate,[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
 16133,3867,Penicillin N,Product,[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
-16134,3868,"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",Product,Cc1cc2ncn(c2(cc1(C)))C3OC(COP(O)(O)=O)C(O)C3(O)
-16135,3868,Dimethylbenzimidazole,Substrate,Cc1cc2ncnc2(cc1(C))
-16136,3868,Nicotinate,Product,OC(=O)c1cccnc1
-16137,3868,Nicotinate D-ribonucleotide,Substrate,OC(=O)c1ccc[n+](c1)C2OC(COP(O)(O)=O)C(O)C2(O)
 16173,3878,Geranylgeranyl diphosphate,Substrate,CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
 16174,3878,sn-3-O-(Geranylgeranyl)glycerol 1-phosphate,Product,CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOCC(O)COP(O)(O)=O
 16175,3878,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
@@ -9837,11 +9272,6 @@
 17604,4232,"(5Z)-(15S)-11alpha-Hydroxy-9,15-dioxoprostanoate",Substrate,CCCCCC(=O)CCC1C(O)CC(=O)C1(CC=CCCCC(O)=O)
 17605,4232,H+,Product,[H]
 17606,4232,"(5Z,13E)-11alpha-Hydroxy-9,15-dioxoprost-13-enoate",Product,CCCCCC(=O)C=CC1C(O)CC(=O)C1(CC=CCCCC(O)=O)
-17607,4234,L-Glutamine,Product,NC(=O)CCC(N)C(O)=O
-17608,4234,Phosphoribulosyl-formimino-AICAR-phosphate,Product,NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O)
-17609,4234,L-Glutamate,Substrate,NC(CCC(O)=O)C(O)=O
-17610,4234,D-erythro-Imidazole-glycerol 3-phosphate,Substrate,OC(COP(O)(O)=O)C(O)c1cncn1
-17611,4234,AICAR,Substrate,NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O)
 17654,4244,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 17655,4244,UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine,Product,CC(=O)NC1C(OC(CO)C(O)C1(OC(C)C(=O)NC(C)C(=O)NC(CCC(O)=O)C(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(O)=O))OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))N3C=CC(=O)NC3(=O)
 17656,4244,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -10196,23 +9626,10 @@
 18805,4514,O2,Substrate,O=O
 18806,4514,delta(L-2-Aminoadipyl)-L-cysteinyl-D-valine,Substrate,CC(C)C(NC(=O)C(CS)NC(=O)CCCC(N)C(O)=O)C(O)=O
 18807,4514,Isopenicillin N,Product,[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
-18822,4519,Ergothioneine,Substrate,C[N+](C)(C)C(Cc1cnc(n1)S)C(O)=O
-18823,4519,Hercynine,Product,C[N+](C)(C)C(Cc1cncn1)C(O)=O
 18921,4540,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 18922,4540,Quercetin 3-O-glucoside,Substrate,OCC4OC(OC=2C(=O)c3c(O)cc(O)cc3(OC=2(c1ccc(O)c(O)c1)))C(O)C(O)C4(O)
 18923,4540,Rutin,Product,CC5OC(OCC4OC(OC=2C(=O)c3c(O)cc(O)cc3(OC=2(c1ccc(O)c(O)c1)))C(O)C(O)C4(O))C(O)C(O)C5(O)
 18924,4540,UDP-L-rhamnose,Substrate,CC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
-18937,4543,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-18938,4543,H+,Product,[H]
-18939,4543,H2O,Substrate,[H]O[H]
-18940,4543,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-18941,4543,5-Hydroxyindoleacetaldehyde,Substrate,O=CCc1cnc2ccc(O)cc12
-18942,4543,5-Hydroxyindoleacetate,Product,OC(=O)Cc1cnc2ccc(O)cc12
-18943,4544,O2,Product,O=O
-18944,4544,O2,Substrate,O=O
-18945,4544,H2O,Substrate,[H]O[H]
-18946,4544,5-Hydroxyindoleacetaldehyde,Substrate,O=CCc1cnc2ccc(O)cc12
-18947,4544,5-Hydroxyindoleacetate,Product,OC(=O)Cc1cnc2ccc(O)cc12
 19004,4558,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 19005,4558,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 19006,4558,3-Hydroxypropanoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CCO
@@ -10379,28 +9796,16 @@
 20004,4809,L-Glutamate,Substrate,NC(CCC(O)=O)C(O)=O
 20005,4809,10-Formyltetrahydrofolyl L-glutamate,Substrate,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O
 20006,4809,10-Formyltetrahydrofolylpolyglutamate,Product,NC=1NC(=O)C=2NC(CNC=2(N=1))CN(C=O)c3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O)C(O)=O
-20007,4810,Acetaldehyde,Product,CC=O
-20008,4810,Ethanol,Substrate,CCO
-20009,4810,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-20010,4810,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
 20019,4813,ATP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 20020,4813,ADP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 20021,4813,Phytate,Substrate,OP(=O)(O)OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(=O)(O)O)C(OP(O)(O)=O)C1(OP(O)(O)=O)
 20022,4813,"1D-myo-Inositol 1,3,4,5,6-pentakisphosphate",Product,OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1(OP(O)(O)=O)
 20031,4817,Phosphonoformate,Substrate,OC(=O)P(O)(O)=O
 20032,4817,Bialaphos,Product,CC(NC(=O)C(C)NC(=O)C(N)CCP(C)(O)=O)C(O)=O
-20037,4819,Ethanol,Product,CCO
-20038,4819,2-Mercaptoethanol,Substrate,OCCS
-20039,4819,Cyanide,Substrate,(C-)#N
-20040,4819,Thiocyanate,Product,N#CS
 20041,4820,H2O,Substrate,[H]O[H]
 20042,4820,Carboxylate,Product,[*]C(=O)[O-]
 20043,4820,Acylglycerol,Product,[*]C(=O)OCC(O)CO
 20044,4820,Diacylglycerol,Substrate,[*]C(=O)OCC(CO)OC([*])=O
-20103,4833,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-20104,4833,Adenosyl cobinamide phosphate,Substrate,CC(CNC(=O)CCC11(C)(C(CC(N)=O)C1N10C11(=C(C)C=9C(CCC(N)=O)C(C)(C)C8=CC=6C(CCC(N)=O)C(C)(CC(N)=O)C7=C(C)C=2C(CCC(N)=O)C(C)(CC(N)=O)C1(C)N=2[Co]10(CC3OC(C(O)C3(O))n5cnc4c(N)ncnc45)(N=67)(N8=9))))OP(O)(O)=O
-20105,4833,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
-20106,4833,Adenosine-GDP-cobinamide,Product,CC(CNC(=O)CCC11(C)(C(CC(N)=O)C1N10C11(=C(C)C=9C(CCC(N)=O)C(C)(C)C8=CC=6C(CCC(N)=O)C(C)(CC(N)=O)C7=C(C)C=2C(CCC(N)=O)C(C)(CC(N)=O)C1(C)N=2[Co]10(CC3OC(C(O)C3(O))n5cnc4c(N)ncnc45)(N=67)(N8=9))))OP(O)(=O)OP(O)(=O)OCC12OC(C(O)C12(O))n14cnc13C(=O)NC(N)=Nc1314
 20111,4835,L-Glutamine,Substrate,NC(=O)CCC(N)C(O)=O
 20112,4835,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 20113,4835,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -10499,10 +9904,6 @@
 20405,4892,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 20406,4892,Adipate semialdehyde,Product,O=CCCCCC(O)=O
 20407,4892,6-Hydroxyhexanoic acid,Substrate,OCCCCCC(O)=O
-20412,4894,2-Chloroethanol,Substrate,OCCCl
-20413,4894,Chloroacetaldehyde,Product,O=CCCl
-20414,4894,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-20415,4894,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
 20416,4895,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 20417,4895,H2O,Substrate,[H]O[H]
 20418,4895,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
@@ -10532,10 +9933,6 @@
 20492,4910,Succinate,Product,OC(=O)CCC(O)=O
 20493,4910,Penicillin N,Substrate,[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(C(O)=O)C(C)(C)SC12([H]))
 20494,4910,Deacetoxycephalosporin C,Product,[H]C2(NC(=O)CCCC(N)C(O)=O)(C(=O)N1C(=C(C)CSC12([H]))C(O)=O)
-20568,4925,O2,Substrate,O=O
-20569,4925,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-20570,4925,H2O2,Product,OO
-20571,4925,"alpha,beta-Didehydrotryptophan",Product,NC(=Cc1cnc2ccccc12)C(O)=O
 20580,4928,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 20581,4928,Succinate,Product,OC(=O)CCC(O)=O
 20582,4928,Aminoacetaldehyde,Product,[H]C(=O)CN
@@ -11113,17 +10510,11 @@
 22586,5396,ADP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 22587,5396,D-Fructose 6-phosphate,Substrate,OCC1(O)(OC(COP(O)(O)=O)C(O)C1(O))
 22588,5396,"D-Fructose 1,6-bisphosphate",Product,OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O)
-22646,5411,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-22647,5411,D-Sorbitol,Substrate,OCC(O)C(O)C(O)C(O)CO
-22648,5411,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-22649,5411,D-Glucitol 6-phosphate,Product,OCC(O)C(O)C(O)C(O)COP(O)(O)=O
 22658,5414,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 22659,5414,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 22660,5414,2-Dehydro-D-gluconate,Substrate,OCC(O)C(O)C(O)C(=O)C(O)=O
 22661,5414,H+,Product,[H]
 22662,5414,2-Dehydro-L-idonate,Product,OCC(=O)C(O)C(O)C(=O)C(O)=O
-22679,5420,Geissoschizine,Substrate,[H]C24(CC(C(=CC)CN4(CCc1c3ccccc3(nc12)))C(C=O)C(=O)OC)
-22680,5420,Polyneuridine aldehyde,Product,[H]C25(CC4C(=CC)CN5(C(Cc1c3ccccc3(nc12))C4(C=O)(C(=O)OC)))
 22681,5422,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 22682,5422,L-Xylulose,Product,OCC1(O)(OCC(O)C1(O))
 22683,5422,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
@@ -11816,10 +11207,6 @@
 25551,6586,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 25552,6586,Linoleate,Product,CCCCCC=CCC=CCCCCCCCC(O)=O
 25553,6586,Linoleoyl-CoA,Substrate,CCCCCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-25558,6589,FMN,Substrate,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
-25559,6589,FMNH2,Product,Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
-25560,6589,Indolelactate,Substrate,OC(=O)C(O)Cc1cnc2ccccc12
-25561,6589,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
 25562,6590,Indoleglycolate,Substrate,C1=CC=C2C(=C1)C(=CN2)C(C(=O)[O-])O
 25563,6590,Indoleglyoxylate,Product,c1ccc2c(c1)c(c[nH]2)C(=O)C(=O)O
 25564,6590,Riboflavin-5-phosphate,Substrate,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
@@ -11860,12 +11247,6 @@
 25685,6623,(S)-Mandelate,Substrate,OC(=O)C(O)c1ccccc1
 25686,6623,Reduced FMN,Product,Cc2cc3NC=1C(=O)NC(=O)NC=1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
 25687,6623,Benzoylformate,Product,OC(=O)C(=O)c1ccccc1
-25694,6625,H2O,Substrate,[H]O[H]
-25695,6625,H2O,Product,[H]O[H]
-25696,6625,2-Hydroxybenzaldehyde,Product,O=Cc1ccccc1(O)
-25697,6625,2-Hydroxybenzyladenine,Substrate,C1=CC=C(C(=C1)CC2=NC3=C(C(=N2)N)NC=N3)O
-25698,6625,Adenine,Product,Nc1ncnc2ncnc12
-25699,6625,O2,Substrate,O=O
 25724,6631,H2O,Product,[H]O[H]
 25725,6631,H2O2,Substrate,OO
 25726,6631,4-Chlorocatechol,Product,Oc1ccc(cc1(O))Cl
@@ -11891,24 +11272,6 @@
 25815,6651,Adenosine,Product,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
 25816,6651,3-Methylbut-2-enal,Product,CC(C)=CC=O
 25817,6651,O2,Substrate,O=O
-25830,6654,Adenine,Product,Nc1ncnc2ncnc12
-25831,6654,H2O,Substrate,[H]O[H]
-25832,6654,H2O,Product,[H]O[H]
-25833,6654,Aldehyde,Product,[*]C([H])=O
-25834,6654,O2,Substrate,O=O
-25835,6654,kinetin,Substrate,c1coc(c1)CNc3ncnc2ncnc23
-25894,6665,Adenine,Product,Nc1ncnc2ncnc12
-25895,6665,H2O,Substrate,[H]O[H]
-25896,6665,H2O,Product,[H]O[H]
-25897,6665,3-Methylbut-2-enal,Product,CC(C)=CC=O
-25898,6665,N6-(delta2-Isopentenyl)-adenine,Substrate,CC(C)=CCNc1ncnc2ncnc12
-25899,6665,O2,Substrate,O=O
-25950,6676,H2O,Substrate,[H]O[H]
-25951,6676,H2O,Product,[H]O[H]
-25952,6676,3-Methylbut-2-enal,Product,CC(C)=CC=O
-25953,6676,6-Methylaminopurine,Product,CNc1ncnc2ncnc12
-25954,6676,N-Methyl-isopentenyladenine,Substrate,CC(=CCN(C)C1=NC=NC2=C1N=CN2C)C
-25955,6676,O2,Substrate,O=O
 26001,6685,Diploptene,Product,[H]C5(CCC4(C)(C5([H])(CCC2(C)(C4([H])(CCC1([H])(C3(C)(CCCC(C)(C)C3([H])(CCC12(C)))))))))(C(C)=C)
 26002,6685,Squalene,Substrate,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C
 26003,6686,H2O,Substrate,[H]O[H]
@@ -11985,11 +11348,6 @@
 26244,6744,trans-Hex-2-enoyl-CoA,Product,CCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 26245,6744,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
 26246,6744,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-26247,6745,H+,Product,[H]
-26248,6745,Hypoxanthine,Substrate,O=C1NC=Nc2ncnc12
-26249,6745,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-26250,6745,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-26251,6745,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 26252,6746,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 26253,6746,H2O,Substrate,[H]O[H]
 26254,6746,Dodecanoic acid,Product,CCCCCCCCCCCC(O)=O
@@ -12009,11 +11367,6 @@
 26304,6761,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
 26305,6761,Octanoyl-CoA,Substrate,CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 26306,6761,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-26307,6764,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-26308,6764,H+,Product,[H]
-26309,6764,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-26310,6764,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
-26311,6764,Purine,Substrate,c1ncc2ncnc2(n1)
 26331,6769,H2O,Substrate,[H]O[H]
 26332,6769,4-Nitrophenol,Product,Oc1ccc(cc1)[N+](=O)[O-]
 26333,6769,Bis-4-nitrophenyl phosphate,Substrate,O=[N+]([O-])c1ccc(cc1)OP(O)(=O)Oc2ccc(cc2)[N+](=O)[O-]
@@ -12356,10 +11709,6 @@
 27866,7132,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 27867,7132,Nitroglycerin,Substrate,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-]
 27868,7132,Reduced nitroglycerin,Product,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
-27886,7138,Phosphoribulosyl-formimino-AICAR-phosphate,Substrate,NC(=O)c1ncn(c1(N=CNCC(=O)C(O)C(O)COP(O)(O)=O))C2OC(COP(O)(O)=O)C(O)C2(O)
-27887,7138,D-erythro-Imidazole-glycerol 3-phosphate,Product,OC(COP(O)(O)=O)C(O)c1cncn1
-27888,7138,AICAR,Product,NC(=O)c1ncn(c1(N))C2OC(COP(O)(O)=O)C(O)C2(O)
-27889,7138,NH3,Substrate,[H]N([H])[H]
 27890,7139,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 27891,7139,H2O,Substrate,[H]O[H]
 27892,7139,Propanoate,Product,CCC(O)=O
@@ -12529,12 +11878,6 @@
 28612,7293,L-Cysteine,Product,NC(CS)C(O)=O
 28613,7293,O-Phospho-L-serine,Substrate,NC(COP(O)(O)=O)C(O)=O
 28614,7293,Hydrogen sulfide,Substrate,[H]S[H]
-28615,7294,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-28616,7294,O2,Substrate,O=O
-28617,7294,H2O,Substrate,[H]O[H]
-28618,7294,Formaldehyde,Product,[H]C([H])=O
-28619,7294,H2O2,Product,OO
-28620,7294,N-Methyl-L-tryptophan,Substrate,CNC(Cc1cnc2ccccc12)C(O)=O
 28621,7295,O2,Substrate,O=O
 28622,7295,H2O,Product,[H]O[H]
 28623,7295,H+,Substrate,[H]
@@ -12578,9 +11921,6 @@
 28677,7311,2-Oxobutyrate,Product,CCC(=O)C(O)=O
 28678,7311,Homocysteine,Substrate,NC(CCS)C(O)=O
 28679,7311,Hydrogen sulfide,Product,[H]S[H]
-28690,7315,H2O,Substrate,[H]O[H]
-28691,7315,Cyclic ADP-ribose,Substrate,N=C1c5ncn3c5(N=CN1C4OC(COP(O)(=O)OP(O)(=O)OCC2OC3(C(O)C2(O)))C(O)C4(O))
-28692,7315,ADPribose,Product,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
 28693,7316,ITP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 28694,7316,"Glycerate 1,3-bisphosphate",Product,OC(COP(O)(O)=O)C(=O)OP(O)(O)=O
 28695,7316,Glycerate 3-phosphate,Substrate,OC(=O)C(O)COP(O)(O)=O
@@ -12629,12 +11969,6 @@
 28784,7335,Octanal,Substrate,CCCCCCCC=O
 28785,7335,Octanoic acid,Product,CCCCCCCC(O)=O
 28786,7335,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-28878,7401,CO2,Substrate,O=C=O
-28879,7401,L-Methionine,Substrate,CSCCC(N)C(O)=O
-28880,7401,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-28881,7401,Protoporphyrinogen IX,Product,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-28882,7401,5'-Deoxyadenosine,Substrate,CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-28883,7401,Coproporphyrinogen III,Substrate,Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
 28963,7423,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 28964,7423,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 28965,7423,H+,Product,[H]
@@ -12860,10 +12194,6 @@
 29904,7688,O-Phospho-L-serine,Product,NC(COP(O)(O)=O)C(O)=O
 29905,7688,"1,2-Diacyl-sn-glycerol",Product,[*]C(=O)OCC(CO)OC([*])=O
 29906,7688,Phosphatidylserine,Substrate,[*]C(=O)OCC(COP(O)(=O)OCC(N)C(O)=O)OC([*])=O
-29907,7692,Thiosulfate,Substrate,OS(=O)(=O)[S-]
-29908,7692,Sulfite,Product,OS(O)=O
-29909,7692,Cyanide,Substrate,(C-)#N
-29910,7692,Thiocyanate,Product,N#CS
 29948,7702,O2,Substrate,O=O
 29949,7702,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 29950,7702,H2O2,Product,OO
@@ -12980,14 +12310,6 @@
 30183,7759,3alpha-Hydroxy-5alpha-pregnan-20-one,Substrate,[H]C23(CCC1([H])(C4([H])(CCC(C(C)=O)C4(C)(CCC1([H])C3(C)(CCC(O)C2)))))
 30184,7759,"5alpha-Pregnane-3,20-dione",Product,[H]C34(CCC1([H])(C([H])(CCC2(C)(C([H])(CCC12([H]))C(C)=O))C4(C)(CCC(=O)C3)))
 30185,7759,H+,Product,[H]
-30194,7762,O2,Substrate,O=O
-30195,7762,CO2,Product,O=C=O
-30196,7762,H2O,Product,[H]O[H]
-30197,7762,L-Ascorbate,Substrate,OCC(O)C1OC(=O)C(O)=C1(O)
-30198,7762,Ethylene,Product,C=C
-30199,7762,Dehydroascorbate,Product,OCC(O)C1OC(=O)C(=O)C1(=O)
-30200,7762,HCN,Product,(C-)#N
-30201,7762,1-Aminocyclopropane-1-carboxylate,Substrate,NC1(CC1)C(O)=O
 30202,7763,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 30203,7763,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 30204,7763,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -13404,10 +12726,6 @@
 31957,8407,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 31958,8407,CO2,Product,O=C=O
 31959,8407,2-Oxoglutarate,Product,OC(=O)CCC(=O)C(O)=O
-31960,8408,Salicin,Substrate,OCc2ccccc2(OC1OC(CO)C(O)C(O)C1(O))
-31961,8408,Salicin 6-phosphate,Product,OCc2ccccc2(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O))
-31962,8408,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-31963,8408,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 32045,8449,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 32046,8449,H2O,Substrate,[H]O[H]
 32047,8449,L-Valine,Substrate,CC(C)C(N)C(O)=O
@@ -13458,10 +12776,6 @@
 32328,8551,L-Formylkynurenine,Substrate,NC(CC(=O)c1ccccc1(NC=O))C(O)=O
 32329,8551,L-Alanine,Product,CC(N)C(O)=O
 32330,8551,Formylanthranilate,Product,O=CNc1ccccc1(C(O)=O)
-32362,8566,L-Cysteine,Substrate,NC(CS)C(O)=O
-32363,8566,Cyanide,Substrate,(C-)#N
-32364,8566,Hydrogen sulfide,Product,[H]S[H]
-32365,8566,3-Cyano-L-alanine,Product,N#CCC(N)C(O)=O
 32366,8569,Leukotriene A4,Substrate,CCCCCC=CCC=CC=CC=CC1OC1(CCCC(O)=O)
 32367,8569,Reduced glutathione,Substrate,NC(CCC(=O)NC(CS)C(=O)NCC(O)=O)C(O)=O
 32368,8569,Leukotriene C4,Product,CCCCCC=CCC=CC=CC=CC(C(O)CCCC(O)=O)SCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O
@@ -13539,11 +12853,6 @@
 32644,8646,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 32645,8646,H+,Product,[H]
 32646,8646,3-Hydroxy-3-methylglutaryl-CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(C)(O)CC(O)=O
-32662,8657,Ser,Substrate,NC(CO)C(O)=O
-32663,8657,(3-Indolyl)-glycerol phosphate,Substrate,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12
-32664,8657,D-Glyceraldehyde 3-phosphate,Product,[H]C(O)(C=O)COP(O)(O)=O
-32665,8657,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-32666,8657,H2O,Product,[H]O[H]
 32694,8669,L-Proline,Substrate,OC(=O)C1CCCN1
 32695,8669,O2,Substrate,O=O
 32696,8669,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
@@ -13639,27 +12948,11 @@
 33086,8799,Phosphate,Substrate,OP(O)(O)=O
 33087,8799,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
 33088,8799,Nicotinamide,Product,NC(=O)c1cccnc1
-33089,8800,Phosphate,Substrate,OP(O)(O)=O
-33090,8800,Purine nucleoside,Substrate,OCC1OC(C(O)C1(O))n3cnc2cncnc23
-33091,8800,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-33092,8800,Purine,Product,c1ncc2ncnc2(n1)
 33118,8813,H+,Substrate,[H]
 33119,8813,Iodide,Substrate,[I-]
 33120,8813,H2O2,Substrate,OO
 33121,8813,H2O,Product,[H]O[H]
 33122,8813,Iodine,Product,II
-33139,8825,Phosphate,Substrate,OP(O)(O)=O
-33140,8825,Adenosine,Substrate,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
-33141,8825,Adenine,Product,Nc1ncnc2ncnc12
-33142,8825,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-33145,8829,L-Sorbose,Substrate,OCC1(O)(OCC(O)C(O)C1(O))
-33146,8829,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33147,8829,Sorbose 1-phosphate,Product,OCC(O)C(O)C(O)C(=O)COP(O)(O)=O
-33148,8829,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-33149,8830,N-Acetyl-D-glucosamine,Substrate,CC(=O)NC1C(O)OC(CO)C(O)C1(O)
-33150,8830,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33151,8830,N-Acetyl-D-glucosamine 6-phosphate,Product,CC(=O)NC1C(O)OC(COP(O)(O)=O)C(O)C1(O)
-33152,8830,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 33185,8850,H+,Product,[H]
 33186,8850,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 33187,8850,"(R)-2,3-Dihydroxy-3-methylbutanoate",Substrate,CC(C)(O)C(O)C(O)=O
@@ -13698,10 +12991,6 @@
 33372,8912,Kaempferol,Substrate,Oc1ccc(cc1)C=2Oc3cc(O)cc(O)c3(C(=O)C=2(O))
 33373,8912,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 33374,8912,Kaempferol 3-O-beta-D-galactoside,Product,OCC4OC(OC=2C(=O)c3c(O)cc(O)cc3(OC=2(c1ccc(O)cc1)))C(O)C(O)C4(O)
-33375,8913,Sucrose,Substrate,OCC2OC(OC1(CO)(OC(CO)C(O)C1(O)))C(O)C(O)C2(O)
-33376,8913,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33377,8913,Sucrose 6-phosphate,Product,OCC2OC(OC1(CO)(OC(COP(O)(O)=O)C(O)C1(O)))C(O)C(O)C2(O)
-33378,8913,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 33379,8914,myo-Inositol,Substrate,OC1C(O)C(O)C(O)C(O)C1(O)
 33380,8914,UDP-D-galactose,Substrate,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
 33381,8914,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
@@ -13732,10 +13021,6 @@
 33459,8947,"1,2-Diacyl-sn-glycerol",Substrate,[*]C(=O)OCC(CO)OC([*])=O
 33460,8947,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 33461,8947,"1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol",Product,[*]C(=O)OCC(COC1OC(CO)C(O)C(O)C1(O))OC([*])=O
-33527,8980,Maltose,Substrate,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O)
-33528,8980,Protein L-histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33529,8980,Maltose 6'-phosphate,Product,OCC2OC(O)C(O)C(O)C2(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O))
-33530,8980,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 33550,8989,O2,Substrate,O=O
 33551,8989,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 33552,8989,Eriodictyol,Substrate,Oc1cc(O)c2C(=O)CC(Oc2(c1))c3ccc(O)c(O)c3
@@ -13766,10 +13051,6 @@
 33627,9023,D-Glucose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
 33628,9023,alpha-Lactose,Product,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O)
 33629,9023,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-33630,9026,Sorbitol,Substrate,OC[CH](O)[CH](O)[CH](O)[CH](O)CO
-33631,9026,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33632,9026,D-Glucitol 6-phosphate,Product,OCC(O)C(O)C(O)C(O)COP(O)(O)=O
-33633,9026,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 33667,9032,Malonyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O
 33668,9032,4-Coumaroyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4
 33669,9032,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -13868,14 +13149,6 @@
 33915,9118,Cholesterol ester,Substrate,[*]C(=O)OC4CCC2(C)(C(=CCC1C3CCC(C(C)CCCC(C)C)C3(C)(CCC12))C4)
 33916,9118,Cholesterol,Product,[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C)
 33917,9118,Fatty acid,Product,[*]C(O)=O
-33921,9121,D-Fructose,Substrate,OCC1OC(O)(CO)C(O)C1(O)
-33922,9121,D-Fructose 1-phosphate,Product,OCC1OC(O)(COP(O)(O)=O)C(O)C1(O)
-33923,9121,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33924,9121,Protein N(pi)-phospho-L-histidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
-33932,9129,Arbutin,Substrate,OCC2OC(Oc1ccc(O)cc1)C(O)C(O)C2(O)
-33933,9129,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-33934,9129,Arbutin 6-phosphate,Product,Oc1ccc(cc1)OC2OC(COP(O)(O)=O)C(O)C(O)C2(O)
-33935,9129,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 33964,9140,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 33965,9140,Dihydrolipoylprotein,Substrate,[*]C(=O)CCCCC(CCS)S
 33966,9140,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -13966,13 +13239,6 @@
 34310,9247,Sorbitol,Substrate,OC[CH](O)[CH](O)[CH](O)[CH](O)CO
 34311,9247,IDP,Product,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 34312,9247,D-Glucitol 6-phosphate,Product,OCC(O)C(O)C(O)C(O)COP(O)(O)=O
-34317,9253,(S)-4-Hydroxymandelonitrile,Substrate,N#CC(O)c1ccc(O)cc1
-34318,9253,4-Hydroxybenzaldehyde,Product,O=Cc1ccc(O)cc1
-34319,9253,Cyanide,Product,(C-)#N
-34332,9264,D-Mannitol,Substrate,OCC(O)C(O)C(O)C(O)CO
-34333,9264,D-Mannitol 1-phosphate,Product,OCC(O)C(O)C(O)C(O)COP(O)(O)=O
-34334,9264,Protein L-histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-34335,9264,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 34399,9287,O2,Substrate,O=O
 34400,9287,4-Chlorocatechol,Substrate,Oc1ccc(cc1(O))Cl
 34401,9287,"3-Chloro-cis,cis-muconate",Product,OC(=O)C=CC(=CC(O)=O)Cl
@@ -14034,10 +13300,6 @@
 34642,9363,Amylose,Substrate,[*]OC1OC(CO)C([*])C(O)C1(O)
 34643,9363,Glucose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
 34644,9363,Maltose,Product,OCC2OC(OC1C(O)C(O)C(O)OC1(CO))C(O)C(O)C2(O)
-34659,9368,UDP-D-xylose,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O)
-34660,9368,Zeatin,Substrate,[H]C(CNc2ncnc1ncnc12)=C(C)CO
-34661,9368,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-34662,9368,O-beta-D-Xylosylzeatin,Product,CC(=CCNc1ncnc2ncnc12)COC3OCC(O)C(O)C3(O)
 34669,9373,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 34670,9373,L-Arabinose,Substrate,OC1COC(O)C(O)C1(O)
 34671,9373,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -14054,10 +13316,6 @@
 34713,9400,CO2,Product,O=C=O
 34714,9400,UDP-D-xylose,Product,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OCC(O)C(O)C2(O))C(O)C3(O)
 34715,9400,UDPglucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
-34720,9404,Phosphate,Substrate,OP(O)(O)=O
-34721,9404,Xanthosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC(=O)Nc23
-34722,9404,D-Ribose 1-phosphate,Product,OCC1OC(OP(O)(O)=O)C(O)C1(O)
-34723,9404,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
 34724,9408,H2O,Substrate,[H]O[H]
 34725,9408,dITP,Substrate,OC1CC(OC1(COP(O)(=O)OP(O)(=O)OP(O)(O)=O))n3cnc2C(=O)NC=Nc23
 34726,9408,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
@@ -14092,12 +13350,6 @@
 34922,9485,Sedoheptulose 7-phosphate,Substrate,OCC(=O)C(O)C(O)C(O)C(O)COP(O)(O)=O
 34923,9485,D-Ribose 5-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C1(O)
 34924,9485,D-Xylulose 5-phosphate,Product,OCC(=O)C(O)C(O)COP(O)(O)=O
-34937,9489,Coproporphyrinogen III,Substrate,Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-34938,9489,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-34939,9489,Protoporphyrinogen IX,Product,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-34940,9489,5'-Deoxyadenosine,Product,CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-34941,9489,L-Methionine,Product,CSCCC(N)C(O)=O
-34942,9489,CO2,Product,O=C=O
 34943,9490,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 34944,9490,myo-Inositol,Substrate,OC1C(O)C(O)C(O)C(O)C1(O)
 34945,9490,L-myo-Inositol 1-phosphate,Product,OC1C(O)C(O)C(OP(O)(O)=O)C(O)C1(O)
@@ -14112,9 +13364,6 @@
 35043,9516,Dextran,Substrate,[*]OCC2OC(OCC1OC(O[*])C(O)C(O)C1(O))C(O)C(O)C2(O)
 35044,9516,Amylose,Product,[*]OC1OC(CO)C([*])C(O)C1(O)
 35045,9516,Dextran,Product,[*]OCC2OC(OCC1OC(O[*])C(O)C(O)C1(O))C(O)C(O)C2(O)
-35066,9527,(3-Indolyl)-glycerol phosphate,Substrate,OC(COP(O)(O)=O)C(O)c2cnc1ccccc12
-35067,9527,D-Glyceraldehyde 3-phosphate,Product,[H]C(O)(C=O)COP(O)(O)=O
-35068,9527,Indole,Product,c1ccc2nccc2(c1)
 35069,9528,H2O,Substrate,[H]O[H]
 35070,9528,D-Glucitol 6-phosphate,Substrate,OCC(O)C(O)C(O)C(O)COP(O)(O)=O
 35071,9528,Phosphate,Product,OP(O)(O)=O
@@ -14586,10 +13835,6 @@
 37148,10032,H+,Substrate,[H]
 37149,10032,1-Dodecanol,Product,CCCCCCCCCCCCO
 37150,10032,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-37159,10035,L-Histidine,Product,NC(Cc1cncn1)C(O)=O
-37160,10035,beta-Naphthylamine,Product,Nc1ccc2ccccc2(c1)
-37161,10035,H2O,Substrate,[H]O[H]
-37162,10035,L-Histidyl-beta-naphthylamide,Substrate,C1=CC=C2C=C(C=CC2=C1)NC(=O)C(CC3=CN=CN3)N
 37173,10038,Glyoxal,Substrate,[H]C(=O)C([H])=O
 37174,10038,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 37175,10038,H2O,Substrate,[H]O[H]
@@ -15326,11 +14571,6 @@
 40581,10862,"1,2-Naphthoquinone",Substrate,O=C2C=Cc1ccccc1C2(=O)
 40582,10862,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 40583,10862,"1,2-Naphthalenediol",Product,Oc2ccc1ccccc1c2(O)
-40584,10863,H+,Substrate,[H]
-40585,10863,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-40586,10863,Isatin,Substrate,O=C1Nc2ccccc2(C1(=O))
-40587,10863,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-40588,10863,"2,3-Dihydroxyindole",Product,Oc1nc2ccccc2(c1(O))
 40589,10864,H+,Substrate,[H]
 40590,10864,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 40591,10864,16-Ketoestrone,Substrate,[H]C23(CCC4(C)(C(=O)C(=O)CC4([H])(C3([H])(CCc1cc(O)ccc12))))
@@ -15402,20 +14642,12 @@
 41030,10980,L-Alanine methyl ester,Substrate,C[C@@H](C(=O)OC)N
 41050,10985,Phosphate,Substrate,OP(O)(O)=O
 41051,10985,Phosphate,Product,OP(O)(O)=O
-41052,10986,Xanthine,Substrate,O=C1NC(=O)c2ncnc2(N1)
-41053,10986,Nitrite,Substrate,ON=O
-41054,10986,Uric acid,Product,O=C1NC(=O)C=2NC(=O)NC=2(N1)
-41055,10986,Nitric oxide,Product,N=O
 41056,10987,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 41057,10987,H+,Substrate,[H]
 41058,10987,Nitrite,Substrate,ON=O
 41059,10987,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 41060,10987,H2O,Product,[H]O[H]
 41061,10987,Nitric oxide,Product,N=O
-41075,10992,His-Pro-Tyr,Substrate,c1cc(ccc1CC(C(=O)O)NC(=O)C2CCCN2C(=O)C(Cc3c[nH]cn3)N)O
-41076,10992,H2O,Substrate,[H]O[H]
-41077,10992,His-Pro,Product,NC(Cc1cncn1)C(=O)N2CCCC2C(O)=O
-41078,10992,L-Tyrosine,Product,NC(Cc1ccc(O)cc1)C(O)=O
 41095,10997,H2O,Substrate,[H]O[H]
 41096,10997,Amylose,Substrate,[*]OC1OC(CO)C([*])C(O)C1(O)
 41097,10997,beta-D-Glucose,Product,OCC1OC(O)C(O)C(O)C1(O)
@@ -15666,10 +14898,6 @@
 41874,11294,H2O,Substrate,[H]O[H]
 41875,11294,Adipate semialdehyde,Substrate,O=CCCCCC(O)=O
 41876,11294,Adipate,Product,OC(=O)CCCCC(O)=O
-41898,11301,H2O,Substrate,[H]O[H]
-41899,11301,ADPribose,Product,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-41900,11301,Thionicotinamide,Product,c1cc(cnc1)C(=S)N
-41901,11301,Thionicotinamide adenine dinucleotide,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])O[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=S)N
 41932,11311,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 41933,11311,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 41934,11311,H+,Substrate,[H]
@@ -15685,9 +14913,6 @@
 41944,11315,ITP,Substrate,O=C3NC=Nc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 41945,11315,Nicotinamide nucleotide,Substrate,NC(=O)c1ccc[n+](c1)C2OC(COP(O)(=O)[O-])C(O)C2(O)
 41946,11315,NHD+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3C(=O)NC=Nc34)C(O)C5(O)
-41959,11319,NH3,Product,[H]N([H])[H]
-41960,11319,Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-41961,11319,Urocanate,Product,OC(=O)C=Cc1cncn1
 41967,11322,trans-Dec-2-enoyl-CoA,Product,CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 41968,11322,3-cis-Decenoyl-CoA,Substrate,CCCCCC/C=C\CC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)([O-])[O-])O
 41987,11328,Glycine,Product,NCC(O)=O
@@ -15807,10 +15032,6 @@
 42576,11488,CDP,Product,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 42577,11488,D-Glucose 6-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
 42578,11488,D-Glucose,Substrate,OCC1OC(O)C(O)C(O)C1(O)
-42579,11489,H2O,Substrate,[H]O[H]
-42580,11489,Imidazole,Product,c1cncn1
-42581,11489,p-(dimethylamino)cinnamate,Product,CN(C)c1ccc(cc1)/C=C/C(=O)O
-42582,11489,p-(dimethylamino)cinnamoylimidazole,Substrate,CN(C)c1ccc(cc1)/C=C/C(=O)n2ccnc2
 42583,11490,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 42584,11490,UDPglucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
 42585,11490,Etoposide,Substrate,[H]C57(COC(=O)C7([H])(C(c1cc(OC)c(O)c(c1)OC)c2cc6OCOc6(cc2C5(OC3OC4COC(C)OC4(C(O)C3(O))))))
@@ -15957,12 +15178,6 @@
 43266,11664,O2,Substrate,O=O
 43267,11664,Tyramine,Substrate,NCCc1ccc(O)cc1
 43268,11664,Dopamine,Product,NCCc1ccc(O)c(O)c1
-43277,11667,H2O,Substrate,[H]O[H]
-43278,11667,O2,Substrate,O=O
-43279,11667,NH3,Product,[H]N([H])[H]
-43280,11667,H2O2,Product,OO
-43281,11667,D-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-43282,11667,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
 43291,11670,H2O,Substrate,[H]O[H]
 43292,11670,NH3,Product,[H]N([H])[H]
 43293,11670,D-Aspartate,Product,NC(CC(O)=O)C(O)=O
@@ -16002,10 +15217,6 @@
 43411,11705,H2O,Substrate,[H]O[H]
 43412,11705,Glutamate,Product,NC(CCC(O)=O)C(O)=O
 43413,11705,Glutamate gamma-semialdehyde,Substrate,C(C[C@@H](C(=O)O)N)C=O
-43477,11722,H2O,Substrate,[H]O[H]
-43478,11722,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-43479,11722,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-43480,11722,His-Leu,Product,CC(C)CC(NC(=O)C(N)Cc1cncn1)C(O)=O
 43550,11740,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 43551,11740,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 43552,11740,H+,Product,[H]
@@ -16037,10 +15248,6 @@
 43662,11766,O2,Substrate,O=O
 43663,11766,"6,7-Dimethyl-tetrahydropteridine",Substrate,CC1C(Nc2c(cncn2)N1)C
 43664,11766,"6,7-Dimethyl-dihydropteridine",Product,CC1C(=Nc2cncnc2N1)C
-43699,11777,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-43700,11777,Taurine,Substrate,NCCS(O)(=O)=O
-43701,11777,Lithocholoyl-CoA,Substrate,[C@@H]1(N2C3=C(C(=NC=N3)N)N=C2)O[C@H](COP(OP(OCC(C)([C@H](C(NCCC(NCCSC(=O)CC[C@@](C)([C@]4(CC[C@@]5([C@@]4(CC[C@@]6([C@]7(CC[C@H](C[C@]7(CC[C@@]56[H])[H])O)C)[H])C)[H])[H])[H])=O)=O)O)C)(=O)O)(=O)O)[C @H]([C@H]1O)OP(O)(O)=O C[C@H](CCC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O)[C@H]4CC[C@@H]5[C@@]4(CC[C@H]6[C@H]5CC[C@H]7[C@@]6(CC[C@H](C7)O)C)C
-43702,11777,Lithocholyltaurine,Product,C[C@H](CCCNCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C
 43739,11789,H2O,Substrate,[H]O[H]
 43740,11789,beta-D-Glucose,Product,OCC1OC(O)C(O)C(O)C1(O)
 43741,11789,Sophorose,Substrate,OCC2OC(O)C(OC1OC(CO)C(O)C(O)C1(O))C(O)C2(O)
@@ -16138,69 +15345,20 @@
 44082,11885,CO2,Product,O=C=O
 44083,11885,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 44084,11885,Ethylene,Product,C=C
-44134,11896,H2O,Substrate,[H]O[H]
-44135,11896,O2,Substrate,O=O
-44136,11896,Hypoxanthine,Substrate,O=C1NC=Nc2ncnc12
-44137,11896,Urate,Product,O=C1NC(=O)C=2NC(=O)NC=2(N1)
-44138,11896,H2O2,Product,OO
 44139,11897,H2O,Substrate,[H]O[H]
 44140,11897,O2,Substrate,O=O
 44141,11897,H2O2,Product,OO
 44142,11897,3-Methylurate,Product,Cn1c2c(c(=O)[nH]c1=O)[nH]c(=O)[nH]2
 44143,11897,3-Methylhypoxanthine,Substrate,CN1CNC(=O)c2c1nc[nH]2
-44154,11900,H2O,Substrate,[H]O[H]
-44155,11900,O2,Substrate,O=O
-44156,11900,H2O2,Product,OO
-44157,11900,6-Methylaminopurine,Substrate,CNc1ncnc2ncnc12
-44158,11900,"6-Methylamino-7,9-dihydropurin-8-one",Product,CNc1c2c([nH]c(=O)[nH]2)ncn1
 44159,11901,H2O,Substrate,[H]O[H]
 44160,11901,O2,Substrate,O=O
 44161,11901,Guanosine,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(CO)C(O)C3(O)
 44162,11901,H2O2,Product,OO
 44163,11901,8-Hydroxyguanosine,Product,C([C@H]1[C@@H]([C@H]([C@@H](O1)n2c3c(c(=O)[nH]c(n3)N)[nH]c2=O)O)O)O
-44169,11903,H2O,Substrate,[H]O[H]
-44170,11903,Adenine,Substrate,Nc1ncnc2ncnc12
-44171,11903,O2,Substrate,O=O
-44172,11903,H2O2,Product,OO
-44173,11903,"6-Amino-7,9-dihydropurin-8-one",Product,c1nc(c2c(n1)nc([nH]2)O)N
-44184,11906,H2O,Substrate,[H]O[H]
-44185,11906,O2,Substrate,O=O
-44186,11906,H2O2,Product,OO
-44187,11906,Purine,Substrate,c1ncc2ncnc2(n1)
-44188,11906,"7,9-Dihydropurin-8-one",Product,c1c2c(ncn1)nc([nH]2)O
-44189,11907,H2O,Substrate,[H]O[H]
-44190,11907,O2,Substrate,O=O
-44191,11907,H2O2,Product,OO
-44192,11907,6-Mercaptopurine,Substrate,c1nc2NC=NC(c2(n1))=S
-44193,11907,"6-Sulfanylidene-7,9-dihydro-3H-purin-8-one",Product,c1[nH]c2c(c(=S)n1)[nH]c(=O)[nH]2
 44194,11908,Dihydroxyacetone phosphate,Substrate,OCC(=O)COP(O)(O)=O
 44195,11908,CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 44196,11908,Palmitoyl-CoA,Substrate,CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 44197,11908,Palmitoylglycerone phosphate,Product,CCCCCCCCCCCCCCCC(=O)OCC(=O)COP(O)(O)=O
-44222,11915,H2O,Substrate,[H]O[H]
-44223,11915,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44224,11915,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44225,11915,His-Phe,Product,c1ccc(cc1)CC(C(=O)O)NC(=O)C(Cc2cnc[nH]2)N
-44226,11916,H2O,Substrate,[H]O[H]
-44227,11916,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44228,11916,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44229,11916,His-Ala,Product,CC(C(=O)O)NC(=O)C(Cc1cnc[nH]1)N
-44230,11917,H2O,Substrate,[H]O[H]
-44231,11917,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44232,11917,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44233,11917,His-Asp,Product,O=C(O)CC(C(=O)O)NC(=O)C(N)Cc1cncn1
-44238,11919,H2O,Substrate,[H]O[H]
-44239,11919,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44240,11919,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44241,11919,His-Arg,Product,O=C(O)C(NC(=O)C(N)Cc1cncn1)CCC/N=C(\N)N
-44242,11920,H2O,Substrate,[H]O[H]
-44243,11920,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44244,11920,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44245,11920,His-Pro,Product,NC(Cc1cncn1)C(=O)N2CCCC2C(O)=O
-44246,11921,H2O,Substrate,[H]O[H]
-44247,11921,His,Product,NC(Cc1cncn1)C(O)=O
-44248,11921,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44249,11921,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
 44270,11927,H2O,Substrate,[H]O[H]
 44271,11927,Cholesterol,Product,[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C)
 44272,11927,Linoleic acid,Product,CCCCCC=CCC=CCCCCCCCC(O)=O
@@ -16229,9 +15387,6 @@
 44299,11934,Lauric acid,Product,CCCCCCCCCCCC(O)=O
 44300,11934,p-Nitrophenol,Product,Oc1ccc(cc1)[N+](=O)[O-]
 44301,11934,p-Nitrophenyl laurate,Substrate,CCCCCCCCCCCC(=O)Oc1ccc(cc1)[N+](=O)[O-]
-44302,11935,Angiotensin I,Substrate,CCC(C)C(NC(=O)C(NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)c1ccc(O)cc1)C(=O)NC(Cc2cncn2)C(=O)N5CCCC5(C(=O)NC(Cc3ccccc3)C(=O)NC(Cc4cncn4)C(=O)C(N)C(CC(C)C)C(C)=O)
-44303,11935,Angiotensin II,Product,CCC(C)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(CCCNC(N)=N)NC(=O)C(N)CC(O)=O)C(C)C)C(=O)NC(Cc2cncn2)C(=O)NC(Cc3cncn3)C(=O)N5CCCC5(C(=O)NC(Cc4ccccc4)C(C)=O)
-44304,11935,H2O,Substrate,[H]O[H]
 44309,11938,H2O,Substrate,[H]O[H]
 44310,11938,NH2Mec,Product,CC1=CC(=O)Oc2cc(N)ccc12
 44311,11938,Benzyloxycarbonyl-Arg-Arg-7-amino-4-methylcoumarin,Substrate,CC1=CC(=O)Oc2cc(ccc12)NC(=O)C(CCCNC(N)=N)NC(=O)C(CCCNC(N)=N)NC(=O)OCc3ccccc3
@@ -16252,11 +15407,6 @@
 44385,11956,H+,Product,[H]
 44386,11956,(S)-2-Phenylpropionaldehyde,Product,C[C@H](C=O)c1ccccc1
 44387,11956,(S)-2-Phenylpropanol,Substrate,C[C@H](CO)c1ccccc1
-44449,11970,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-44450,11970,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-44451,11970,H+,Substrate,[H]
-44452,11970,"2,3-Dihydroxyindole",Product,Oc1nc2ccccc2(c1(O))
-44453,11970,Isatin,Substrate,O=C1Nc2ccccc2(C1(=O))
 44454,11971,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 44455,11971,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 44456,11971,H+,Substrate,[H]
@@ -16320,11 +15470,6 @@
 44695,12030,H2O2,Product,OO
 44696,12030,Protocatechuic acid,Product,OC(=O)c1ccc(O)c(O)c1
 44697,12030,Protocatechuatealdehyde,Substrate,[H]C(=O)Cc1ccc(O)c(O)c1
-44703,12032,"2,6-Dichloroindophenol",Substrate,Oc1ccc(cc1)N=C2C=C(C(=O)C(=C2)Cl)Cl
-44704,12032,H2O,Substrate,[H]O[H]
-44705,12032,"2,6-Dichloroindophenol",Product,Oc1ccc(cc1)N=C2C=C(C(=O)C(=C2)Cl)Cl
-44706,12032,Indole-3-acetaldehyde,Substrate,O=CCc1cnc2ccccc12
-44707,12032,Indole-3-acetate,Product,OC(=O)Cc1cnc2ccccc12
 44718,12035,H2O,Substrate,[H]O[H]
 44719,12035,O2,Substrate,O=O
 44720,12035,H2O2,Product,OO
@@ -16397,10 +15542,6 @@
 44824,12060,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 44825,12060,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 44826,12060,D-Ribose 5-phosphate,Substrate,OC1OC(COP(O)(O)=O)C(O)C1(O)
-44827,12061,Adenine,Substrate,Nc1ncnc2ncnc12
-44828,12061,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-44829,12061,Deoxyadenosine,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
-44830,12061,Deoxyinosine,Substrate,OCC1OC(CC1(O))n3cnc2C(=O)NC=Nc23
 44831,12062,Mg2+,Product,[Mg+2]
 44832,12062,Mg2+,Substrate,[Mg+2]
 44833,12063,H2O,Product,[H]O[H]
@@ -16410,18 +15551,6 @@
 44837,12063,O2,Substrate,O=O
 44838,12063,Calcidiol,Substrate,C=C3CCC(O)CC3(=CC=C1CCCC2(C)(C(CCC12)C(C)CCCC(C)(C)O))
 44839,12063,Secalciferol,Product,C=C3CCC(O)CC3(=CC=C1CCCC2(C)(C(CCC12)C(C)CCC(O)C(C)(C)O))
-44847,12065,Bilirubin-glucuronoside,Substrate,C=CC=5C(=O)NC(=Cc4nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(O)=O)c4(C))C=5(C)
-44848,12065,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-44849,12065,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-44850,12065,Phosphate,Product,OP(O)(O)=O
-44851,12065,H2O,Substrate,[H]O[H]
-44852,12065,Bilirubin-glucuronoside,Product,C=CC=5C(=O)NC(=Cc4nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(O)=O)c4(C))C=5(C)
-44853,12066,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-44854,12066,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-44855,12066,Phosphate,Product,OP(O)(O)=O
-44856,12066,H2O,Substrate,[H]O[H]
-44857,12066,Bilirubin-bisglucuronoside,Product,C=CC=6C(=O)NC(=Cc5nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(=O)OC4OC(C(O)=O)C(O)C(O)C4(O))c5(C))C=6(C)
-44858,12066,Bilirubin-bisglucuronoside,Substrate,C=CC=6C(=O)NC(=Cc5nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(=O)OC4OC(C(O)=O)C(O)C(O)C4(O))c5(C))C=6(C)
 44859,12067,"Glycerate 1,3-bisphosphate",Substrate,OC(COP(O)(O)=O)C(=O)OP(O)(O)=O
 44860,12067,Glycerate 3-phosphate,Product,OC(=O)C(O)COP(O)(O)=O
 44861,12067,D-Glucose 6-phosphate,Substrate,OC1OC(COP(O)(O)=O)C(O)C(O)C1(O)
@@ -16721,8 +15850,6 @@
 45652,12291,Dihydroxyacetone,Product,OCC(=O)CO
 45653,12291,D-Fructose 6-phosphate,Substrate,OCC1(O)(OC(COP(O)(O)=O)C(O)C1(O))
 45654,12291,D-Glyceraldehyde 3-phosphate,Product,[H]C(O)(C=O)COP(O)(O)=O
-45689,12299,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-45690,12299,Guanine,Substrate,NC=1NC(=O)c2ncnc2(N=1)
 45691,12300,Uracil,Product,O=C1C=CNC(=O)N1
 45692,12300,Uracil,Substrate,O=C1C=CNC(=O)N1
 45693,12301,Benzyl alcohol,Substrate,OCc1ccccc1
@@ -17218,10 +16345,6 @@
 47345,12848,5-Methyltetrahydrofolate,Substrate,CN3C(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)CNC=2N=C(N)NC(=O)C=23
 47346,12848,Menadione,Substrate,CC1=CC(=O)c2ccccc2(C1(=O))
 47347,12848,Menadiol,Product,Cc1cc(O)c2ccccc2(c1(O))
-47353,12850,O2,Substrate,O=O
-47354,12850,H2O2,Product,OO
-47355,12850,Protoporphyrinogen IX,Substrate,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-47356,12850,Protoporphyrin,Product,C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)
 47357,12851,Phosphate,Substrate,OP(O)(O)=O
 47358,12851,Acyl-carrier protein,Product,[*]S
 47359,12851,Hexadecanoyl-[acp],Substrate,[*]SC(=O)CCCCCCCCCCCCCCC
@@ -17275,10 +16398,6 @@
 47545,12891,NH3,Product,[H]N([H])[H]
 47546,12891,D-Tyrosine,Product,NC(Cc1ccc(O)cc1)C(O)=O
 47547,12891,D-Tyrosinamide,Substrate,O=C(N)[C@H](N)Cc1ccc(O)cc1
-47548,12892,H2O,Substrate,[H]O[H]
-47549,12892,NH3,Product,[H]N([H])[H]
-47550,12892,D-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-47551,12892,D-Tryptophanamide,Substrate,C1=CC=C2C(=C1)C(=CN2)C[C@H](C(=O)N)N
 47552,12893,H2O,Substrate,[H]O[H]
 47553,12893,Acetate,Product,CC(O)=O
 47554,12893,2-Acetamidofluorene,Substrate,CC(=O)Nc1ccc3c(c1)Cc2ccccc23
@@ -17360,30 +16479,10 @@
 47745,12937,CO2,Product,O=C=O
 47746,12937,Acetone,Product,CC(C)=O
 47747,12937,alpha-Aminoisobutyric acid,Substrate,CC(C)(N)C(O)=O
-47776,12945,Adenine,Substrate,Nc1ncnc2ncnc12
-47777,12945,Cytosine,Product,NC=1C=CNC(=O)N=1
-47778,12945,Deoxyadenosine,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
-47779,12945,Deoxycytidine,Substrate,NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2
-47780,12946,Cytosine,Substrate,NC=1C=CNC(=O)N=1
-47781,12946,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-47782,12946,Deoxyguanosine,Substrate,NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)
-47783,12946,Deoxycytidine,Product,NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2
 47784,12947,Cytosine,Substrate,NC=1C=CNC(=O)N=1
 47785,12947,Cytosine,Product,NC=1C=CNC(=O)N=1
 47786,12947,Deoxycytidine,Substrate,NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2
 47787,12947,Deoxycytidine,Product,NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2
-47788,12948,Cytosine,Substrate,NC=1C=CNC(=O)N=1
-47789,12948,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-47790,12948,Deoxyinosine,Substrate,OCC1OC(CC1(O))n3cnc2C(=O)NC=Nc23
-47791,12948,Deoxycytidine,Product,NC=1C=CN(C(=O)N=1)C2CC(O)C(CO)O2
-47792,12949,Adenine,Substrate,Nc1ncnc2ncnc12
-47793,12949,Adenine,Product,Nc1ncnc2ncnc12
-47794,12949,Deoxyadenosine,Substrate,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
-47795,12949,Deoxyadenosine,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
-47796,12950,Adenine,Substrate,Nc1ncnc2ncnc12
-47797,12950,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-47798,12950,Deoxyguanosine,Substrate,NC=2NC(=O)c3ncn(C1CC(O)C(CO)O1)c3(N=2)
-47799,12950,Deoxyadenosine,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
 47800,12951,Glycine,Substrate,NCC(O)=O
 47801,12951,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 47802,12951,N-Salicylglycine,Product,C1=CC=C(C(=C1)CNCC(=O)O)O
@@ -17558,14 +16657,6 @@
 48265,13062,UDPglucose,Substrate,OCC3OC(OP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O))C(O)C(O)C3(O)
 48266,13062,Luteolin,Substrate,Oc1cc(O)c2C(=O)C=C(Oc2(c1))c3ccc(O)c(O)c3
 48267,13062,Luteolin glucoside,Product,c1cc(c(cc1c2cc(=O)c3c(o2)cc(cc3OC4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O
-48268,13063,H2O,Product,[H]O[H]
-48269,13063,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-48270,13063,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-48271,13063,O2,Substrate,O=O
-48272,13063,Fe2+,Product,[Fe+2]
-48273,13063,CO,Product,[C-]#[O+]
-48274,13063,Heme,Substrate,C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78
-48275,13063,Biliverdin,Product,C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C)
 48276,13064,H+,Product,[H]
 48277,13064,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 48278,13064,NADP+,Substrate,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -17616,14 +16707,6 @@
 48413,13091,CO,Product,[C-]#[O+]
 48414,13091,Hematobiliverdin,Product,CC1=C(C(=CC2=C(C(=C(N2)C=C3C(=C(C(=CC4=NC(=O)C(=C4C)C(C)O)N3)C(C)O)C)C)CCC(=O)O)NC1=O)CCC(=O)O
 48415,13091,Hematoheme,Substrate,[H+].[H+].Cc1/c/2c/c3n/c(c\c4n/c(c\c5c(c(c([n-]5)/cc(/c1CCC(=O)[O-])\[n-]2)CCC(=O)[O-])C)/C(=C4C)C(C)O)/C(=C3C)C(C)O.[Fe+2]
-48424,13093,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
-48425,13093,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-48426,13093,H2O,Product,[H]O[H]
-48427,13093,O2,Substrate,O=O
-48428,13093,Fe2+,Product,[Fe+2]
-48429,13093,CO,Product,[C-]#[O+]
-48430,13093,Heme,Substrate,C=Cc1c(C)c2cc5c(C)c(CCC(O)=O)c6cc8c(CCC(O)=O)c(C)c7cc4c(C=C)c(C)c3cc1n2[fe](n34)(n56)n78
-48431,13093,Biliverdin,Product,C=CC=4C(=O)NC(=CC3=NC(=Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))C(CCC(O)=O)=C3(C))C=4(C)
 48445,13098,gamma-Aminobutyrate,Substrate,NCCCC(O)=O
 48446,13098,gamma-Aminobutyrate,Product,NCCCC(O)=O
 48457,13101,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -17799,10 +16882,6 @@
 49125,13262,D-Glucuronate,Product,OC(=O)C1OC(O)C(O)C(O)C1(O)
 49126,13262,Phenolphthalein,Product,Oc1ccc(cc1)C3(OC(=O)c2ccccc23)(c4ccc(O)cc4)
 49127,13262,Phenolphthalein beta-D-glucuronide,Substrate,c1ccc2c(c1)C(=O)OC2(c3ccc(cc3)O)c4ccc(cc4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
-49160,13271,Adenine,Substrate,Nc1ncnc2ncnc12
-49161,13271,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
-49162,13271,Adenosine,Product,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O))
-49163,13271,Inosine,Substrate,OCC1OC(C(O)C1(O))n3cnc2C(=O)NC=Nc23
 49164,13272,H+,Substrate,[H]
 49165,13272,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 49166,13272,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -17861,14 +16940,6 @@
 49302,13303,Estrone 3-sulfate,Product,CC23(CCC1c4ccc(cc4(CCC1C3(CCC2(=O))))OS(O)(=O)=O)
 49303,13304,Ochratoxin A,Substrate,CC2Cc3c(cc(C(=O)NC(Cc1ccccc1)C(O)=O)c(O)c3(C(=O)O2))Cl
 49304,13304,Ochratoxin A,Product,CC2Cc3c(cc(C(=O)NC(Cc1ccccc1)C(O)=O)c(O)c3(C(=O)O2))Cl
-49305,13305,H+,Substrate,[H]
-49306,13305,H2O,Product,[H]O[H]
-49307,13305,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-49308,13305,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-49309,13305,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-49310,13305,O2,Substrate,O=O
-49311,13305,CO2,Product,O=C=O
-49312,13305,Indole-3-acetaldoxime,Product,ON=CCc1cnc2ccccc12
 49313,13306,L-Methionine,Product,CSCCC(N)C(O)=O
 49314,13306,L-Homocysteine,Substrate,NC(CCS)C(O)=O
 49315,13306,S-Methyl-L-methionine,Substrate,C[S+](C)CCC(N)C(O)=O
@@ -17975,8 +17046,6 @@
 49772,13420,Xylitol 5-phosphate,Substrate,OCC(O)C(O)C(O)COP(O)(O)=O
 49773,13421,L-Glutamine,Substrate,NC(=O)CCC(N)C(O)=O
 49774,13421,L-Glutamine,Product,NC(=O)CCC(N)C(O)=O
-49787,13425,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-49788,13425,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
 49789,13426,"3,3'5-Triiodo-L-thyronine",Substrate,NC(Cc2cc(c(Oc1ccc(O)c(c1)I)c(c2)I)I)C(O)=O
 49790,13426,"3,3'5-Triiodo-L-thyronine",Product,NC(Cc2cc(c(Oc1ccc(O)c(c1)I)c(c2)I)I)C(O)=O
 49791,13427,H2O,Substrate,[H]O[H]
@@ -18043,8 +17112,6 @@
 49944,13470,L-Phenylalanine,Product,NC(Cc1ccccc1)C(O)=O
 49945,13471,L-Tyrosine,Substrate,NC(Cc1ccc(O)cc1)C(O)=O
 49946,13471,L-Tyrosine,Product,NC(Cc1ccc(O)cc1)C(O)=O
-49947,13472,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-49948,13472,L-Histidine,Product,NC(Cc1cncn1)C(O)=O
 49967,13477,H2O,Substrate,[H]O[H]
 49968,13477,hydrolyzed Mannohexaose,Product,C([C@H]([C@H]([C@@H]([C@@H](C=O)O)O)O)O)O
 49969,13477,Mannohexaose,Substrate,C([C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@H]([C@H]2O)O)O[C@@H]3[C@H](O[C@H]([C@H]([C@H]3O)O)O[C@@H]4[C@H](O[C@H]([C@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@H]([C@H]([C@H]5O)O)O[C@@H]6[C@H](OC([C@H]([C@H]6O)O)O)CO)CO)CO)CO)CO)O)O)O)O
@@ -18153,10 +17220,6 @@
 50470,13596,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 50471,13596,Arginine,Substrate,NC(=N)NCCCC(N)C(O)=O
 50472,13596,5-Guanidino-2-oxopentanoate,Product,NC(=N)NCCCC(=O)C(O)=O
-50485,13601,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-50486,13601,Malonyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O
-50487,13601,Cyanidin 3-O-(6-O-p-coumaroyl)glucoside-5-O-glucoside,Substrate,OCC6OC(Oc2cc(O)cc3[o+]c(c1ccc(O)c(O)c1)c(cc23)OC5OC(COC(=O)C=Cc4ccc(O)cc4)C(O)C(O)C5(O))C(O)C(O)C6(O)
-50488,13601,Malonylshisonin,Product,c1cc(ccc1/C=C/C(=O)OCC2C(C(C(C(O2)OC3=Cc4c(cc(cc4OC5C(C(C(C(O5)COC(=O)CC(=O)O)O)O)O)O)O=C3c6ccc(c(c6)O)O)O)O)O)O
 50495,13604,H2O,Substrate,[H]O[H]
 50496,13604,N-(3-Oxooctanoyl)-L-homoserine lactone,Substrate,CCCCCC(=O)CC(=O)NC1CCOC1(=O)
 50497,13604,N-(3-Oxooctanoyl)-L-homoserine,Product,CCCCCC(=O)CC(=O)N[C@@H](CCO)C(=O)O
@@ -18235,10 +17298,6 @@
 50739,13671,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 50740,13671,2-hydroxy-dAMP,Product,c1nc2c(nc(nc2n1[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 50741,13671,2-hydroxy-dATP,Substrate,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(NC(=O)N=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
-50753,13675,O2,Substrate,O=O
-50754,13675,H2O2,Product,OO
-50755,13675,Coproporphyrinogen III,Substrate,Cc2c1Cc5nc(Cc4nc(Cc3nc(Cc(n1)c2(CCC(O)=O))c(C)c3(CCC(O)=O))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-50756,13675,Coproporphyrin III,Product,Cc2c1cc5nc(cc4nc(cc3nc(cc(n1)c2(CCC(O)=O))C(C)=C3(CCC(O)=O))c(C)c4(CCC(O)=O))C(CCC(O)=O)=C5(C)
 50767,13678,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 50768,13678,Isopentenyl diphosphate,Substrate,CC(=C)CCOP(O)(=O)OP(O)(O)=O
 50769,13678,Geranyl diphosphate,Substrate,CC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
@@ -18448,10 +17507,6 @@
 51829,13948,L-Tyrosine,Substrate,NC(Cc1ccc(O)cc1)C(O)=O
 51830,13948,Glyoxalate,Substrate,O=CC(O)=O
 51831,13948,3-(4-Hydroxyphenyl)pyruvate,Product,Oc1ccc(cc1)CC(=O)C(O)=O
-51832,13949,Glycine,Product,NCC(O)=O
-51833,13949,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-51834,13949,Glyoxalate,Substrate,O=CC(O)=O
-51835,13949,Indolepyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
 51836,13950,Glycine,Product,NCC(O)=O
 51837,13950,L-Leucine,Substrate,CC(C)CC(N)C(O)=O
 51838,13950,Glyoxalate,Substrate,O=CC(O)=O
@@ -18530,8 +17585,6 @@
 52096,14014,O2,Substrate,O=O
 52097,14014,Fumarate,Product,OC(=O)C=CC(O)=O
 52098,14014,Succinate,Substrate,OC(=O)CCC(O)=O
-52108,14017,Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-52109,14017,Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
 52110,14018,Phenylalanine,Substrate,NC(Cc1ccccc1)C(O)=O
 52111,14018,Phenylalanine,Product,NC(Cc1ccccc1)C(O)=O
 52112,14019,H+,Substrate,[H]
@@ -18564,10 +17617,6 @@
 52177,14033,NH2Mec,Product,CC1=CC(=O)Oc2cc(N)ccc12
 52178,14033,Z-Gly-Pro,Product,OC(=O)C2CCCN2(C(=O)CNC(=O)OCc1ccccc1)
 52179,14033,Z-Gly-Pro-AMC,Substrate,Cc1cc(=O)oc2c1ccc(c2)NC(=O)[C@@H]3CCCN3C(=O)CNC(=O)OCc4ccccc4
-52274,14068,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-52275,14068,UDPglucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
-52276,14068,Bilirubin,Substrate,C=CC=4C(=O)NC(=Cc3nc(Cc2nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c2(CCC(=O)O))c(CCC(O)=O)c3(C))C=4(C)
-52277,14068,Bilirubin monoglucuronide,Product,C=CC=5C(=O)NC(=Cc4nc(Cc3nc(C=C1NC(=O)C(C)=C1(C=C))c(C)c3(CCC(=O)OC2OC(C(O)=O)C(O)C(O)C2(O)))c(CCC(O)=O)c4(C))C=5(C)
 52301,14076,Cholesterol,Substrate,[H]C2(CCC3([H])(C4([H])(CC=C1CC(O)CCC1(C)C4([H])(CCC23(C)))))(C(C)CCCC(C)C)
 52302,14076,Cholesterol ester,Product,[*]C(=O)OC4CCC2(C)(C(=CCC1C3CCC(C(C)CCCC(C)C)C3(C)(CCC12))C4)
 52303,14076,Phosphatidylcholine,Substrate,[*]C(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC([*])=O
@@ -18622,21 +17671,6 @@
 52467,14119,Malonyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O
 52468,14119,Benzoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4
 52469,14119,"3,5-Dihydroxybiphenyl",Product,c1ccc(cc1)c2ccc(c(c2)O)O
-52478,14122,H2O,Substrate,[H]O[H]
-52479,14122,Cyanide,Product,(C-)#N
-52480,14122,3-Phenoxybenzaldehyde,Product,c1ccc(cc1)Oc2cccc(c2)C=O
-52481,14122,"2,2,3,3-Tetramethylcyclopropanecarboxylate",Product,O=C([O-])C1C(C)(C)C1(C)C
-52482,14122,Fenpropathrin,Substrate,CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C
-52488,14124,H2O,Substrate,[H]O[H]
-52489,14124,Cyanide,Product,(C-)#N
-52490,14124,cis-Dichlorochrysanthemic acid,Product,CC1(C(C1C(=O)[O-])C=C(Cl)Cl)C
-52491,14124,3-Phenoxybenzaldehyde,Product,c1ccc(cc1)Oc2cccc(c2)C=O
-52492,14124,cis-Cypermethrin,Substrate,N2c1ccccc1[C@@]54[C@@H]2CC[C@]3([C@@H]5N(CCC3)CC4)CC
-52498,14126,H2O,Substrate,[H]O[H]
-52499,14126,Cyanide,Product,(C-)#N
-52500,14126,Fenvalerate,Substrate,CC(C)C(c1ccc(cc1)Cl)C(=O)OC(C#N)c2cccc(c2)Oc3ccccc3
-52501,14126,3-Phenoxybenzaldehyde,Product,c1ccc(cc1)Oc2cccc(c2)C=O
-52502,14126,2-(4-Chlorophenyl)-3-methylbutanoate,Product,Clc1ccc(cc1)C(C(C)C)C([O-])=O
 52507,14128,H+,Product,[H]
 52508,14128,H+,Substrate,[H]
 52509,14128,H2O,Product,[H]O[H]
@@ -18659,10 +17693,6 @@
 52545,14135,Glycerol,Product,OCC(O)CO
 52546,14136,trans-L-3-Hydroxyproline,Substrate,OC(=O)C1NCCC1(O)
 52547,14136,cis-3-Hydroxy-D-proline,Product,C1CN[C@H](C1O)C(=O)O
-52548,14137,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-52549,14137,5-Phospho-alpha-D-ribose 1-diphosphate,Substrate,OC1C(O)C(OC1(COP(O)(O)=O))OP(O)(=O)OP(O)(O)=O
-52550,14137,N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate,Product,CC(C)=CCNc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-52551,14137,N6-(delta2-Isopentenyl)-adenine,Substrate,CC(C)=CCNc1ncnc2ncnc12
 52576,14144,S-Adenosylmethionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 52577,14144,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 52578,14144,Cyanidin 3-O-glucoside,Substrate,OCC4OC(Oc2cc3c(O)cc(O)cc3([o+]c2(c1ccc(O)c(O)c1)))C(O)C(O)C4(O)
@@ -18858,10 +17888,6 @@
 53265,14308,Formyl-CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC=O
 53266,14308,2-Methylpentadecanal,Product,CCCCCCCCCCCCCC(C)C=O
 53267,14308,2-Hydroxy-3-methylhexadecanoyl-CoA,Substrate,CCCCCCCCCCCCCC(C)C(C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O)O
-53268,14309,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-53269,14309,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-53270,14309,Protein L-histidine,Substrate,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-53271,14309,Protein N-phosphohistidine,Product,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 53306,14319,Phosphate,Product,OP(O)(O)=O
 53307,14319,H2O,Substrate,[H]O[H]
 53308,14319,2-Deoxy-D-ribose 5-phosphate,Substrate,OC1CC(O)C(COP(O)(O)=O)O1
@@ -19041,10 +18067,6 @@
 53697,14412,Sulfite,Substrate,OS(O)=O
 53698,14412,Adenylyl sulfate,Product,c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OS(=O)(=O)O)O)O)N
 53699,14412,Ferrocyanide,Product,N#C[Fe+2](C#N)(C#N)(C#N)(C#N)C#N
-53700,14413,H2O,Substrate,[H]O[H]
-53701,14413,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
-53702,14413,ADPribose,Substrate,Nc4ncnc1c4(nc[n+]1C3OC(COP(O)(=O)OP(O)(=O)OC2OC(CO)C(O)C2(O))C(O)C3(O))
-53703,14413,Ribose-phosphate,Product,C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O
 53708,14415,ADP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 53709,14415,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 53710,14416,Uridine,Substrate,OCC1OC(C(O)C1(O))N2C=CC(=O)NC2(=O)
@@ -19144,8 +18166,6 @@
 54222,14546,3-O-Methyl-D-glucose,Product,CO[C@H]([C@H](C=O)O)[C@@H]([C@@H](CO)O)O
 54223,14547,Glutamine,Substrate,NC(=O)CCC(N)C(O)=O
 54224,14547,Glutamine,Product,NC(=O)CCC(N)C(O)=O
-54225,14548,Adenine,Substrate,Nc1ncnc2ncnc12
-54226,14548,Adenine,Product,Nc1ncnc2ncnc12
 54227,14549,Cytosine,Substrate,NC=1C=CNC(=O)N=1
 54228,14549,Cytosine,Product,NC=1C=CNC(=O)N=1
 54235,14552,Putrescine,Substrate,NCCCCN
@@ -19166,10 +18186,6 @@
 54355,14585,beta-D-Glucose,Product,OCC1OC(O)C(O)C(O)C1(O)
 54356,14585,Laminarihexaose,Product,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@H]3[C@@H]([C@H](O[C@H]([C@@H]3O)O[C@H]4[C@@H]([C@H](O[C@H]([C@@H]4O)O[C@H]5[C@@H]([C@H](O[C@H]([C@@H]5O)O[C@H]6[C@@H]([C@H](OC([C@@H]6O)O)CO)O)CO)O)CO)O)CO)O)CO)O)O)O)O)O
 54357,14585,Laminariheptaose,Substrate,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@H]3[C@@H]([C@H](O[C@H]([C@@H]3O)O[C@H]4[C@@H]([C@H](O[C@H]([C@@H]4O)O[C@H]5[C@@H]([C@H](O[C@H]([C@@H]5O)O[C@H]6[C@@H]([C@H](O[C@H]([C@@H]6O)O[C@H]([C@H](C=O)O)[C@@H]([C@@H](CO)O)O)CO)O)CO)O)CO)O)CO)O)CO)O)O)O)O)O
-54374,14590,"alpha,alpha-Trehalose",Substrate,OCC2OC(OC1OC(CO)C(O)C(O)C1(O))C(O)C(O)C2(O)
-54375,14590,Protein histidine,Product,[*]NC(=O)C(Cc1cncn1)NC([*])=O
-54376,14590,Trehalose 6-phosphate,Product,OCC2OC(OC1OC(COP(O)(O)=O)C(O)C(O)C1(O))C(O)C(O)C2(O)
-54377,14590,Protein N-phosphohistidine,Substrate,[*]NC(=O)C(Cc1cncn1P(O)(O)=O)NC([*])=O
 54381,14592,H+,Product,[H]
 54382,14592,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 54383,14592,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -19190,20 +18206,6 @@
 54439,14606,2-Oxoglutarate,Substrate,OC(=O)CCC(=O)C(O)=O
 54440,14606,L-Kynurenine,Substrate,NC(CC(=O)c1ccccc1(N))C(O)=O
 54441,14606,4-Hydroxy-2-quinolinecarboxylic acid,Product,OC(=O)c1cc(O)c2ccccc2(n1)
-54442,14607,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-54443,14607,Pyridoxal phosphate,Substrate,Cc1ncc(COP(O)(O)=O)c(C=O)c1(O)
-54444,14607,Pyridoxamine phosphate,Product,Cc1ncc(COP(O)(O)=O)c(CN)c1(O)
-54445,14607,Indolepyruvic acid,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-54446,14608,Indolepyruvic acid,Substrate,OC(=O)C(=O)Cc1cnc2ccccc12
-54447,14608,Didemethylasterriquinone D,Product,C1=CC=C2C(=C1)C(=CN2)C3=C(C(=O)C(=C(C3=O)O)C4=CNC5=CC=CC=C54)O
-54460,14613,H+,Substrate,[H]
-54461,14613,H2O,Product,[H]O[H]
-54462,14613,L-Cysteine,Substrate,NC(CS)C(O)=O
-54463,14613,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-54464,14613,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-54465,14613,O2,Substrate,O=O
-54466,14613,Indole-3-acetaldehyde oxime,Substrate,[H]C(Cc1cnc2ccccc12)=NO
-54467,14613,S-(Indolylmethylthiohydroximoyl)-L-cysteine,Product,C1=CC=C2C(=C1)C(=CN2)C/C(=N/O)/SC[C@@H](C(=O)O)N
 54501,14620,H2O,Substrate,[H]O[H]
 54502,14620,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 54503,14620,"trans,trans-Farnesyl diphosphate",Substrate,CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
@@ -19270,10 +18272,6 @@
 54726,14673,UDP,Product,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 54727,14673,UTP,Substrate,O=C1C=CN(C(=O)N1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 54728,14673,Deoxyadenosine,Substrate,Nc3ncnc2c3(ncn2(C1CC(O)C(CO)O1))
-54737,14676,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-54738,14676,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-54739,14676,Tryptamine,Substrate,NCCc1cnc2ccccc12
-54740,14676,N-Acetyltryptamine,Product,CC(=O)NCCC1=CNC2=CC=CC=C21
 54745,14678,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 54746,14678,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 54747,14678,Phenylethylamine,Substrate,NCCc1ccccc1
@@ -19417,10 +18415,6 @@
 55068,14746,L-Glutamine,Substrate,NC(=O)CCC(N)C(O)=O
 55069,14746,AMP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 55070,14746,N5-Phospho-L-glutamine,Product,C(CC(=O)NP(=O)(O)O)[C@@H](C(=O)O)N
-55089,14751,Phosphate,Product,OP(O)(O)=O
-55090,14751,L-Tryptophan,Product,NC(Cc1cnc2ccccc12)C(O)=O
-55091,14751,O-Phospho-L-serine,Substrate,NC(COP(O)(O)=O)C(O)=O
-55092,14751,Indole,Substrate,c1ccc2nccc2(c1)
 55102,14754,H2O,Product,[H]O[H]
 55103,14754,L-Methionine,Substrate,CSCCC(N)C(O)=O
 55104,14754,O2,Substrate,O=O
@@ -19428,30 +18422,10 @@
 55106,14754,3-Methylsulfanylpropanamide,Product,CSCCC(=O)N
 55107,14755,2-Oxo-3-pentenoate,Product,CC=CC(=O)C(=O)[O-]
 55108,14755,"(2E)-2-Hydroxypenta-2,4-dienoic acid",Substrate,C=C/C=C(\C(=O)O)/O
-55168,14776,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-55169,14776,4-Coumaroyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4
-55170,14776,Serotonin,Substrate,NCCc1cnc2ccc(O)cc12
-55171,14776,N-(p-Coumaroyl)serotonin,Product,C1=CC=C2C(=C1)C(=CN2)CCNC(=O)/C=C/C3=CC=C(C=C3)O
 55172,14777,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 55173,14777,4-Coumaroyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)cc4
 55174,14777,Tyramine,Substrate,NCCc1ccc(O)cc1
 55175,14777,N-(p-Coumaroyl)tyramine,Product,C1=CC(=CC=C1CCNC(=O)/C=C/C2=CC=C(C=C2)O)O
-55176,14778,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-55177,14778,Benzoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4
-55178,14778,Tryptamine,Substrate,NCCc1cnc2ccccc12
-55179,14778,N-Benzoyltryptamine,Product,C1=CC=C(C=C1)C(=O)NCCC2=CNC3=CC=CC=C32
-55180,14779,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-55181,14779,Caffeoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=Cc4ccc(O)c(O)c4
-55182,14779,Tryptamine,Substrate,NCCc1cnc2ccccc12
-55183,14779,N-Caffeoyltryptamine,Product,c1ccc2c(c1)c(c[nH]2)CCNC(=O)/C=C/c3ccc(c(c3)O)O
-55184,14780,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-55185,14780,Tryptamine,Substrate,NCCc1cnc2ccccc12
-55186,14780,Feruloyl-CoA,Substrate,COc1cc(ccc1(O))C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(OP(O)(O)=O))n4cnc3c(N)ncnc34
-55187,14780,N-Feruloyltryptamine,Product,COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cccc3
-55192,14782,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-55193,14782,Benzoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4
-55194,14782,Serotonin,Substrate,NCCc1cnc2ccc(O)cc12
-55195,14782,N-Benzoylserotonin,Product,C1=CC=C(C=C1)C(=O)NCCC2=CNC3=C2C=C(C=C3)O
 55196,14783,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 55197,14783,Benzoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4
 55198,14783,Tyramine,Substrate,NCCc1ccc(O)cc1
@@ -19512,18 +18486,10 @@
 55368,14823,D-Gluconate,Product,OCC(O)C(O)C(O)C(O)C(O)=O
 55372,14825,L-Cystine,Substrate,NC(CSSCC(N)C(O)=O)C(O)=O
 55373,14825,L-Cystine,Product,NC(CSSCC(N)C(O)=O)C(O)=O
-55374,14826,Acetate,Product,CC(O)=O
-55375,14826,O-Acetyl-L-serine,Substrate,CC(=O)OCC(N)C(O)=O
-55376,14826,Cyanide,Substrate,(C-)#N
-55377,14826,L-beta-Cyanoalanine,Product,N#CCC(N)C(O)=O
 55378,14827,L-Cysteine,Product,NC(CS)C(O)=O
 55379,14827,Hydrogen sulfide,Substrate,[H]S[H]
 55380,14827,Thiosulfate,Product,OS(=O)(=O)[S-]
 55381,14827,S-Sulfo-L-cysteine,Substrate,NC(CSS(O)(=O)=O)C(O)=O
-55382,14828,Cyanide,Substrate,(C-)#N
-55383,14828,L-beta-Cyanoalanine,Product,N#CCC(N)C(O)=O
-55384,14828,Thiosulfate,Product,OS(=O)(=O)[S-]
-55385,14828,S-Sulfo-L-cysteine,Substrate,NC(CSS(O)(=O)=O)C(O)=O
 55386,14829,H2O,Substrate,[H]O[H]
 55387,14829,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 55388,14829,GTP,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
@@ -19686,12 +18652,6 @@
 55876,14940,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 55877,14940,Ecdysone,Product,[H]C13(CCC4(C)(C(CCC4(O)(C3(=CC(=O)C2([H])(CC(O)C(O)CC12(C)))))C(C)C(O)CCC(C)(C)O))
 55878,14940,3-Dehydroecdysone,Substrate,[H]C14(CC(=O)C(O)CC4(C)(C2CCC3(C)(C(CCC3(O)(C2(=CC1(=O))))C(C)C(O)CCC(C)(C)O)))
-55879,14941,H2O,Substrate,[H]O[H]
-55880,14941,O2,Substrate,O=O
-55881,14941,NH3,Product,[H]N([H])[H]
-55882,14941,H2O2,Product,OO
-55883,14941,D-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-55884,14941,1H-Imidazol-4-yl(oxo)acetic acid,Product,C1=C(NC=N1)C(=O)C(=O)O
 55911,14947,H2O,Substrate,[H]O[H]
 55912,14947,beta-D-Galactose,Product,OCC1OC(O)C(O)C(O)C1(O)
 55913,14947,D-Glucitol,Product,OCC(O)C(O)C(O)C(O)CO
@@ -20178,30 +19138,6 @@
 57393,15316,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
 57394,15316,Mo-molybdopterin cytosine dinucleotide,Product,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O
 57395,15316,Mo-molybdopterin,Substrate,C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O
-57474,15343,Cyanide,Substrate,(C-)#N
-57475,15343,p-Anisaldehyde,Substrate,COc1ccc(C=O)cc1
-57476,15343,(2R)-Hydroxy-2-(4-methoxyphenyl)acetonitrile,Product,COC1=CC=C(C=C1)[C@H](C#N)O
-57477,15344,Benzaldehyde,Substrate,O=Cc1ccccc1
-57478,15344,Cyanide,Substrate,(C-)#N
-57479,15344,(R)-Mandelonitrile,Product,O[C@@H](C#N)c1ccccc1
-57489,15348,Propanal,Substrate,CCC=O
-57490,15348,Cyanide,Substrate,(C-)#N
-57491,15348,(R)-2-Hydroxybutanenitrile,Product,CC[C@H](C#N)O
-57498,15351,Benzaldehyde,Substrate,O=Cc1ccccc1
-57499,15351,Cyanide,Substrate,(C-)#N
-57500,15351,(S)-Mandelonitrile,Product,N#CC(O)c1ccccc1
-57501,15352,Cyanide,Substrate,(C-)#N
-57502,15352,2-Methylbenzaldehyde,Substrate,Cc1ccccc1(C=O)
-57503,15352,(2S)-Hydroxy-(2-methylphenyl)acetonitrile,Product,N#C[C@@H](O)c1ccccc1C
-57543,15366,Cyanide,Substrate,(C-)#N
-57544,15366,"2-Hexenal, (2E)-",Substrate,CCCC=CC=O
-57545,15366,"(E,2S)-2-Hydroxyhept-3-enenitrile",Product,CCC/C=C/[C@@H](C#N)O
-57546,15367,Cyanide,Substrate,(C-)#N
-57547,15367,Heptanal,Substrate,CCCCCCC=O
-57548,15367,(S)-2-Hydroxyoctanenitrile,Product,CCCCCC[C@@H](C#N)O
-57549,15368,Cyanide,Substrate,(C-)#N
-57550,15368,5-Methyl-2-hexanone,Substrate,CC(C)CCC(C)=O
-57551,15368,"(2S)-2-Hydroxy-2,5-dimethylhexanenitrile",Product,CC(C)CC[C@@](C)(C#N)O
 57565,15372,N-(5-Phospho-D-ribosyl)anthranilate,Substrate,OC(=O)c2ccccc2(NC1OC(COP(O)(O)=O)C(O)C1(O))
 57566,15372,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,Product,O[C@H](COP([O-])([O-])=O)[C@@H](O)C(=O)CNc1ccccc1C([O-])=O
 57571,15374,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
@@ -20364,10 +19300,6 @@
 58030,15492,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 58031,15492,4-Fluorobenzoate,Product,OC(=O)c1ccc(F)cc1
 58032,15492,4-Fluorobenzoyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccc(F)cc4
-58041,15495,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
-58042,15495,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-58043,15495,N-Acetyl-5-methoxytryptamine,Product,COc1ccc2ncc(CCNC(C)=O)c2(c1)
-58044,15495,5-Methoxytryptamine,Substrate,COc1ccc2ncc(CCN)c2(c1)
 58045,15496,CTP,Substrate,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 58046,15496,CDP,Product,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 58047,15496,FMN,Product,Cc2cc3N=C1C(=O)NC(=O)N=C1N(CC(O)C(O)C(O)COP(O)(O)=O)c3(cc2(C))
@@ -20430,16 +19362,6 @@
 58237,15539,H2O,Substrate,[H]O[H]
 58238,15539,"1,3-Diphenyl-1,2-propanediol",Product,c1ccc(cc1)CC(C(c2ccccc2)O)O
 58239,15539,2-Benzyl-3-phenyloxirane,Substrate,c1ccc(cc1)CC2C(O2)c3ccccc3
-58256,15545,H2O,Product,[H]O[H]
-58257,15545,L-Cysteine,Substrate,NC(CS)C(O)=O
-58258,15545,O2,Substrate,O=O
-58259,15545,Hercynine,Substrate,C[N+](C)(C)C(Cc1cncn1)C(O)=O
-58260,15545,S-(Hercyn-2-yl)-L-cysteine S-oxide,Product,C[N+](C)(C)[C@@H](Cc1c[nH]c(n1)S(=O)C[C@H](N)C(O)=O)C([O-])=O
-58261,15546,H2O,Product,[H]O[H]
-58262,15546,O2,Substrate,O=O
-58263,15546,gamma-L-Glutamyl-L-cysteine,Substrate,NC(CCC(=O)NC(CS)C(O)=O)C(O)=O
-58264,15546,Hercynine,Substrate,C[N+](C)(C)C(Cc1cncn1)C(O)=O
-58265,15546,N(alpha)-(L-gamma-Glutamyl)-hercynyl-L-cysteine sulfoxide,Product,C[N+](C)(C)[C@@H](Cc1c[nH]c(n1)S(=O)C[C@@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)N)C(=O)[O-]
 58272,15548,H2O,Substrate,[H]O[H]
 58273,15548,L-Carnitinyl-CoA,Product,CC(C)(COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC(=O)C[C@H](C[N+](C)(C)C)O)O
 58274,15548,Crotonobetainyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)\C=C\C[N+](C)(C)C
@@ -20490,22 +19412,6 @@
 58422,15580,H2O,Substrate,[H]O[H]
 58423,15580,D-Ribose 5-phosphate,Product,OC1OC(COP(O)(O)=O)C(O)C1(O)
 58424,15580,D-Ribose 5-diphosphate,Substrate,OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O)
-58425,15581,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-58426,15581,Adenine,Product,Nc1ncnc2ncnc12
-58427,15581,alpha-D-Ribose 1-methylphosphonate 5-triphosphate,Product,CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
-58428,15581,Methylphosphonate,Substrate,CP(=O)([O-])[O-]
-58429,15582,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-58430,15582,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
-58431,15582,alpha-D-Ribose 1-methylphosphonate 5-triphosphate,Product,CP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H](O1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
-58432,15582,Methylphosphonate,Substrate,CP(=O)([O-])[O-]
-58441,15585,ADP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-58442,15585,H2O,Substrate,[H]O[H]
-58443,15585,Adenine,Product,Nc1ncnc2ncnc12
-58444,15585,D-Ribose 5-diphosphate,Product,OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O)
-58445,15586,H2O,Substrate,[H]O[H]
-58446,15586,Guanine,Product,NC=1NC(=O)c2ncnc2(N=1)
-58447,15586,GDP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O)
-58448,15586,D-Ribose 5-diphosphate,Product,OC1OC(COP(O)(=O)OP(O)(O)=O)C(O)C1(O)
 58453,15588,"1,4-Dithiothreitol",Substrate,OC(CS)C(O)CS
 58454,15588,Oxidized dithiothreitol,Product,OC1CSSCC1(O)
 58455,15588,Sulfide,Product,[*]S[*]
@@ -20843,16 +19749,6 @@
 59481,15857,Ethylene glycol,Product,OCCO
 59482,15857,Mono(2-hydroxyethyl) terephthalate,Product,C1=CC(=CC=C1C(=O)[O-])C(=O)OCCO
 59483,15857,Bis(2-hydroxyethyl) terephthalate,Substrate,C1=CC(=CC=C1C(=O)OCCO)C(=O)OCCO
-59492,15860,Protoporphyrinogen IX,Substrate,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-59493,15860,Protoporphyrin IX,Product,C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)
-59494,15860,Menadione,Substrate,CC1=CC(=O)c2ccccc2(C1(=O))
-59495,15860,Menadiol,Product,Cc1cc(O)c2ccccc2(c1(O))
-59496,15861,Protoporphyrinogen IX,Substrate,C=Cc2c(C)c1Cc5nc(Cc4nc(Cc3nc(Cc2(n1))c(C)c3(C=C))c(C)c4(CCC(O)=O))c(CCC(O)=O)c5(C)
-59497,15861,Protoporphyrin IX,Product,C=Cc2c(C)c1cc5nc(cc4nc(cc3nc(cc2(n1))C(C)=C3(C=C))c(C)c4(CCC(=O)O))C(CCC(O)=O)=C5(C)
-59498,15861,Menadione,Substrate,CC1=CC(=O)c2ccccc2(C1(=O))
-59499,15861,Menadiol,Substrate,Cc1cc(O)c2ccccc2(c1(O))
-59503,15863,Hypoxanthine,Substrate,O=C1NC=Nc2ncnc12
-59504,15863,Hypoxanthine,Product,O=C1NC=Nc2ncnc12
 59517,15867,Phosphate,Product,OP(O)(O)=O
 59518,15867,H2O,Substrate,[H]O[H]
 59519,15867,1-Palmitoyllysophosphatidic acid,Substrate,CCCCCCCCCCCCCCCC(=O)OCC(O)COP(O)(O)=O
@@ -20950,13 +19846,6 @@
 59838,15951,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 59839,15951,Coniferyl aldehyde,Substrate,COc1cc(C=CC=O)ccc1(O)
 59840,15951,3-(4-Hydroxy-3-methoxyphenyl)propanal,Product,COC1=C(C=CC(=C1)CCC=O)O
-59850,15954,H+,Substrate,[H]
-59851,15954,H2O,Product,[H]O[H]
-59852,15954,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-59853,15954,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-59854,15954,O2,Substrate,O=O
-59855,15954,Losartan,Substrate,CCCCc4nc(c(CO)n4(Cc1ccc(cc1)c3ccccc3(c2nnnn2)))Cl
-59856,15954,Losartan carboxylic acid,Product,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)O)Cl
 59867,15958,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 59868,15958,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 59869,15958,Phytosphingosine,Substrate,CCCCCCCCCCCCCCC(O)C(O)C(N)CO
@@ -21028,12 +19917,6 @@
 60177,16033,Glycine,Product,NCC(O)=O
 60178,16033,Chloroacetate,Product,OC(=O)CCl
 60179,16033,N-Chloroacetylglycine,Substrate,C(C(=O)O)NC(=O)CCl
-60245,16052,H+,Substrate,[H]
-60246,16052,H+,Product,[H]
-60247,16052,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-60248,16052,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-60249,16052,O2,Substrate,O=O
-60250,16052,O2.-,Product,O=[O-]
 60254,16055,3'-Phosphoadenylyl sulfate,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O))
 60255,16055,3'-Phosphoadenylyl sulfate,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O))
 60258,16057,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
@@ -21114,10 +19997,6 @@
 60457,16097,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 60458,16097,Salicylate,Substrate,OC(=O)c1ccccc1(O)
 60459,16097,Methyl salicylate,Product,COC(=O)c1ccccc1(O)
-60460,16098,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
-60461,16098,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
-60462,16098,Indole-3-acetate,Substrate,OC(=O)Cc1cnc2ccccc12
-60463,16098,Methyl indole-3-acetate,Product,COC(=O)CC1=CNC2=CC=CC=C21
 60484,16105,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 60485,16105,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 60486,16105,Phosphate,Product,OP(O)(O)=O
@@ -21175,23 +20054,6 @@
 60609,16135,L-Alanine,Product,CC(N)C(O)=O
 60610,16135,L-Cysteine,Substrate,NC(CS)C(O)=O
 60611,16135,Sulfide,Product,[*]S[*]
-60632,16141,H2O,Substrate,[H]O[H]
-60633,16141,Formate,Product,OC=O
-60634,16141,Formaldehyde,Substrate,[H]C([H])=O
-60635,16141,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-60636,16141,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-60640,16143,Propanal,Product,CCC=O
-60641,16143,1-Propanol,Substrate,CCCO
-60642,16143,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-60643,16143,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-60644,16144,Butanal,Product,[H]C(=O)CCC
-60645,16144,1-Butanol,Substrate,CCCCO
-60646,16144,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-60647,16144,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-60652,16146,Phenylacetaldehyde,Product,O=CCc1ccccc1
-60653,16146,PQQ,Substrate,OC(=O)c1cc(C(O)=O)c3c(n1)C(=O)C(=O)c2cc(nc23)C(O)=O
-60654,16146,PQQH2,Product,OC(=O)c1cc(C(O)=O)c3c(n1)c(O)c(O)c2cc(nc23)C(O)=O
-60655,16146,Phenethyl alcohol,Substrate,OCCc1ccccc1
 60661,16149,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 60662,16149,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 60663,16149,Squalene,Substrate,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C
@@ -21205,10 +20067,6 @@
 60683,16153,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 60684,16153,3-Oxoadipate,Substrate,OC(=O)CCC(=O)CC(O)=O
 60685,16153,3-Hydroxy-3-carboxymethyl adipic acid,Product,C(CC(CC(=O)O)(CC(=O)O)O)C(=O)O
-60686,16154,H2O,Substrate,[H]O[H]
-60687,16154,Methanol,Product,CO
-60688,16154,Indole-3-acetic acid,Product,OC(=O)Cc1cnc2ccccc12
-60689,16154,Methyl indole-3-acetate,Substrate,COC(=O)CC1=CNC2=CC=CC=C21
 60690,16155,H+,Substrate,[H]
 60691,16155,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 60692,16155,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
@@ -21245,10 +20103,6 @@
 60764,16171,H+,Substrate,[H]
 60765,16171,"5,5'-Dithiobis(2-nitrobenzoic acid)",Substrate,c1cc(c(cc1SSc2ccc(c(c2)C(=O)O)[N+](=O)[O-])C(=O)O)[N+](=O)[O-]
 60766,16171,2-Nitro-5-thiobenzoic acid,Product,c1cc(c(cc1S)C(=O)O)[N+](=O)[O-]
-60767,16172,H+,Substrate,[H]
-60768,16172,H+,Product,[H]
-60769,16172,Xanthine,Substrate,O=C1NC(=O)c2ncnc2(N1)
-60770,16172,Xanthine,Product,O=C1NC(=O)c2ncnc2(N1)
 60771,16173,CTP,Substrate,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)
 60772,16173,sn-Glycerol 3-phosphate,Product,OCC(O)COP(O)(O)=O
 60773,16173,CDP,Product,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O)
@@ -21312,10 +20166,6 @@
 60880,16197,L-Tyrosine,Substrate,NC(Cc1ccc(O)cc1)C(O)=O
 60881,16197,3-(4-Hydroxyphenyl)pyruvate,Product,Oc1ccc(cc1)CC(=O)C(O)=O
 60882,16197,4-Methylthio-2-oxobutanoate,Substrate,CSCCC(=O)C(O)=O
-60883,16198,L-Methionine,Product,CSCCC(N)C(O)=O
-60884,16198,L-Tryptophan,Substrate,NC(Cc1cnc2ccccc12)C(O)=O
-60885,16198,Indole-3-pyruvate,Product,OC(=O)C(=O)Cc1cnc2ccccc12
-60886,16198,4-Methylthio-2-oxobutanoate,Substrate,CSCCC(=O)C(O)=O
 60887,16199,L-Aspartic acid,Product,NC(CC(O)=O)C(O)=O
 60888,16199,L-Tyrosine,Substrate,NC(Cc1ccc(O)cc1)C(O)=O
 60889,16199,Oxaloacetate,Substrate,OC(=O)CC(=O)C(O)=O
@@ -21387,18 +20237,6 @@
 61071,16244,4-Aminobenzoyl-AMP,Product,C1=CC(=CC=C1C(=O)OP(=O)([O-])OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)O)N
 61083,16249,D-Sedoheptulose 7-phosphate,Substrate,OCC(=O)C(O)C(O)C(O)C(O)COP(O)(O)=O
 61084,16249,D-Glycero-D-manno-heptose 7-phosphate,Product,OC(COP(O)(O)=O)C1OC(O)C(O)C(O)C1(O)
-61085,16250,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-61086,16250,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-61087,16250,Phosphate,Product,OP(O)(O)=O
-61088,16250,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-61089,16250,beta-Alanine,Substrate,NCCC(O)=O
-61090,16250,Carnosine,Product,NCCC(=O)NC(Cc1cncn1)C(O)=O
-61091,16251,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-61092,16251,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-61093,16251,Phosphate,Product,OP(O)(O)=O
-61094,16251,L-Histidine,Substrate,NC(Cc1cncn1)C(O)=O
-61095,16251,4-Aminobutanoate,Substrate,NCCCC(O)=O
-61096,16251,Homocarnosine,Product,NCCCC(=O)NC(Cc1cncn1)C(O)=O
 61097,16252,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 61098,16252,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
 61099,16252,Phosphate,Product,OP(O)(O)=O
@@ -21421,20 +20259,6 @@
 61124,16257,Dimethylamine,Substrate,CNC
 61125,16257,2-Mercaptoethanesulfonate,Substrate,OS(=O)(=O)CCS
 61126,16257,2-(Methylthio)ethanesulfonate,Product,CSCCS(O)(=O)=O
-61127,16258,H+,Substrate,[H]
-61128,16258,H2O,Product,[H]O[H]
-61129,16258,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-61130,16258,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-61131,16258,O2,Substrate,O=O
-61132,16258,Geissoschizine,Substrate,[H]C24(CC(C(=CC)CN4(CCc1c3ccccc3(nc12)))C(C=O)C(=O)OC)
-61133,16258,Polyneuridine aldehyde,Product,[H]C25(CC4C(=CC)CN5(C(Cc1c3ccccc3(nc12))C4(C=O)(C(=O)OC)))
-61134,16259,H+,Substrate,[H]
-61135,16259,H2O,Product,[H]O[H]
-61136,16259,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-61137,16259,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-61138,16259,O2,Substrate,O=O
-61139,16259,Alstonine,Product,[H]C23(C[n+]4ccc1c5ccccc5([n-]c1c4(CC3([H])(C(=COC2(C))C(=O)OC))))
-61140,16259,Tetrahydroalstonine,Substrate,[H]C24(CC5([H])(C(=COC(C)C5([H])(CN4(CCc1c3ccccc3(nc12))))C(=O)OC))
 61141,16260,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
 61142,16260,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 61143,16260,Thiocyanate,Substrate,N#CS
