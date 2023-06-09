@@ -11321,11 +11321,6 @@ SabioReactionID,Name,Role,Smiles
 6733,L-Alanine,Product,CC(N)C(O)=O
 6733,beta-Benzoyl-L-alanine,Substrate,c1ccc(cc1)C(=O)NCCC(=O)O
 6733,Benzoate,Product,OC(=O)c1ccccc1
-6736,Butanoyl-CoA,Substrate,CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6736,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6736,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6736,Crotonoyl-CoA,Product,CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6736,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 6737,H2O,Product,[H]O[H]
 6737,O2,Substrate,O=O
 6737,H+,Substrate,[H]
@@ -11333,21 +11328,11 @@ SabioReactionID,Name,Role,Smiles
 6737,7-Hydroxycoumarin,Product,Oc1ccc2C=CC(=O)Oc2(c1)
 6737,Coumarin,Substrate,O=C1C=Cc2ccccc2(O1)
 6737,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-6738,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6738,Decanoyl-CoA,Substrate,CCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6738,trans-Dec-2-enoyl-CoA,Product,CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6738,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6738,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 6740,H+,Substrate,[H]
 6740,D-Erythrose,Substrate,OC1COC(O)C1(O)
 6740,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 6740,Erythrol,Product,OCC(O)C(O)CO
 6740,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-6744,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6744,Hexanoyl-CoA,Substrate,CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6744,trans-Hex-2-enoyl-CoA,Product,CCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6744,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6744,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 6746,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 6746,H2O,Substrate,[H]O[H]
 6746,Dodecanoic acid,Product,CCCCCCCCCCCC(O)=O
@@ -11362,11 +11347,6 @@ SabioReactionID,Name,Role,Smiles
 6753,Glycol,Product,OCCO
 6753,Glycolaldehyde,Substrate,OCC=O
 6753,H+,Substrate,[H]
-6761,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6761,trans-Oct-2-enoyl-CoA,Product,CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6761,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6761,Octanoyl-CoA,Substrate,CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6761,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 6769,H2O,Substrate,[H]O[H]
 6769,4-Nitrophenol,Product,Oc1ccc(cc1)[N+](=O)[O-]
 6769,Bis-4-nitrophenyl phosphate,Substrate,O=[N+]([O-])c1ccc(cc1)OP(O)(=O)Oc2ccc(cc2)[N+](=O)[O-]
@@ -11411,26 +11391,6 @@ SabioReactionID,Name,Role,Smiles
 6793,Dodecanoic acid,Product,CCCCCCCCCCCC(O)=O
 6793,Dodecanal,Substrate,[H]C(=O)CCCCCCCCCCC
 6793,H+,Product,[H]
-6806,Palmitoyl-CoA,Substrate,CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6806,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6806,trans-Hexadec-2-enoyl-CoA,Product,CCCCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6806,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6806,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-6808,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6808,2-trans-Dodecenoyl-CoA,Product,CCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6808,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6808,Lauroyl-CoA,Substrate,CCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6808,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-6814,Stearoyl-CoA,Substrate,CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6814,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6814,trans-Oct-2-enoyl-CoA,Product,CCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6814,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6814,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-6817,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-6817,trans-Tetradec-2-enoyl-CoA,Product,CCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6817,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-6817,Myristoyl-CoA,Substrate,CCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-6817,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 6828,NH3,Product,[H]N([H])[H]
 6828,Benzyloxycarbonyl-Gln-Gly,Substrate,C1=CC=C(C=C1)COC(=O)N[C@@H](CCC(=O)N)C(=O)NCC(=O)O
 6828,Protein N5-alkylglutamine,Product,[*]NC(=O)CCC(NC([*])=O)C(=O)N[*]
@@ -11620,10 +11580,6 @@ SabioReactionID,Name,Role,Smiles
 7059,L-alpha-Aminobutyrate,Product,CCC(N)C(O)=O
 7059,L-alpha-Methyl glutamate,Product,C[C@@](CCC(=O)O)(C(=O)O)N
 7059,L-alpha-Methyl-gamma-glutamyl-L-alpha-aminobutyrate,Substrate,CC(CC(=O)O)[C@@H](C(=O)CC[C@H](C(=O)O)N)N
-7083,"Adenosine 3',5'-bisphosphate",Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(OP(O)(O)=O)C2(O))
-7083,Dopamine sulfate,Product,c1cc(c(cc1CCN)O)O.OS(=O)(=O)O
-7083,3'-Phosphoadenylyl sulfate,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OS(O)(=O)=O)C(OP(O)(O)=O)C2(O))
-7083,Dopamine,Substrate,NCCc1ccc(O)c(O)c1
 7087,L-Threonine,Substrate,CC(O)C(N)C(O)=O
 7087,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 7087,Acetyl-CoA,Substrate,CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
@@ -12529,10 +12485,6 @@ SabioReactionID,Name,Role,Smiles
 8016,Chloral hydrate,Substrate,OC(O)C(Cl)(Cl)Cl
 8016,NADPH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 8016,H+,Product,[H]
-8017,H2O,Substrate,[H]O[H]
-8017,Valacyclovir,Substrate,CC(C)C(N)C(=O)OCCOCn2cnc1C(=O)NC(N)=Nc12.Cl
-8017,L-Valine,Product,CC(C)C(N)C(O)=O
-8017,Acyclovir,Product,NC=1NC(=O)c2ncn(COCCO)c2(N=1)
 8024,O2,Substrate,O=O
 8024,Phenyllactate,Substrate,OC(=O)C(O)Cc1ccccc1
 8024,H2O2,Product,OO
@@ -14958,10 +14910,6 @@ SabioReactionID,Name,Role,Smiles
 11371,[Acyl-carrier protein],Product,[*]S
 11371,1-Palmitoylglycerol 3-phosphate,Product,CCCCCCCCCCCCCCCC(=O)OCC(O)COP(O)(O)=O
 11371,Hexadecanoyl-[acp],Substrate,[*]SC(=O)CCCCCCCCCCCCCCC
-11373,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-11373,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-11373,9-beta-D-Arabinofuranosyladenine,Substrate,Nc3ncnc1c3(ncn1C2OC(CO)C(O)C2(O)).O
-11373,9-beta-D-Arabinofuranosyladenine 5'-monophosphate,Product,c1nc(c2c(n1)n(cn2)[C@H]3[C@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 11382,Polyphosphate,Product,[*]OP(O)(=O)O[*]
 11382,Phosphate,Product,OP(O)(O)=O
 11382,H2O,Substrate,[H]O[H]
@@ -15327,11 +15275,6 @@ SabioReactionID,Name,Role,Smiles
 11864,Ethanol,Product,CCO
 11864,4-Aminobenzoic acid,Product,Nc1ccc(cc1)C(O)=O
 11864,Ethyl aminobenzoate,Substrate,CCOC(=O)c1ccc(N)cc1
-11868,H2O,Substrate,[H]O[H]
-11868,Formate,Product,OC=O
-11868,Formaldehyde,Substrate,[H]C([H])=O
-11868,Methyl viologen,Substrate,C[n+]1ccc(cc1)c2cc[n+](C)cc2.[Cl-].[Cl-]
-11868,Reduced methyl viologen,Product,CN1C=CC(C=C1)C2C=CN(C=C2)C
 11883,dAMP,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1))
 11883,GDP,Product,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(O)=O)C(O)C3(O)
 11883,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
@@ -16058,8 +16001,6 @@ SabioReactionID,Name,Role,Smiles
 12470,Dichloroacetate,Product,OC(=O)C(Cl)Cl
 12471,D-Lactate,Substrate,CC(O)C(O)=O
 12471,D-Lactate,Product,CC(O)C(O)=O
-12473,L-2-Chloropropanoate,Substrate,C[C@@H](C(=O)[O-])Cl.[Na+]
-12473,L-2-Chloropropanoate,Product,C[C@@H](C(=O)[O-])Cl.[Na+]
 12475,2-Oxobutyrate,Substrate,CCC(=O)C(O)=O
 12475,2-Oxobutyrate,Product,CCC(=O)C(O)=O
 12476,3-Oxobutyrate,Substrate,CC(=O)CC(O)=O
@@ -16699,14 +16640,6 @@ SabioReactionID,Name,Role,Smiles
 13083,O2,Substrate,O=O
 13083,trans-5-O-(4-Coumaroyl)shikimate,Substrate,Oc1ccc(cc1)C=CC(=O)OC2CC(=CC(O)C2(O))C(=O)O
 13083,5-O-Caffeoylshikimic acid,Product,O=C(O)C1=CC(O)C(O)C(C1)OC(=O)C=Cc2ccc(O)c(O)c2
-13091,H2O,Product,[H]O[H]
-13091,NADPH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-13091,NADP+,Product,NC(=O)c1ccc[n+](c1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(OP(O)(O)=O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
-13091,O2,Substrate,O=O
-13091,Fe2+,Product,[Fe+2]
-13091,CO,Product,[C-]#[O+]
-13091,Hematobiliverdin,Product,CC1=C(C(=CC2=C(C(=C(N2)C=C3C(=C(C(=CC4=NC(=O)C(=C4C)C(C)O)N3)C(C)O)C)C)CCC(=O)O)NC1=O)CCC(=O)O
-13091,Hematoheme,Substrate,[H+].[H+].Cc1/c/2c/c3n/c(c\c4n/c(c\c5c(c(c([n-]5)/cc(/c1CCC(=O)[O-])\[n-]2)CCC(=O)[O-])C)/C(=C4C)C(C)O)/C(=C3C)C(C)O.[Fe+2]
 13098,gamma-Aminobutyrate,Substrate,NCCCC(O)=O
 13098,gamma-Aminobutyrate,Product,NCCCC(O)=O
 13101,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
@@ -16759,10 +16692,6 @@ SabioReactionID,Name,Role,Smiles
 13154,H+,Substrate,[H]
 13154,Ubiquinol,Product,COc1c(O)c(C)c(CC=C(C)CCC=C(C)C)c(O)c1(OC)
 13154,Ubiquinone-10,Substrate,COC=1C(=O)C(C)=C(CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C(=O)C=1(OC)
-13156,H2O,Substrate,[H]O[H]
-13156,Carboxymethylcellulose,Substrate,CC(=O)O.C(C(C(C(C(C=O)O)O)O)O)O
-13156,Carboxymethylcellulose,Product,CC(=O)O.C(C(C(C(C(C=O)O)O)O)O)O
-13156,Carboxymethylcellulose,Product,CC(=O)O.C(C(C(C(C(C=O)O)O)O)O)O
 13158,alpha-D-Glucose 6-phosphate,Product,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)OP(=O)(O)O
 13158,H2O,Substrate,[H]O[H]
 13158,D-Fructose,Product,OCC1OC(O)(CO)C(O)C1(O)
@@ -17141,10 +17070,6 @@ SabioReactionID,Name,Role,Smiles
 13502,S-Adenosyl-L-homocysteine,Product,NC(CCSCC1OC(C(O)C1(O))n3cnc2c(N)ncnc23)C(O)=O
 13502,"1-(3-Chloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one",Product,CCCCCC(=O)c1c(cc(c(c1O)Cl)OC)O
 13502,"1-(3-Chloro-2,4,6-trihydroxyphenyl)hexan-1-one",Substrate,CCCCCC(=O)c1c(cc(c(c1O)Cl)O)O
-13505,H+,Substrate,[H]
-13505,H+,Product,[H]
-13505,Methyl viologen,Substrate,C[n+]1ccc(cc1)c2cc[n+](C)cc2.[Cl-].[Cl-]
-13505,Methyl viologen,Product,C[n+]1ccc(cc1)c2cc[n+](C)cc2.[Cl-].[Cl-]
 13525,H2O,Substrate,[H]O[H]
 13525,N-Acetylneuraminate,Product,CC(=O)NC1C(O)CC(O)(OC1(C(O)C(O)CO))C(O)=O
 13525,D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide,Product,[*]C(=O)NC(COC5OC(CO)C(OC4OC(CO)C(OC2OC(CO)C(O)C(OC1OC(CO)C(O)C(O)C1(O))C2(NC(C)=O))C(OC3(CC(O)C(NC(C)=O)C([H])(O3)C(O)C(O)CO)C(O)=O)C4(O))C(O)C5(O))C(O)C=CCCCCCCCCCCCCC
@@ -17812,10 +17737,6 @@ SabioReactionID,Name,Role,Smiles
 14210,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
 14210,"(2E,6E)-Farnesyl diphosphate",Substrate,CC(C)=CCCC(C)=CCCC(C)=CCOP(O)(=O)OP(O)(O)=O
 14210,beta-Cubebene,Product,[H]C13(C(=C)CCC23(C(C)CCC(C(C)C)C12([H])))
-14212,H2O,Substrate,[H]O[H]
-14212,Cysteine,Product,NC(CS)C(O)=O
-14212,Glucosamine malate,Product,O=C(O)CC(O)C(=O)O.O[C@H]1[C@H](O)[C@H](O[C@@H](O)[C@@H]1N)CO
-14212,Bacillithiol,Substrate,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H](CC(=O)O)C(=O)O)NC(=O)[C@H](CS)N)O)O)O
 14223,H2O,Substrate,[H]O[H]
 14223,NH3,Product,[H]N([H])[H]
 14223,"2,4-Dihydroxy-6-hydroxymethylpteridine",Product,c1c(nc2c(n1)[nH]c(=O)[nH]c2=O)CO
@@ -18106,11 +18027,6 @@ SabioReactionID,Name,Role,Smiles
 14467,H+,Substrate,[H]
 14467,Propanoyl-CoA,Product,CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
 14467,Acryloyl-CoA,Substrate,C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-14469,Propanoyl-CoA,Substrate,CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-14469,Acryloyl-CoA,Product,C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23
-14469,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-14469,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-14469,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 14472,Arsenate,Substrate,O[As](O)(O)=O
 14472,Arsenate,Product,O[As](O)(O)=O
 14473,H+,Substrate,[H]
@@ -18132,18 +18048,6 @@ SabioReactionID,Name,Role,Smiles
 14522,H2O2,Product,OO
 14522,Hexadecanal,Product,[H]C(=O)CCCCCCCCCCCCCCC
 14522,1-Hexadecanol,Substrate,CCCCCCCCCCCCCCCCO
-14523,H+,Substrate,[H]
-14523,H2O,Product,[H]O[H]
-14523,NH3,Product,[H]N([H])[H]
-14523,Nitrite,Substrate,ON=O
-14523,Methyl viologen,Product,C[n+]1ccc(cc1)c2cc[n+](C)cc2.[Cl-].[Cl-]
-14523,Reduced methyl viologen,Substrate,CN1C=CC(C=C1)C2C=CN(C=C2)C
-14524,H+,Substrate,[H]
-14524,H2O,Product,[H]O[H]
-14524,NH3,Product,[H]N([H])[H]
-14524,Hydroxylamine,Substrate,NO
-14524,Methyl viologen,Product,C[n+]1ccc(cc1)c2cc[n+](C)cc2.[Cl-].[Cl-]
-14524,Reduced methyl viologen,Substrate,CN1C=CC(C=C1)C2C=CN(C=C2)C
 14527,CMP,Product,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(O)=O)C(O)C2(O)
 14527,CMP-3-deoxy-D-manno-octulosonate,Substrate,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OCC(O)C(O)C(O)C(O)CC(=O)C(O)=O)C(O)C2(O)
 14527,Lipid IV(A),Substrate,CCCCCCCCCCCC(O)CC(=O)NC2C(OCC1OC(OP(=O)(O)O)C(NC(=O)CC(O)CCCCCCCCCCC)C(OC(=O)CC(O)CCCCCCCCCCC)C1(O))OC(COP(O)(O)=O)C(O)C2(OC(=O)CC(O)CCCCCCCCCCC)
@@ -18510,10 +18414,6 @@ SabioReactionID,Name,Role,Smiles
 14836,2'-Deoxyadenosine 5'-phosphate,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1))
 14836,Single-stranded DNA,Substrate,[*]C3CC(OP(O)(O)=O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(COP(O)(O)=O)))O3
 14836,Single-stranded DNA,Product,[*]C3CC(OP(O)(O)=O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(COP(O)(O)=O)))O3
-14837,H2O,Substrate,[H]O[H]
-14837,2'-Deoxyadenosine 5'-phosphate,Product,Nc3ncnc2c3(ncn2(C1CC(O)C(COP(O)(O)=O)O1))
-14837,Double-stranded DNA,Substrate,[*]C3CC(O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(CO)))O3.[*]C3CC(O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(CO)))O3
-14837,Double-stranded DNA,Product,[*]C3CC(O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(CO)))O3.[*]C3CC(O)C(COP(O)(=O)OC2CC([*])OC2(COP(O)(=O)OC1CC([*])OC1(CO)))O3
 14838,H2O,Substrate,[H]O[H]
 14838,Adenosine 5'-phosphate,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(O)=O)C(O)C2(O))
 14838,RNA,Substrate,[*]C3OC(COP(O)(=O)OC2C(O)C([*])OC2(COP(O)(=O)OC1C(O)C([*])OC1(COP(O)(O)=O)))C(O)C3(O)
@@ -19104,11 +19004,6 @@ SabioReactionID,Name,Role,Smiles
 15293,UDP-glucuronate,Substrate,O=C1C=CN(C(=O)N1)C3OC(COP(O)(=O)OP(O)(=O)OC2OC(C(O)=O)C(O)C(O)C2(O))C(O)C3(O)
 15293,SN-38,Substrate,CCc4c5cc(O)ccc5(nc1c4(CN2C(=O)C=3COC(=O)C(O)(CC)C=3(C=C12)))
 15293,SN38 glucuronide,Product,CCc4c5cc(ccc5(nc1c4(CN2C(=O)C=3COC(=O)C(O)(CC)C=3(C=C12))))OC6OC(C(O)=O)C(O)C(O)C6(O)
-15295,H+,Substrate,[H]
-15295,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-15295,CTP,Substrate,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-15295,Mo-molybdopterin cytosine dinucleotide,Product,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O
-15295,Mo-Molybdopterin,Substrate,C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O
 15304,NAD+,Product,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 15304,NADH,Substrate,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 15304,H+,Substrate,[H]
@@ -19126,18 +19021,6 @@ SabioReactionID,Name,Role,Smiles
 15313,Methanol,Product,CO
 15313,Benzoate,Product,OC(=O)c1ccccc1
 15313,Methylbenzoate,Substrate,CC1=CC=CC=C1C(=O)[O-]
-15314,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-15314,CTP,Substrate,NC=1C=CN(C(=O)N=1)C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O)
-15314,Mo-molybdopterin cytosine dinucleotide,Product,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O
-15314,Mo-molybdopterin,Substrate,C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O
-15315,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-15315,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
-15315,Mo-molybdopterin,Substrate,C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O
-15315,Mo-molybdopterin guanine dinucleotide,Product,C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)([O-])OP(=O)([O-])OC[C@@H]4C(=C([C@H]5[C@@H](O4)NC6=C(N5)C(=O)NC(=N6)N)[S-])[S-])O)O)N=C(NC2=O)N.O=[Mo+2]=O
-15316,Diphosphate,Product,OP(O)(=O)OP(O)(O)=O
-15316,GTP,Substrate,NC=1NC(=O)c2ncn(c2(N=1))C3OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C3(O)
-15316,Mo-molybdopterin cytosine dinucleotide,Product,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3C(=C([C@H]4[C@@H](O3)NC5=C(N4)C(=O)NC(=N5)N)[S-])[S-])O)O.O=[Mo+2]=O
-15316,Mo-molybdopterin,Substrate,C([C@@H]1C(=C([C@H]2[C@@H](O1)NC3=C(N2)C(=O)NC(=N3)N)[S-])[S-])OP(=O)(O)O.O=[Mo+2]=O
 15372,N-(5-Phospho-D-ribosyl)anthranilate,Substrate,OC(=O)c2ccccc2(NC1OC(COP(O)(O)=O)C(O)C1(O))
 15372,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,Product,O[C@H](COP([O-])([O-])=O)[C@@H](O)C(=O)CNc1ccccc1C([O-])=O
 15374,S-Adenosyl-L-methionine,Substrate,C[S+](CCC(N)C(O)=O)CC1OC(C(O)C1(O))n3cnc2c(N)ncnc23
@@ -19621,21 +19504,6 @@ SabioReactionID,Name,Role,Smiles
 15713,"7,8-Dihydromonapterin 3'-triphosphate",Product,C1C(=NC2=C(N1)N=C(NC2=O)N)[C@@H]([C@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O)O
 15715,Benzaldehyde,Substrate,O=Cc1ccccc1
 15715,(R)-Benzoin,Product,C1=CC=C(C=C1)[C@H](C(=O)C2=CC=CC=C2)O
-15716,Cyclohex-1-ene-1-carboxyl-CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=4CCCCC=4
-15716,Cyclohexane-1-carboxyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C4CCCCC4
-15716,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-15716,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-15716,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-15717,"Cyclohexa-1,5-diene-1-carbonyl-CoA",Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=4C=CCCC=4
-15717,Cyclohex-1-ene-1-carboxyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=4CCCCC=4
-15717,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-15717,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-15717,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
-15718,Benzoyl-CoA,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)c4ccccc4
-15718,"Cyclohexa-1,5-diene-1-carbonyl-CoA",Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)C=4C=CCCC=4
-15718,Ferricenium hexafluorophosphate,Substrate,[CH-]1C=CC=C1.[CH-]1C=CC=C1.F[P-](F)(F)(F)(F)F.[Fe+3]
-15718,Ferrocene,Product,[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
-15718,Hexafluorophosphate,Product,F[P-](F)(F)(F)(F)F
 15731,NAD+,Substrate,c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)C(=O)N
 15731,NADH,Product,NC(=O)C=1CC=CN(C=1)C5OC(COP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O)
 15731,H+,Product,[H]
@@ -19685,10 +19553,6 @@ SabioReactionID,Name,Role,Smiles
 15806,Iodide,Substrate,[I-]
 15806,O2,Substrate,O=O
 15806,Iodine,Product,II
-15812,O2,Substrate,O=O
-15812,4-(Dimethylamino)phenol,Product,CN(C)C1=CC=C(C=C1)O
-15812,4-(Dimethylamino)benzophenone,Product,CN(C)C1=CC=C(C=C1)C(=O)C2=CC=CC=C2
-15812,Malachite green,Substrate,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3.[Cl-]
 15814,Coenzyme A,Product,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCS
 15814,Succinyl-CoA,Substrate,CC(C)(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1(OP(O)(O)=O))n3cnc2c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(O)=O
 15814,O-Succinyl-D-homoserine,Product,C(COC(=O)CCC(=O)O)[C@@H](C(=O)O)N
@@ -20665,20 +20529,6 @@ SabioReactionID,Name,Role,Smiles
 16493,NH3,Product,[H]N([H])[H]
 16493,5-Phosphonooxy-L-lysine,Substrate,NCC(CCC(N)C(O)=O)OP(O)(O)=O
 16493,2-Aminoadipate 6-semialdehyde,Product,C(CC=O)C[C@@H](C(=O)O)N
-16494,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-16494,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-16494,Phosphate,Product,OP(O)(O)=O
-16494,H+,Product,[H]
-16494,H2O,Substrate,[H]O[H]
-16494,Hemin,Substrate,CC1=C(C2=CC3=NC(=CC4=C(C(=C([N-]4)C=C5C(=C(C(=N5)C=C1N2)C=C)C)C)CCC(=O)[O-])C(=C3C)CCC(=O)[O-])C=C.Cl.[Fe+3]
-16494,Hemin,Product,CC1=C(C2=CC3=NC(=CC4=C(C(=C([N-]4)C=C5C(=C(C(=N5)C=C1N2)C=C)C)C)CCC(=O)[O-])C(=C3C)CCC(=O)[O-])C=C.Cl.[Fe+3]
-16497,ATP,Substrate,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-16497,ADP,Product,Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(O)=O)C(O)C2(O))
-16497,Phosphate,Product,OP(O)(O)=O
-16497,H+,Product,[H]
-16497,H2O,Substrate,[H]O[H]
-16497,Fe-coproporphyrin III,Substrate,Cc1/c/2c/c3n/c(c\c4c(c(c([n-]4)/cc/5\nc(/cc(/c1CCC(=O)O)\[n-]2)C(=C5C)CCC(=O)O)CCC(=O)O)C)/C(=C3C)CCC(=O)O.[Fe+2]
-16497,Fe-coproporphyrin III,Product,Cc1/c/2c/c3n/c(c\c4c(c(c([n-]4)/cc/5\nc(/cc(/c1CCC(=O)O)\[n-]2)C(=C5C)CCC(=O)O)CCC(=O)O)C)/C(=C3C)CCC(=O)O.[Fe+2]
 16502,5'-Phosphoribosylglycinamide,Substrate,NCC(=O)NC1OC(COP(O)(O)=O)C(O)C1(O)
 16502,5'-Phosphoribosyl-N-formylglycinamide,Product,O=CNCC(=O)NC1OC(COP(O)(O)=O)C(O)C1(O)
 16502,Folate,Product,NC=2NC(=O)c3nc(CNc1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O)cnc3(N=2)
