@@ -26,7 +26,7 @@
     "crossval_index_file": null,
     "crossval_index_sets": null,
     "cuda": false,
-    "data_path": "/Users/annacano/Documents/Doc/TFM/github/TFM_scripts/data/final.csv",
+    "data_path": "/Users/annacano/Documents/Doc/TFM/github/TFM_scripts/data/EC1.csv",
     "data_weights_path": null,
     "dataset_type": "classification",
     "depth": 3,
@@ -89,8 +89,8 @@
     "reaction_mode": "reac_prod",
     "reaction_solvent": false,
     "reproducibility": {
-        "command_line": "python /opt/anaconda3/envs/tfm/bin/chemprop_train --data_path /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/data/final.csv --dataset_type classification --save_dir /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/df1_checkpoint --reaction --reaction_mode reac_prod --explicit_h --target_columns ECNumber",
-        "time": "Wed Jun  7 20:24:48 2023"
+        "command_line": "python /opt/anaconda3/envs/chemprop/bin/chemprop_train --data_path /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/data/EC1.csv --dataset_type classification --save_dir /Users/annacano/Documents/Doc/TFM/github/TFM_scripts/df1_checkpoint --reaction --reaction_mode reac_prod --explicit_h --target_columns ECNumber",
+        "time": "Sat Jun 10 10:59:56 2023"
     },
     "resume_experiment": false,
     "save_dir": "/Users/annacano/Documents/Doc/TFM/github/TFM_scripts/df1_checkpoint",
@@ -109,7 +109,7 @@
     "separate_val_phase_features_path": null,
     "show_individual_scores": false,
     "smiles_columns": [
-        "2"
+        "Reaction"
     ],
     "spectra_activation": "exp",
     "spectra_phase_mask_path": null,
